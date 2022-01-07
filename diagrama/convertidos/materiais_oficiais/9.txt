@@ -1,0 +1,1147 @@
+﻿	TERPLANC - TERRAPLENAGEM  PLANEJAMENTO CONSTRUÇÃO E SEVIÇOS  EIRELE - EPP												
+													
+													
+													
+		PREFEITURA MUNICIPAL DE SÃO MIGUEL DO GUAMÁ											
+		OBRA: REFORMA E AMPLIAÇÃO											
+		ESCOLA:  E.M.E.F. IZAURA DOMINGAS COSTA											
+		LOCAL: BELA VISTA											
+		PRAZO DE EXECUÇÃO:  120 DIAS											0,125
+													
+		COMPOSIÇÃO DE CUSTO UNITÁRIO											1,000
+										23,40%	148,42		
+	ITEM	SERVIÇO / DESCRIÇÃO	UNID.	" PREÇO
+UNIT. (R$) "		 Qtd. / Coef. 	 PREÇO Total (R$) 			BDI	L. S		
+							 M. OBRA 	 MAT. 		0,2340	1,4842		
+	1.1	Barracão de madeira (incl. instalações)	M2							0,2340	1,4842		
+		CONCRETO FCK=15MPA, PREPARO COM BETONEIRA, SEM LANCAMENTO	M³	 365,63 	 365,63 	 0,0150 		 5,48 		0,2340	1,4842		
+		"PINHO DE TERCEIRA 1"" X 12"" E 1"" X 9"""	M²	 30,90 	 30,90 	 1,0200 		 31,52 		0,2340	1,4842		
+		PISO CIMENTADO E=1,5CM C/ARGAMASSA 1:3 CIMENTO AREIA ALISADO COLHER SOBRE BASE EXISTENTE.	M²	 27,46 	 27,46 	 1,0000 		 27,46 		0,2340	1,4842		
+		LANCAMENTO/APLICACAO MANUAL DE CONCRETO EM ESTRUTURAS	M³	 82,16 	 82,16 	 0,0150 		 1,23 		0,2340	1,4842		
+		CHAPA DE MADEIRA COMPENSADA PLASTIFICADA PARA FORMA DE CONCRETO, DE *2,44 X 1,22* M, E = 10 MM	M²	 19,34 	 19,34 	 0,3860 		 0,29 		0,2340	1,4842		
+		"CONJUNTO ARRUELAS DE VEDACAO 5/16"" PARA TELHA FIBROCIMENTO (UMA ARRUELA METALICA E UMA ARRUELA PVC - CONICAS)"	CJ	 0,14 	 0,14 	 0,2140 		 0,05 		0,2340	1,4842		
+		DISJUNTOR TIPO NEMA, MONOPOLAR 10 ATE 30A	Un	 7,69 	 7,69 	 0,0057 		 1,65 		0,2340	1,4842		
+		"PECA DE MADEIRA NATIVA/REGIONAL 7,5 X 12,50 CM (3X5"") NÃO APARELHADA (P/FORMA)"	M	 6,07 	 6,07 	 0,7000 		 0,03 		0,2340	1,4842		
+		PREGO POLIDO COM CABECA 18 X 30	KG	 7,21 	 7,21 	 0,1000 		 6,49 		0,2340	1,4842		
+		CADEADO LATAO CROMADO H = 35MM / 5 PINOS / HASTE CROMADA H = 30MM	Un	 17,62 	 17,62 	 0,0058 		 1,76 		0,2340	1,4842		
+		PORTA CADEADO ZINCADO OXIDADO PRETO	Un	 5,28 	 5,28 	 0,0058 		 0,03 		0,2340	1,4842		
+		TELHA DE FIBROCIMENTO ONDULADA E = 6 MM, DE *2,44 X 1,10* M (SEM AMIANTO)	M2	 20,82 	 20,82 	 0,3180 		 0,12 		0,2340	1,4842		
+		VIDRO LISO INCOLOR 3 MM - SEM COLOCACAO	M²	 60,50 	 60,50 	 0,0230 		 6,05 		0,2340	1,4842		
+		PORTA DE MADEIRA SEMI-OCA, FOLHA LISA PARA PINTURA *80 X 210 X 3,5* CM	Un	 76,38 	 76,38 	 0,0115 		 0,44 		0,2340	1,4842		
+		"TABUA MADEIRA 3A QUALIDADE 2,5 X 23,0CM (1 X 9"") NAO APARELHADA"	M	 4,94 	 4,94 	 0,2500 		 0,03 		0,2340	1,4842		
+		"CANTONEIRA ACO ABAS IGUAIS (QUALQUER BITOLA), E = 1/8 """	KG	 3,18 	 3,18 	 0,3030 		 1,01 		0,2340	1,4842		
+		"PARAFUSO ROSCA SOBERBA ZINCADO CABECA CHATA FENDA SIMPLES 3,8 X 30 MM (1.1/4 "")"	Un	 0,04 	 0,04 	 1,2800 		 0,00 		0,2340	1,4842		
+		"DOBRADICA FERRO POLIDO OU GALV 3 X 3"" E=2MM"	Un	 3,42 	 3,42 	 0,0346 		 0,04 		0,2340	1,4842		
+		FECHADURA SOBREPOR FERRO PINTADO CHAVE GRANDE	Un	 8,99 	 8,99 	 0,0058 		 2,25 		0,2340	1,4842		
+		FIO/CORDAO COBRE ISOLADO PARALELO OU TORCIDO 2 X 2,5MM2, TIPO PLASTIFLEX PIRELLI OU EQUIV	M	 2,52 	 2,52 	 0,5360 		 0,76 		0,2340	1,4842		
+		INTERRUPTOR SOBREPOR 1 TECLA SIMPLES, TIPO SILENTOQUE PIAL OU EQUIV	Un	 3,75 	 3,75 	 0,0230 		 4,80 		0,2340	1,4842		
+		TOMADA SOBREPOR 2P UNIVERSAL 10A/250V, TIPO SILENTOQUE PIAL OU EQUIV	Un	 8,49 	 8,49 	 0,0220 		 0,29 		0,2340	1,4842		
+		BOCAL/SOQUETE/RECEPTACULO DE PORCELANA	Un	 2,26 	 2,26 	 0,0461 		 0,01 		0,2340	1,4842		
+		GLOBO ESFERICO DE VIDRO LISO TAMANHO MEDIO	Un	 11,73 	 11,73 	 0,0461 		 6,29 		0,2340	1,4842		
+		FITA ISOLANTE ADESIVA ANTI-CHAMA EM ROLOS 19MM X 5M	Un	 1,22 	 1,22 	 0,0240 		 0,03 		0,2340	1,4842		
+		CARPINTEIRO	H	 5,21 		 4,4790 	 23,34 			0,2340	1,4842		
+		SERRALHEIRO	H	 5,21 		 2,3000 	 11,98 			0,2340	1,4842		
+		ELETRICISTA	H	 5,21 		 2,3000 	 11,98 			0,2340	1,4842		
+		AUXILIAR DE SERRALHEIRO	H	 4,15 		 2,3000 	 9,55 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 4,4700 	 16,85 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 73,70 	 100,45 		0,2340	1,4842		
+				 LS(%): 148,42 			 109,38 			0,2340	1,4842		
+				 BDI (%): 23,40 			 66,35 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 349,88 		0,2340	1,4842		349,88
+										0,2340	1,4842		
+	1.2	Locação da obra a trena	M2							0,2340	1,4842		
+		ARAME RECOZIDO 18 BWG, 1,25 MM (0,01 KG/M)	Kg	 6,98 	 6,98 	 0,0200 		 0,14 		0,2340	1,4842		
+		PECA DE MADEIRA NATIVA / REGIONAL 7,5 X 7,5CM (3X3) NAO APARELHADA (P/FORMA)	M	 3,32 	 3,32 	 0,0360 		 0,12 		0,2340	1,4842		
+		PREGO POLIDO COM CABECA 18 X 27	Kg	 7,75 	 7,75 	 0,0100 		 0,08 		0,2340	1,4842		
+		"TABUA MADEIRA 3A QUALIDADE 2,5 X 23,0CM (1 X 9"") NAO APARELHADA"	M	 4,94 	4,94	 0,0190 		 0,09 		0,2340	1,4842		
+		CARPINTEIRO	H	 5,21 		 0,1000 	 0,52 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,1000 	 0,38 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 0,90 	 0,43 		0,2340	1,4842		
+				 LS(%): 148,42 			 1,33 			0,2340	1,4842		
+				 BDI (%): 23,40 			 0,62 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 3,28 		0,2340	1,4842		3,28
+										0,2340	1,4842		
+	1.3	Mobilização e Desmobilização de pessoal e equipamentos	U N							0,2340	1,4842		
+		Mobilização e Desmobilização de pessoal e equipamentos	vb	 3.354,60 	 403,00 	 1,0000 		 3.354,60 		0,2340	1,4842		
+		MOTORISTA	H	 5,21 		 24,0000 	 125,04 			0,2340	1,4842		
+		Encanador	H	 3,77 		 3,0000 	 11,31 			0,2340	1,4842		
+		Servente	H	 3,77 		 24,0000 	 90,48 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 215,52 	 3.354,60 		0,2340	1,4842		
+				 LS(%): 148,42 			 319,87 			0,2340	1,4842		
+				 BDI (%): 23,40 			 910,26 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 4.800,26 		0,2340	1,4842		4.800,26
+										0,2340	1,4842		
+	1.4	Placa da obra em chapa galvanizada	M2							0,2340	1,4842		
+		CONCRETO NAO ESTRUTURAL, CONSUMO 150KG/M3	m³	 284,00 	 284,00 	 0,0100 		 2,84 		0,2340	1,4842		
+		"PECA DE MADEIRA DE LEI *2,5 X 7,5* CM (1"" X 3""), NÃO APARELHADA, (P/TELHADO)"	m	 4,52 	 4,52 	 1,0000 		 4,52 		0,2340	1,4842		
+		PEçA DE MADEIRA NATIVA / REGIONAL 7,5 X 7,5CM (3X3) NAO APARELHADA (P/FORMA)	m	 3,32 	 3,32 	 4,0000 		 13,28 		0,2340	1,4842		
+		PLACA DE OBRA (PARA CONSTRUCAO CIVIL) EM CHAPA GALVANIZADA	m²	 203,00 	 203,00 	 1,0000 		 203,00 		0,2340	1,4842		
+		PREGO POLIDO COM CABECA 18 X 30	kg	 7,21 	 7,21 	 0,1100 		 0,79 		0,2340	1,4842		
+		Carpinteiro	H	 5,21 		 0,5090 	 2,65 			0,2340	1,4842		
+		Servente	H	 3,77 		 0,0400 	 0,15 			0,2340	1,4842		
+				 Custo Direto 			 2,80 	 224,44 		0,2340	1,4842		
+				 LS(%): 148,42 			 4,16 			0,2340	1,4842		
+				 BDI (%): 23,40 			 54,15 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 285,55 		0,2340	1,4842		285,55
+										0,2340	1,4842		
+	1.2	Instalação provisória de água	M2							0,2340	1,4842		
+		Instalações provisórias de água	m²	 200,00 	 200,00 	 1,0000 		 200,00 		0,2340	1,4842		
+		PEDREIRO	H	 5,21 		 0,9000 	 4,69 			0,2340	1,4842		
+		CARPINTEIRO	H	 5,21 		 0,9000 	 4,69 			0,2340	1,4842		
+		ENCANADOR	H	 5,21 		 0,9000 	 4,69 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 2,0000 	 7,54 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 21,61 	 200,00 		0,2340	1,4842		
+				 LS(%): 148,42 			 32,07 			0,2340	1,4842		
+				 BDI (%): 23,40 			 59,36 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 313,04 		0,2340	1,4842		
+										0,2340	1,4842		
+	1.3	Instalação provisória de energia elétrica em baixa tensão	U N							0,2340	1,4842		
+		Materiais para ligações provisórias de energia elétrica	vb	 403,00 	 403,00 	 1,0000 		 403,00 		0,2340	1,4842		
+		Eletricista	H	 5,21 		 16,0000 	 83,36 			0,2340	1,4842		
+		Encanador	H	 3,77 		 3,0000 	 11,31 			0,2340	1,4842		
+		Servente	H	 3,77 		 16,0000 	 60,32 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 143,68 	 403,00 		0,2340	1,4842		
+				 LS(%): 148,42 			 213,25 			0,2340	1,4842		
+				 BDI (%): 23,40 			 177,82 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 937,75 		0,2340	1,4842		
+										0,2340	1,4842		
+	1.4	Instalações provisórias de esgoto	m²							0,2340	1,4842		
+		Instalações provisórias de esgoto	U N	 234,39 	 234,39 	 1,0000 		 234,39 		0,2340	1,4842		
+		PEDREIRO	H	 5,21 		 4,0000 	 20,84 			0,2340	1,4842		
+		CARPINTEIRO	H	 5,21 		 4,0000 	 20,84 			0,2340	1,4842		
+		ENCANADOR	H	 5,21 		 4,0000 	 20,84 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 6,0600 	 22,85 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 85,37 	 234,39 		0,2340	1,4842		
+				 LS(%): 148,42 			 126,70 			0,2340	1,4842		
+				 BDI (%): 23,40 			 104,47 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 550,92 		0,2340	1,4842		
+										0,2340	1,4842		
+										0,2340	1,4842		
+	1.5	Barracões provisórios (depósito, escritório, vestiário e refeitório) com piso cimentado	M2							0,2340	1,4842		
+		CONCRETO FCK=15MPA, PREPARO COM BETONEIRA, SEM LANCAMENTO	M³	 365,63 	 365,63 	 0,0150 		 5,48 		0,2340	1,4842		
+		"PINHO DE TERCEIRA 1"" X 12"" E 1"" X 9"""	M²	 30,90 	 30,90 	 1,0200 		 31,52 		0,2340	1,4842		
+		PISO CIMENTADO E=1,5CM C/ARGAMASSA 1:3 CIMENTO AREIA ALISADO COLHER SOBRE BASE EXISTENTE.	M²	 27,46 	 27,46 	 1,0000 		 27,46 		0,2340	1,4842		
+		LANCAMENTO/APLICACAO MANUAL DE CONCRETO EM ESTRUTURAS	M³	 82,16 	 82,16 	 0,0150 		 1,23 		0,2340	1,4842		
+		CHAPA DE MADEIRA COMPENSADA PLASTIFICADA PARA FORMA DE CONCRETO, DE *2,44 X 1,22* M, E = 10 MM	M²	 19,34 	 19,34 	 0,3860 		 0,29 		0,2340	1,4842		
+		"CONJUNTO ARRUELAS DE VEDACAO 5/16"" PARA TELHA FIBROCIMENTO (UMA ARRUELA METALICA E UMA ARRUELA PVC - CONICAS)"	CJ	 0,14 	 0,14 	 0,2140 		 0,05 		0,2340	1,4842		
+		DISJUNTOR TIPO NEMA, MONOPOLAR 10 ATE 30A	Un	 7,69 	 7,69 	 0,0057 		 1,65 		0,2340	1,4842		
+		"PECA DE MADEIRA NATIVA/REGIONAL 7,5 X 12,50 CM (3X5"") NÃO APARELHADA (P/FORMA)"	M	 6,07 	 6,07 	 0,7000 		 0,03 		0,2340	1,4842		
+		"PECA DE MADEIRA NATIVA / REGIONAL 7,5 X 7,5CM (3X3) NAO APARELHADA
+(P/FORMA)"	M	 3,32 	 3,32 	 0,9000 		 2,32 		0,2340	1,4842		
+		PREGO POLIDO COM CABECA 18 X 30	KG	 7,21 	 7,21 	 0,1000 		 6,49 		0,2340	1,4842		
+		CADEADO LATAO CROMADO H = 35MM / 5 PINOS / HASTE CROMADA H = 30MM	Un	 17,62 	 17,62 	 0,0058 		 1,76 		0,2340	1,4842		
+		PORTA CADEADO ZINCADO OXIDADO PRETO	Un	 5,28 	 5,28 	 0,0058 		 0,03 		0,2340	1,4842		
+		TELHA DE FIBROCIMENTO ONDULADA E = 6 MM, DE *2,44 X 1,10* M (SEM AMIANTO)	M2	 20,82 	 20,82 	 0,3180 		 0,12 		0,2340	1,4842		
+		VIDRO LISO INCOLOR 3 MM - SEM COLOCACAO	M²	 60,50 	 60,50 	 0,0230 		 6,05 		0,2340	1,4842		
+		PORTA DE MADEIRA SEMI-OCA, FOLHA LISA PARA PINTURA *80 X 210 X 3,5* CM	Un	 76,38 	 76,38 	 0,0115 		 0,44 		0,2340	1,4842		
+		"TABUA MADEIRA 3A QUALIDADE 2,5 X 23,0CM (1 X 9"") NAO APARELHADA"	M	 4,94 	 4,94 	 0,2500 		 0,03 		0,2340	1,4842		
+		"CANTONEIRA ACO ABAS IGUAIS (QUALQUER BITOLA), E = 1/8 """	KG	 3,18 	 3,18 	 0,3030 		 1,01 		0,2340	1,4842		
+		"PARAFUSO ROSCA SOBERBA ZINCADO CABECA CHATA FENDA SIMPLES 3,8 X 30 MM (1.1/4 "")"	Un	 0,04 	 0,04 	 1,2800 		 0,00 		0,2340	1,4842		
+		"DOBRADICA FERRO POLIDO OU GALV 3 X 3"" E=2MM"	Un	 3,42 	 3,42 	 0,0346 		 0,04 		0,2340	1,4842		
+		FECHADURA SOBREPOR FERRO PINTADO CHAVE GRANDE	Un	 8,99 	 8,99 	 0,0058 		 2,25 		0,2340	1,4842		
+		FIO/CORDAO COBRE ISOLADO PARALELO OU TORCIDO 2 X 2,5MM2, TIPO PLASTIFLEX PIRELLI OU EQUIV	M	 2,52 	 2,52 	 0,5360 		 0,76 		0,2340	1,4842		
+		INTERRUPTOR SOBREPOR 1 TECLA SIMPLES, TIPO SILENTOQUE PIAL OU EQUIV	Un	 3,75 	 3,75 	 0,0230 		 4,80 		0,2340	1,4842		
+		TOMADA SOBREPOR 2P UNIVERSAL 10A/250V, TIPO SILENTOQUE PIAL OU EQUIV	Un	 8,49 	 8,49 	 0,0220 		 0,29 		0,2340	1,4842		
+		BOCAL/SOQUETE/RECEPTACULO DE PORCELANA	Un	 2,26 	 2,26 	 0,0461 		 0,01 		0,2340	1,4842		
+		GLOBO ESFERICO DE VIDRO LISO TAMANHO MEDIO	Un	 11,73 	 11,73 	 0,0461 		 6,29 		0,2340	1,4842		
+		FITA ISOLANTE ADESIVA ANTI-CHAMA EM ROLOS 19MM X 5M	Un	 1,22 	 1,22 	 0,0240 		 0,03 		0,2340	1,4842		
+		CARPINTEIRO	H	 5,21 		 4,3400 	 22,61 			0,2340	1,4842		
+		SERRALHEIRO	H	 5,21 		 0,0100 	 0,05 			0,2340	1,4842		
+		ELETRICISTA	H	 5,21 		 0,0090 	 0,05 			0,2340	1,4842		
+		AUXILIAR DE SERRALHEIRO	H	 4,15 		 0,0100 	 0,04 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 4,3400 	 16,36 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 39,11 	 100,45 		0,2340	1,4842		
+				 LS(%): 148,42 			 58,05 			0,2340	1,4842		
+				 BDI (%): 23,40 			 46,24 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 243,86 		0,2340	1,4842		
+										0,2340	1,4842		
+	1.6	Locação da obra (execução de gabarito)	M2							0,2340	1,4842		
+		ARAME RECOZIDO 18 BWG, 1,25 MM (0,01 KG/M)	Kg	 6,98 	 6,98 	 0,0200 		 0,14 		0,2340	1,4842		
+		PECA DE MADEIRA NATIVA / REGIONAL 7,5 X 7,5CM (3X3) NAO APARELHADA (P/FORMA)	M	 3,32 	 3,32 	 0,0360 		 0,12 		0,2340	1,4842		
+		PREGO POLIDO COM CABECA 18 X 27	Kg	 7,75 	 7,75 	 0,0100 		 0,08 		0,2340	1,4842		
+		"TABUA MADEIRA 3A QUALIDADE 2,5 X 23,0CM (1 X 9"") NAO APARELHADA"	M	 4,94 	4,94	 0,0320 		 0,16 		0,2340	1,4842		
+		CARPINTEIRO	H	 5,21 		 0,1000 	 0,52 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,1000 	 0,38 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 0,90 	 0,49 		0,2340	1,4842		
+				 LS(%): 148,42 			 1,33 			0,2340	1,4842		
+				 BDI (%): 23,40 			 0,64 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 3,36 		0,2340	1,4842		
+										0,2340	1,4842		
+	1.7	Sondagem do terreno ( um furo de 7m a cada 200 m²)	M							0,2340	1,4842		
+		Sondagem do terreno	M	 70,45 	 70,45 	 1,0000 		 70,45 		0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 				 70,45 		0,2340	1,4842		
+				 LS(%): 148,42 						0,2340	1,4842		
+				 BDI (%): 23,40 			 16,49 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 86,94 		0,2340	1,4842		
+										0,2340	1,4842		
+	1.5	Tapume c/ chapa de madeirit e=10mm (h=2.20m)	M2							0,2340	1,4842		
+		CAL HIDRATADA CH-I PARA ARGAMASSAS	Kg	 0,85 	 0,85 	 0,6000 		 0,51 		0,2340	1,4842		
+		CHAPA DE MADEIRA COMPENSADA RESINADA PARA FORMA DE CONCRETO, DE *2,2 X 1,1* M, E = 6 MM	U N	 20,56 	 20,56 	 0,2273 		 4,67 		0,2340	1,4842		
+		PECA DE MADEIRA NATIVA / REGIONAL 7,5 X 7,5CM (3X3) NAO APARELHADA (P/FORMA)	M	 3,32 	 3,32 	 1,5800 		 5,25 		0,2340	1,4842		
+		PREGO POLIDO COM CABECA 18 X 27	Kg	 7,75 	 7,75 	 0,1500 		 1,16 		0,2340	1,4842		
+		OLEO DE LINHACA	L	 15,19 	15,19	 0,2200 		 3,34 		0,2340	1,4842		
+		CARPINTEIRO	H	 5,21 		 1,1020 	 5,74 			0,2340	1,4842		
+		PINTOR	H	 5,21 		 1,1020 	 5,74 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,1000 	 4,15 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 15,63 	 14,93 		0,2340	1,4842		
+				 LS(%): 148,42 			 23,20 			0,2340	1,4842		
+				 BDI (%): 23,40 			 12,58 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 66,34 		0,2340	1,4842		66,34
+										0,2340	1,4842		
+	2.1	Demolição de piso incl. camada impermeabilizadora	M2							0,2340	1,4842		
+		Demolição de piso incl. camada impermeabilizadora	M2	 2,70 	 2,70 	 0,3825 		 1,03 		0,2340	1,4842		
+		Servente	H	 3,77 		 0,5108 	 1,93 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 1,93 	 1,03 		0,2340	1,4842		
+				 LS(%): 148,42 			 2,86 			0,2340	1,4842		
+				 BDI (%): 23,40 			 1,36 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 7,18 		0,2340	1,4842		7,18
+										0,2340	1,4842		
+	2.2	Demolição manual de alvenaria de tijolo	M3							0,2340	1,4842		
+		Demolição manual de alvenaria de tijolo	M3	 2,70 	 2,70 	 0,3825 		 1,03 					
+		Servente	H	 3,77 		 2,6240 	 9,89 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 9,89 	 1,03 		0,2340	1,4842		
+				 LS(%): 148,42 			 14,68 			0,2340	1,4842		
+				 BDI (%): 23,40 			 5,99 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 31,60 		0,2340	1,4842		31,60
+										0,2340	1,4842		
+	2.3	Retirada de esquadria sem aproveitamento	M2							0,2340	1,4842		
+		Retirada de esquadria sem aproveitamento	M2	 1,20 	1,2	0,34		0,408		0,234	1,4842		
+		Servente	H	 3,77 		 0,2270 	 0,86 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 0,86 	 0,41 		0,2340	1,4842		
+				 LS(%): 148,42 			 1,27 			0,2340	1,4842		
+				 BDI (%): 23,40 			 0,59 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 3,13 		0,2340	1,4842		3,13
+										0,2340	1,4842		
+	2.4	Retirada de grade de ferro	M2							0,2340	1,4842		
+		Retirada de grade de ferro	M2	 7,00 	1,2	1,047		7,329		0,234	1,4842		
+		Servente	H	 3,77 		 0,3000 	 1,13 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 1,13 	 7,33 		0,2340	1,4842		
+				 LS(%): 148,42 			 1,68 			0,2340	1,4842		
+				 BDI (%): 23,40 			 2,37 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 12,51 		0,2340	1,4842		12,51
+										0,2340	1,4842		
+	2.5	Retirada de louça sanitária	UN							0,2340	1,4842		
+		Retirada de louça sanitária	UN	 10,00 	1,2	1,047		10,47		0,234	1,4842		
+		Servente	H	 3,77 		 0,7889 	 2,97 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 2,97 	 10,47 		0,2340	1,4842		
+				 LS(%): 148,42 			 4,41 			0,2340	1,4842		
+				 BDI (%): 23,40 			 4,18 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 22,04 		0,2340	1,4842		22,04
+										0,2340	1,4842		
+	2.6	Retirada de pilar de madeira	UN							0,2340	1,4842		
+		Retirada de pilar de madeira	UN	 12,10 	1,2	1,047		12,66		0,234	1,4842		
+		Servente	H	 3,77 		 0,7920 	 2,99 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 2,99 	 12,66 		0,2340	1,4842		
+				 LS(%): 148,42 			 4,43 			0,2340	1,4842		
+				 BDI (%): 23,40 			 4,70 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 24,78 		0,2340	1,4842		24,78
+										0,2340	1,4842		
+	2.7	Retirada de ponto de água/esgoto	Pt							0,2340	1,4842		
+		Retirada de ponto de água/esgoto	Pt	 4,50 	1,2	1,43		6,41		0,234	1,4842		
+		Servente	H	 3,77 		 0,3000 	 1,13 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 1,13 	 6,41 		0,2340	1,4842		
+				 LS(%): 148,42 			 1,68 			0,2340	1,4842		
+				 BDI (%): 23,40 			 2,16 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 11,38 		0,2340	1,4842		11,38
+										0,2340	1,4842		
+	2.8	Retirada de ponto elétrico	Pt							0,2340	1,4842		
+		Retirada de ponto elétrico	Pt	 4,50 	1,2	1,38		6,21		0,234	1,4842		
+		Servente	H	 3,77 		 0,1000 	 0,38 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 0,38 	 6,21 		0,2340	1,4842		
+				 LS(%): 148,42 			 0,56 			0,2340	1,4842		
+				 BDI (%): 23,40 			 1,67 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 8,81 		0,2340	1,4842		8,81
+										0,2340	1,4842		
+	2.9	Retirada de reboco ou emboço	M2							0,2340	1,4842		
+		Retirada de reboco ou emboço	M2	 1,20 	1,2	1,36		1,63		0,234	1,4842		
+		Servente	H	 3,77 		 0,1000 	 0,38 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 0,38 	 1,63 		0,2340	1,4842		
+				 LS(%): 148,42 			 0,56 			0,2340	1,4842		
+				 BDI (%): 23,40 			 0,60 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 3,16 		0,2340	1,4842		3,16
+										0,2340	1,4842		
+										0,2340	1,4842		
+	3.1	 Apiloamento do aterro	M3							0,2340	1,4842		
+		Servente	H	 3,77 		 2,5253 	 9,52 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 9,52 			0,2340	1,4842		
+				 LS(%): 148,42 			 14,13 			0,2340	1,4842		
+				 BDI (%): 23,40 			 5,53 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 29,18 		0,2340	1,4842		29,18
+										0,2340	1,4842		
+	3.2	Escavação manual ate 1.50m de profundidade	M3							0,2340	1,4842		
+		Servente	H	 3,77 		 2,4030 	 9,06 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 9,06 			0,2340	1,4842		
+				 LS(%): 148,42 			 13,45 			0,2340	1,4842		
+				 BDI (%): 23,40 			 5,27 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 27,77 		0,2340	1,4842		27,77
+										0,2340	1,4842		
+	4.1	Baldrame em concreto armado c/ cinta de amarração	M3							0,2340	1,4842		
+		Baldrame em concreto armado c/ cinta de amarração	M3	 1.150,00 		 1,0000 		1150,00					
+		CONCRETO NAO ESTRUTURAL, CONSUMO 150KG/M3, PREPARO COM BETONEIRA, SEM LANCAMENTO	M³	 88,00 	 88,00 	 0,5000 		44,00		0,2340	1,4842		
+		DESMOLDANTE PROTETOR PARA FORMAS DE MADEIRA	L	 4,56 	 4,56 	 0,9000 		4,10		0,2340	1,4842		
+		PECA DE MADEIRA NATIVA / REGIONAL 7,5 X 7,5CM (3X3) NAO APARELHADA (P/FORMA)	M²	 2,81 	 -   	 0,4000 		1,12		0,2340	1,4842		
+		PECA DE MADEIRA NATIVA/REGIONAL 2,5 X 7,0 CM (SARRAFO-P/FORMA)	M²	 3,32 	 3,32 	 0,4000 		1,33		0,2340	1,4842		
+		PREGO POLIDO COM CABECA 18 X 27	Kg	 7,21 	 7,21 	 0,2000 		1,44		0,2340	1,4842		
+		"TABUA MADEIRA 2A QUALIDADE 2,5 X 30,0CM (1 X 12"") NAO APARELHADA"	M²	 7,29 	 7,29 	 0,5000 		3,65		0,2340	1,4842		
+		ACO CA-50, 10,0 MM, VERGALHAO	kG	 3,03 	 3,03 	 1,5000 		4,55		0,2340	1,4842		
+		ARAME RECOZIDO 18 BWG, 1,25 MM (0,01 KG/M)	kG	 5,98 	 5,98 	 0,5000 		2,99		0,2340	1,4842		
+		FERREIRO	H	 5,21 		 4,4400 	 23,13 			0,2340	1,4842		
+		CARPINTEIRO	H	 5,21 		 4,4400 	 23,13 			0,2340	1,4842		
+		PEDREIRO	H	 5,21 		 4,4400 	 23,13 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,3980 	 5,27 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 74,67 	 1.213,18 		0,2340	1,4842		
+				 LS(%): 148,42 			 110,82 			0,2340	1,4842		
+				 BDI (%): 23,40 			 327,29 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 1.725,96 		0,2340	1,4842		1.725,96
+										0,2340	1,4842		
+	4.2	Bloco em concreto armado p/ fundaçao (incl. forma)	M3							0,2340	1,4842		
+		Bloco em concreto armado p/ fundaçao (incl. forma)	M3	 1.233,00 		 1,0000 		1233,00					
+		CONCRETO NAO ESTRUTURAL, CONSUMO 150KG/M3, PREPARO COM BETONEIRA, SEM LANCAMENTO	M³	 88,00 	 88,00 	 0,5000 		44,00		0,2340	1,4842		
+		DESMOLDANTE PROTETOR PARA FORMAS DE MADEIRA	L	 4,56 	 4,56 	 0,9000 		4,10		0,2340	1,4842		
+		PECA DE MADEIRA NATIVA / REGIONAL 7,5 X 7,5CM (3X3) NAO APARELHADA (P/FORMA)	M²	 2,81 	 -   	 0,4000 		1,12		0,2340	1,4842		
+		PECA DE MADEIRA NATIVA/REGIONAL 2,5 X 7,0 CM (SARRAFO-P/FORMA)	M²	 3,32 	 3,32 	 0,4000 		1,33		0,2340	1,4842		
+		PREGO POLIDO COM CABECA 18 X 27	Kg	 7,21 	 7,21 	 0,2000 		1,44		0,2340	1,4842		
+		"TABUA MADEIRA 2A QUALIDADE 2,5 X 30,0CM (1 X 12"") NAO APARELHADA"	M²	 7,29 	 7,29 	 0,5000 		3,65		0,2340	1,4842		
+		ACO CA-50, 10,0 MM, VERGALHAO	kG	 3,03 	 3,03 	 1,5000 		4,55		0,2340	1,4842		
+		ARAME RECOZIDO 18 BWG, 1,25 MM (0,01 KG/M)	kG	 5,98 	 5,98 	 0,5000 		2,99		0,2340	1,4842		
+		FERREIRO	H	 5,21 		 4,4400 	 23,13 			0,2340	1,4842		
+		CARPINTEIRO	H	 5,21 		 4,4400 	 23,13 			0,2340	1,4842		
+		PEDREIRO	H	 5,21 		 4,4400 	 23,13 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,5364 	 5,79 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 75,19 	 1.296,18 		0,2340	1,4842		
+				 LS(%): 148,42 			 111,60 			0,2340	1,4842		
+				 BDI (%): 23,40 			 347,01 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 1.829,98 		0,2340	1,4842		1.829,98
+										0,2340	1,4842		
+	5.1	Concreto armado FCK=25MPA com forma aparente - 1 reaproveitamento	M3							0,2340	1,4842		
+		Concreto armado FCK=25MPA com forma aparente - 1 reaproveitamento	M³	 650,00 	 404,80 	 2,3300 		 1.514,50 		0,2340	1,4842		
+		DESMOLDANTE PROTETOR PARA FORMAS DE MADEIRA	L	 4,56 	 4,56 	 0,9000 		4,10		0,2340	1,4842		
+		PECA DE MADEIRA NATIVA / REGIONAL 7,5 X 7,5CM (3X3) NAO APARELHADA (P/FORMA)	M²	 2,81 	#REF!	 0,4000 		1,12		0,2340	1,4842		
+		PECA DE MADEIRA NATIVA/REGIONAL 2,5 X 7,0 CM (SARRAFO-P/FORMA)	M²	 3,32 	 3,32 	 0,4000 		1,33		0,2340	1,4842		
+		PREGO POLIDO COM CABECA 18 X 27	Kg	 7,21 	 7,21 	 0,2000 		1,44		0,2340	1,4842		
+		"TABUA MADEIRA 2A QUALIDADE 2,5 X 30,0CM (1 X 12"") NAO APARELHADA"	M²	 7,29 	 7,29 	 0,5000 		3,65		0,2340	1,4842		
+		ACO CA-50, 10,0 MM, VERGALHAO	kG	 3,03 	 3,03 	 1,5000 		4,55		0,2340	1,4842		
+		ARAME RECOZIDO 18 BWG, 1,25 MM (0,01 KG/M)	kG	 5,98 	 5,98 	 0,5000 		2,99		0,2340	1,4842		
+		VIBRADOR DE IMERSAO C/ MOTOR ELETRICO 2HP MON.	H	 1,65 	 1,65 	 0,3000 		 0,50 		0,2340	1,4842		
+		FERREIRO	H	 5,21 		 0,6500 	 3,39 			0,2340	1,4842		
+		CARPINTEIRO	H	 5,21 		 0,6500 	 3,39 			0,2340	1,4842		
+		PEDREIRO	H	 5,21 		 0,6500 	 3,39 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,6246 	 2,35 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 12,51 	 1.534,17 		0,2340	1,4842		
+				 LS(%): 148,42 			 18,57 			0,2340	1,4842		
+				 BDI (%): 23,40 			 366,27 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 1.931,53 		0,2340	1,4842		1.931,53
+											1,4842		
+	6.1	Alvenaria tijolo de barro a cutelo	M2							0,2340	1,4842		
+		ARGAMASSA TRAÇO 1:2:8 (CIMENTO, CAL E AREIA MÉDIA) 	M³	 25,00 	 5,98 	 0,3000 		 7,50 		0,2340	1,4842		
+		Tijolo 	U N	 0,22 	 0,00 	 10,3700 		 2,28 		0,2340	1,4842		
+		PEDREIRO	H	 5,21 		 1,1400 	 5,94 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,8800 	 3,32 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 9,26 	 9,78 		0,2340	1,4842		
+				 LS(%): 148,42 			 13,74 			0,2340	1,4842		
+				 BDI (%): 23,40 			 7,67 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 40,45 		0,2340	1,4842		40,45
+										0,2340	1,4842		
+	7.1.1	Encaibramento e ripamento	M2							0,2340	1,4842		
+		Encaibramento e ripamento	M2	 28,20 	 -   	 0,3000 		 8,46 		0,2340	1,4842		
+		SERRALHEIRO	H	 5,21 		 1,1400 	 5,94 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,8800 	 3,32 			0,2340	1,4842		
+													
+				 Custo Direto 			 9,26 	 8,46 		0,2340	1,4842		
+				 LS(%): 148,42 			 13,74 			0,2340	1,4842		
+				 BDI (%): 23,40 			 7,36 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 38,82 		0,2340	1,4842		38,82
+										0,2340	1,4842		
+	7.1.2	Estrutura metálica - (Incl. pintura anti-corrosiva)	M2							0,2340	1,4842		
+		ESTRUTURA METÁLICA	M²	 94,09 	 41,00 	 1,0000 		 94,09 		0,2340	1,4842		
+		SERRALHEIRO	H	 5,21 		 1,5000 	 7,82 			0,2340	1,4842		
+		AJUDANTE	H	 3,77 		 1,0000 	 3,77 			0,2340	1,4842		
+										0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 11,59 	 94,09 		0,2340	1,4842		
+				 LS(%): 148,42 			 17,19 			0,2340	1,4842		
+				 BDI (%): 23,40 			 28,75 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 151,62 		0,2340	1,4842		151,62
+										0,2340	1,4842		
+	7.1.3	Tesoura em mad. de lei p/ vao de  6.0m	UN							0,2340	1,4842		
+		Tesoura em mad. de lei p/ vao de  6.0m	UN	 612,01 	 41,00 	 1,0000 		 612,01 		0,2340	1,4842		
+		SERRALHEIRO	H	 5,21 		 4,5000 	 23,45 			0,2340	1,4842		
+		AJUDANTE	H	 3,77 		 2,0000 	 7,54 			0,2340	1,4842		
+										0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 30,99 	 612,01 		0,2340	1,4842		
+				 LS(%): 148,42 			 45,99 			0,2340	1,4842		
+				 BDI (%): 23,40 			 161,22 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 850,20 		0,2340	1,4842		850,20
+	7.1.4	Tesoura em mad. de lei p/ vao de  8.0m	UN							0,2340	1,4842		
+		Tesoura em mad. de lei p/ vao de  8.0m	UN	 947,00 	 41,00 	 1,0000 		 947,00 		0,2340	1,4842		
+		SERRALHEIRO	H	 5,21 		 4,5000 	 23,45 			0,2340	1,4842		
+		AJUDANTE	H	 3,77 		 2,0000 	 7,54 			0,2340	1,4842		
+										0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 30,99 	 947,00 		0,2340	1,4842		
+				 LS(%): 148,42 			 45,99 			0,2340	1,4842		
+				 BDI (%): 23,40 			 239,61 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 1.263,58 		0,2340	1,4842		1.263,58
+										0,2340	1,4842		
+	7.2.1	Cobertura - telha plan	M2							0,2340	1,4842		
+		Cobertura - telha plan	M²	 24,51 	 25,00 	 1,0000 		 24,51 		0,2340	1,4842		
+		MONTADOR	H	 5,21 		 0,5000 	 2,61 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,0000 	 3,77 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 6,38 	 24,51 		0,2340	1,4842		
+				 LS(%): 148,42 			 9,46 			0,2340	1,4842		
+				 BDI (%): 23,40 			 9,44 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 49,79 		0,2340	1,4842		49,79
+										0,2340	1,4842		
+	7.3.1	Calha em chapa galvanizada	M							0,2340	1,4842		
+		CALHA CHAPA GALVANIZADA NUM 24 L = 50CM	M	 20,00 	 18,00 	 1,0000 		 20,00 		0,2340	1,4842		
+		PREGO POLIDO COM CABECA 18 X 27	Kg	 7,75 	 7,75 	 0,1500 		 1,16 		0,2340	1,4842		
+		REBITE DE ALUMINIO VAZADO DE REPUXO, 3,2 X 8 MM	Kg	 25,00 	 25,00 	 0,0400 		 1,00 		0,2340	1,4842		
+		SOLDA 50/50	Kg	 35,00 	 35,00 	 0,0700 		 2,45 		0,2340	1,4842		
+		TELHADISTA	H	 5,21 		 0,4000 	 2,08 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,2140 	 0,81 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 2,89 	 24,61 		0,2340	1,4842		
+				 LS(%): 148,42 			 4,29 			0,2340	1,4842		
+				 BDI (%): 23,40 			 7,44 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 39,23 		0,2340	1,4842		39,23
+										0,2340	1,4842		
+	7.3.2	Cumeeira de barro	M 							0,2340	1,4842		
+		Cumeeira de barro	M 	 13,43 	 20,00 	 1,0000 		 13,43 		0,2340	1,4842		
+		MONTADOR	H	 5,21 		 0,1500 	 0,78 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,1500 	 0,57 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 1,35 	 13,43 		0,2340	1,4842		
+				 LS(%): 148,42 			 2,00 			0,2340	1,4842		
+				 BDI (%): 23,40 			 3,93 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 20,71 		0,2340	1,4842		20,71
+										0,2340	1,4842		
+	7.3.3	Rincão em chapa galvanizada - l=1,0m	M							0,2340	1,4842		
+		Rincão em chapa galvanizada - l=1,0m	M	 12,80 	 18,00 	 1,0000 		 12,80 		0,2340	1,4842		
+		MONTADOR	H	 5,21 		 0,3500 	 1,82 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,3500 	 1,32 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 3,14 	 12,80 		0,2340	1,4842		
+				 LS(%): 148,42 			 4,66 			0,2340	1,4842		
+				 BDI (%): 23,40 			 4,82 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 25,43 		0,2340	1,4842		25,43
+										0,2340	1,4842		
+	8.1	Aplicação de Neutrol s/ concreto/alvenaria	M2							0,2340	1,4842		
+		Aplicação de Neutrol s/ concreto/alvenaria	M2	 11,72 	 13,43 	 1,0500 		 12,31 		0,2340	1,4842		
+		PEDREIRO	H	 5,21 		 0,2100 	 1,09 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,1700 	 0,64 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 1,74 	 12,31 		0,2340	1,4842		
+				 LS(%): 148,42 			 2,58 			0,2340	1,4842		
+				 BDI (%): 23,40 			 3,89 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 20,50 		0,2340	1,4842		20,50
+										0,2340	1,4842		
+	8.2	Imunização p/madeira c/carbolineum	M2							0,2340	1,4842		
+		Imunização p/madeira c/carbolineum	M2	 3,68 	 71,12 	 1,0000 		 3,68 		0,2340	1,4842		
+		PEDREIRO	H	 5,21 		 0,0100 	 0,05 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,0100 	 0,04 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 0,09 	 3,68 		0,2340	1,4842		
+				 LS(%): 148,42 			 0,13 			0,2340	1,4842		
+				 BDI (%): 23,40 			 0,91 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 4,82 		0,2340	1,4842		4,82
+										0,2340	1,4842		
+	9.1.1	Porta mad. compens. c/ caix. aduela e alizar	M2							0,2340	1,4842		
+		Porta mad. compens. c/ caix. aduela e alizar	M2	 298,03 	 155,00 	 1,0000 		298,034		0,2340	1,4842		
+		CARPINTEIRO	H	 5,21 		 2,5000 	 13,03 			0,2340	1,4842		
+		PEDREIRO	H	 5,21 		 2,5000 	 13,03 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,5000 	 5,66 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 31,71 	 298,03 		0,2340	1,4842		
+				 LS(%): 148,42 			 47,06 			0,2340	1,4842		
+				 BDI (%): 23,40 			 88,17 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 464,97 		0,2340	1,4842		464,97
+										0,2340	1,4842		
+	9.2.1	Grade de ferro em metalom  (incl. pint.anti-corrosiva)	M2							0,2340	1,4842		
+		Grade de ferro em metalom  (incl. pint.anti-corrosiva)	M2	 188,09 	 160,00 	 1,0000 		188,09		0,2340	1,4842		
+		FERREIRO	H	 5,21 		 1,0000 	 5,21 			0,2340	1,4842		
+		SERRALHEIRO	H	 5,21 		 1,0000 	 5,21 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,0000 	 3,77 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 14,19 	 188,09 		0,2340	1,4842		
+				 LS(%): 148,42 			 21,06 			0,2340	1,4842		
+				 BDI (%): 23,40 			 52,26 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 275,60 		0,2340	1,4842		275,60
+										0,2340	1,4842		
+	9.2.2	Porta de aço-esteira de enrolar c/ferr.(incl.pint.anti-corrosiva)	M2							0,2340	1,4842		
+		Porta de aço-esteira de enrolar c/ferr.(incl.pint.anti-corrosiva)	M2	 263,33 	 180,00 	 1,0000 		263,33		0,2340	1,4842		
+		FERREIRO	H	 5,21 		 1,0000 	 5,21 			0,2340	1,4842		
+		SERRALHEIRO	H	 5,21 		 1,0000 	 5,21 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,0000 	 3,77 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 14,19 	 263,33 		0,2340	1,4842		
+				 LS(%): 148,42 			 21,06 			0,2340	1,4842		
+				 BDI (%): 23,40 			 69,87 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 368,45 		0,2340	1,4842		368,45
+										0,2340	1,4842		
+	9.2.3	Portão de ferro em metalom (incl. pintura anti corrosiva)	M2							0,2340	1,4842		
+		Portão de ferro em metalom (incl. pintura anti corrosiva)	M2	 215,65 	 190,00 	 1,0000 		215,645		0,2340	1,4842		
+		FERREIRO	H	 5,21 		 1,0000 	 5,21 			0,2340	1,4842		
+		SERRALHEIRO	H	 5,21 		 1,0000 	 5,21 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,0000 	 3,77 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 14,19 	 215,65 		0,2340	1,4842		
+				 LS(%): 148,42 			 21,06 			0,2340	1,4842		
+				 BDI (%): 23,40 			 58,71 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 309,61 		0,2340	1,4842		309,61
+										0,2340	1,4842		
+	9.3.1	Esquadria de alum.de correr c/ vidro e ferragens	M2							0,2340	1,4842		
+		Esquadria de alum.de correr c/ vidro e ferragens	M2	 354,01 	 210,00 	 1,0000 		354,01		0,2340	1,4842		
+		CARPINTEIRO	H	 5,21 		 1,0000 	 5,21 			0,2340	1,4842		
+		VIDRAÇEIRO	H	 5,21 		 1,0000 	 5,21 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,0000 	 3,77 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 14,19 	 354,01 		0,2340	1,4842		
+				 LS(%): 148,42 			 21,06 			0,2340	1,4842		
+				 BDI (%): 23,40 			 91,09 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 480,35 		0,2340	1,4842		480,35
+										0,2340	1,4842		
+	10.1	Vidro temperado incolor e= 8mm com ferragens	U N							0,2340	1,4842		
+		Vidro temperado incolor e= 8mm com ferragens	U N	 184,78 	 211,00 	 1,0000 		184,7809		0,2340	1,4842		
+		VIDRACEIRO	H	 5,21 		 0,9000 	 4,69 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,9000 	 3,39 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 8,08 	 184,78 		0,2340	1,4842		
+				 LS(%): 148,42 			 12,00 			0,2340	1,4842		
+				 BDI (%): 23,40 			 47,94 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 252,80 		0,2340	1,4842		252,80
+										0,2340	1,4842		
+										0,2340	1,4842		
+	11.1.1	Fechadura para porta de banheiro	UN							0,2340	1,4842		
+		Fechadura para porta de banheiro	UN	 33,50 	 290,00 	 1,0000 		33,503		0,2340	1,4842		
+		MONTADOR	H	 5,21 		 0,8000 	 4,17 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,2000 	 4,52 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 8,69 	 33,50 		0,2340	1,4842		
+				 LS(%): 148,42 			 12,90 			0,2340	1,4842		
+				 BDI (%): 23,40 			 12,89 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 67,99 		0,2340	1,4842		67,99
+										0,2340	1,4842		
+	11.1.2	Fechadura de embutir completa, para portas internas	UN							0,2340	1,4842		
+		FECHADURA EMBUTIR P/PORTA INTERNA, COMPLETA 	U N	 34,09 	 58,56 	 1,0000 		 34,09 		0,2340	1,4842		
+		MONTADOR	H	 5,21 		 1,0000 	 5,21 			0,2340	1,4842		
+		AJUDANTE	H	 3,77 		 1,0000 	 3,77 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 8,98 	 34,09 		0,2340	1,4842		
+				 LS(%): 148,42 			 13,33 			0,2340	1,4842		
+				 BDI (%): 23,40 			 13,20 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 69,60 		0,2340	1,4842		69,60
+										0,2340	1,4842		
+										0,2340	1,4842		
+	11.1.3	Ferragens p/ porta de banheiro	CJ							0,2340	1,4842		
+		Ferragens p/ porta de banheiro	CJ	 66,21 	 230,00 	 1,0000 		 66,21 		0,2340	1,4842		
+		MONTADOR	H	 5,21 		 1,3000 	 6,77 			0,2340	1,4842		
+		AJUDANTE	H	 3,77 		 2,2000 	 8,29 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 15,07 	 66,21 		0,2340	1,4842		
+				 LS(%): 148,42 			 22,36 			0,2340	1,4842		
+				 BDI (%): 23,40 			 24,25 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				127,89		0,2340	1,4842		127,89
+										0,2340	1,4842		
+										0,2340	1,4842		
+	11.1.4	Ferragens p/ porta interna 1 fl.	CJ							0,2340	1,4842		
+		Ferragens p/ porta interna 1 fl.	CJ	 67,51 	 270,00 	 1,0000 		 67,51 		0,2340	1,4842		
+		MONTADOR	H	 5,21 		 1,3000 	 6,77 			0,2340	1,4842		
+		AJUDANTE	H	 3,77 		 2,2000 	 8,29 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 15,07 	 67,51 		0,2340	1,4842		
+				 LS(%): 148,42 			 22,36 			0,2340	1,4842		
+				 BDI (%): 23,40 			 24,56 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 129,50 		0,2340	1,4842		129,50
+										0,2340	1,4842		
+										0,2340	1,4842		
+	12.1	Cerâmica 20x20cm	M2							0,2340	1,4842		
+		Cerâmica 20x20cm	M²	 35,00 	 14,00 	 1,0900 		 38,15 		0,2340	1,4842		
+		ARGAMASSA COLANTE AC I PARA CERAMICAS	kg	 1,20 	 0,62 	 6,1400 		 7,37 		0,2340	1,4842		
+		REJUNTE COLORIDO	kg	 4,00 	 3,96 	 0,2200 		 0,88 		0,2340	1,4842		
+		PEDREIRO	H	 5,21 		 0,2893 	 1,51 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,2000 	 0,75 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 2,26 	 46,40 		0,2340	1,4842		
+				 LS(%): 148,42 			 3,36 			0,2340	1,4842		
+				 BDI (%): 23,40 			 12,17 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 64,19 		0,2340	1,4842		64,19
+										0,2340	1,4842		
+	12.2	Chapisco de cimento e areia no traço 1:3	M2							0,2340	1,4842		
+		Chapisco de cimento e areia no traço 1:3	M2	 3,15 	 10,10 	 1,0600 		 3,34 		0,2340	1,4842		
+		PEDREIRO	H	 5,21 		 0,0900 	 0,47 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 0,81 	 3,34 		0,2340	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2340	1,4842		
+				 BDI (%): 23,40 			 1,25 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 6,60 		0,2340	1,4842		6,60
+										0,2340	1,4842		
+	12.3	Emboço 	M2							0,2340	1,4842		
+		Emboço 	M2	 16,61 	 17,50 	 1,0000 		 16,61 		0,2340	1,4842		
+		PEDREIRO	H	 5,21 		 0,1000 	 0,52 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,1000 	 0,38 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 0,90 	 16,61 		0,2340	1,4842		
+				 LS(%): 148,42 			 1,33 			0,2340	1,4842		
+				 BDI (%): 23,40 			 4,41 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 23,25 		0,2340	1,4842		23,25
+										0,2340	1,4842		
+	12.4	Reboco 	M2							0,2340	1,4842		
+		Reboco 	M2	 1,80 	 42,30 	 1,0000 		 1,80 		0,2340	1,4842		
+		MONTADOR	H	 5,21 		 0,9000 	 4,69 			0,2340	1,4842		
+		AJUDANTE	H	 3,77 		 0,9000 	 3,39 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 8,08 	 1,80 		0,2340	1,4842		
+				 LS(%): 148,42 			 12,00 			0,2340	1,4842		
+				 BDI (%): 23,40 			 5,12 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 27,00 		0,2340	1,4842		27,00
+										0,2340	1,4842		
+	13.1	Rodape ceramico	M							0,2340	1,4842		
+		Rodape ceramico	M	 8,93 	 46,00 	 1,0000 		 8,93 		0,2340	1,4842		
+		PEDREIRO	H	 5,21 		 0,0100 	 0,05 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,0100 	 0,04 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 0,09 	 8,93 		0,2340	1,4842		
+				 LS(%): 148,42 			 0,13 			0,2340	1,4842		
+				 BDI (%): 23,40 			 2,14 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 11,30 		0,2340	1,4842		11,30
+										0,2340	1,4842		
+	14.1	Calçada (incl.alicerce, baldrame e concreto c/ junta seca)	M2							0,2340	1,4842		
+		Calçada (incl.alicerce, baldrame e concreto c/ junta seca)	M³	 42,70 	 23,44 	 1,0000 		 42,70 		0,2340	1,4842		
+		PEDREIRO	H	 5,21 		 1,0000 	 5,21 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,0000 	 3,77 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 8,98 	 42,70 		0,2340	1,4842		
+				 LS(%): 148,42 			 13,33 			0,2340	1,4842		
+				 BDI (%): 23,40 			 15,21 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 80,22 		0,2340	1,4842		80,22
+										0,2340	1,4842		
+	14.2	Camada impermeabilizadora e=10cm c/ seixo	M2							0,2340	1,4842		
+		Camada impermeabilizadora e=10cm c/ seixo	M2	 425,00 	 413,98 	 0,0310 		 13,18 		0,2340	1,4842		
+		PEDREIRO	H	 5,21 		 1,0000 	 5,21 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,0000 	 3,77 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 8,98 	 13,18 		0,2340	1,4842		
+				 LS(%): 148,42 			 13,33 			0,2340	1,4842		
+				 BDI (%): 23,40 			 8,30 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 43,79 		0,2340	1,4842		43,79
+										0,2340	1,4842		
+	14.3	Camada regularizadora no traço 1:4	M2							0,2340	1,4842		
+		ARGAMASSA TRAÇO 1:4 (CIMENTO E AREIA MÉDIA) PARA CONTRAPISO	M2	 33,60 	 413,98 	 0,0310 		 1,04 		0,2340	1,4842		
+		CIMENTO	Kg	 0,90 	#REF!	 0,0900 		 0,08 		0,2340	1,4842		
+		ADESIVO PARA ARGAMASSAS E CHAPISCOS	L	 8,44 	 8,44 	 0,1720 		 1,45 		0,2340	1,4842		
+		PEDREIRO	H	 5,21 		 1,0000 	 5,21 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,3000 	 1,13 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 6,34 	 2,57 		0,2340	1,4842		
+				 LS(%): 148,42 			 9,41 			0,2340	1,4842		
+				 BDI (%): 23,40 			 4,29 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 22,62 		0,2340	1,4842		22,62
+										0,2340	1,4842		
+	14.4	Cerâmica anti-derrapante	M2							0,2340	1,4842		
+		Cerâmica anti-derrapante	M2	 29,57 	 462,09 	 1,0000 		 29,57 		0,2340	1,4842		
+		PEDREIRO	H	 5,21 		 1,0000 	 5,21 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,0000 	 3,77 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 8,98 	 29,57 		0,2340	1,4842		
+				 LS(%): 148,42 			 13,33 			0,2340	1,4842		
+				 BDI (%): 23,40 			 12,14 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 64,02 		0,2340	1,4842		64,02
+										0,2340	1,4842		
+	14.5	Esmalte sobre madeira c/ massa e selador	M2							0,2340	1,4842		
+		Esmalte sobre madeira c/ massa e selador	M2	 38,32 	 462,09 	 1,0000 		 38,32 		0,2340	1,4842		
+		PEDREIRO	H	 5,21 		 1,0000 	 5,21 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,0000 	 3,77 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 8,98 	 38,32 		0,2340	1,4842		
+				 LS(%): 148,42 			 13,33 			0,2340	1,4842		
+				 BDI (%): 23,40 			 14,19 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 74,82 		0,2340	1,4842		74,82
+										0,2340	1,4842		
+	15.1	Barroteamento em madeira de lei p/ forro PVC	M2							0,2340	1,4842		
+		Barroteamento em madeira de lei p/ forro PVC	M2	 17,01 	 462,09 	 0,9000 		 15,31 		0,2340	1,4842		
+		PEDREIRO	H	 5,21 		 0,5000 	 2,61 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,5000 	 1,89 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 4,49 	 15,31 		0,2340	1,4842		
+				 LS(%): 148,42 			 6,66 			0,2340	1,4842		
+				 BDI (%): 23,40 			 6,19 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 32,66 		0,2340	1,4842		32,66
+										0,2340	1,4842		
+	15.2	Forro em lambri de PVC	M2							0,2340	1,4842		
+		Forro em lambri de PVC	M2	 18,00 	 462,09 	 0,9000 		 16,20 		0,2340	1,4842		
+		PEDREIRO	H	 5,21 		 0,5000 	 2,61 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,5000 	 1,89 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 4,49 	 16,20 		0,2340	1,4842		
+				 LS(%): 148,42 			 6,66 			0,2340	1,4842		
+				 BDI (%): 23,40 			 6,40 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 33,76 		0,2340	1,4842		33,76
+										0,2340	1,4842		
+	16.1.1	Esmalte sobre grade de ferro (superf. aparelhada)	M2							0,2340	1,4842		
+		Esmalte sobre grade de ferro (superf. aparelhada)	M2	 31,94 	 462,09 	 0,6000 		 19,17 		0,2340	1,4842		
+		PINTOR	H	 5,21 		 0,3120 	 1,63 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,2140 	 0,81 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 2,43 	 19,17 		0,2340	1,4842		
+				 LS(%): 148,42 			 3,61 			0,2340	1,4842		
+				 BDI (%): 23,40 			 5,90 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 31,11 		0,2340	1,4842		31,11
+										0,2340	1,4842		
+	16.1.2	Esmalte sobre madeira c/ massa e selador	M2							0,2340	1,4842		
+		Esmalte sobre madeira c/ massa e selador	M2	 28,73 	 462,09 	 0,5700 		 16,38 		0,2340	1,4842		
+		PINTOR	H	 5,21 		 0,2900 	 1,51 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,1600 	 0,60 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 2,11 	 16,38 		0,2340	1,4842		
+				 LS(%): 148,42 			 3,14 			0,2340	1,4842		
+				 BDI (%): 23,40 			 5,06 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 26,69 		0,2340	1,4842		26,69
+										0,2340	1,4842		
+	16.2.1	Acrilica (sobre pintura antiga)	M2							0,2340	1,4842		
+		Acrilica (sobre pintura antiga)	M2	 6,90 	 38,00 	 1,0000 		 6,90 		0,2340	1,4842		
+		PINTOR	H	 5,21 		 0,0090 	 0,05 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,0400 	 0,15 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 0,20 	 6,90 		0,2340	1,4842		
+				 LS(%): 148,42 			 0,29 			0,2340	1,4842		
+				 BDI (%): 23,40 			 1,73 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 9,12 		0,2340	1,4842		9,12
+										0,2340	1,4842		
+	16.2.2	Acrilica fosca int./ext. c/massa e selador - 3 demaos	M2							0,2340	1,4842		
+		Acrilica fosca int./ext. c/massa e selador - 3 demaos	kg	 26,00 	#REF!	 0,7000 		 18,20 		0,2340	1,4842		
+		PINTOR	H	 5,21 		 0,2420 	 1,26 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,1900 	 0,72 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 1,98 	 18,20 		0,2340	1,4842		
+				 LS(%): 148,42 			 2,93 			0,2340	1,4842		
+				 BDI (%): 23,40 			 5,41 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 28,52 		0,2340	1,4842		28,52
+										0,2340	1,4842		
+	16.3.1	Acrílica para piso	M2							0,2340	1,4842		
+		Acrílica para piso	M²	 11,41 	 28,00 	 0,8000 		 9,13 		0,2340	1,4842		
+		PINTOR	H	 5,21 		 0,0300 	 0,16 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,0090 	 0,03 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 0,19 	 9,13 		0,2340	1,4842		
+				 LS(%): 148,42 			 0,28 			0,2340	1,4842		
+				 BDI (%): 23,40 			 2,25 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 11,85 		0,2340	1,4842		11,85
+										0,2340	1,4842		
+	17.1.1	Centro de distribuição p/ 16 disjuntores (c/ barramento)	UN							0,2340	1,4842		
+		Centro de distribuição p/ 16 disjuntores (c/ barramento)	UN	 114,41 	 75,98 	 2,5000 		 286,04 		0,2340	1,4842		
+		ELETRICISTA	H	 5,21 		 2,5000 	 13,03 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,5000 	 5,66 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 18,68 	 286,04 		0,2340	1,4842		
+				 LS(%): 148,42 			 27,72 			0,2340	1,4842		
+				 BDI (%): 23,40 			 77,79 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 410,23 		0,2340	1,4842		410,23
+										0,2340	1,4842		
+	17.1.2	Quadro de mediçao trifasico (c/ disjuntor)	UN							0,2340	1,4842		
+		Quadro de mediçao trifasico (c/ disjuntor)	UN	 147,99 	 44,00 	 2,6000 		 384,78 		0,2340	1,4842		
+		ELETRICISTA	H	 5,21 		 2,5000 	 13,03 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,5000 	 5,66 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 18,68 	 384,78 		0,2340	1,4842		
+				 LS(%): 148,42 			 27,72 			0,2340	1,4842		
+				 BDI (%): 23,40 			 100,90 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 532,08 		0,2340	1,4842		532,08
+										0,2340	1,4842		
+	17.2.1	Disjuntor 01P - 10 a 30A - PADRÃO DIN	UN							0,2340	1,4842		
+		Disjuntor 01P - 10 a 30A - PADRÃO DIN	UN	 10,78 	 44,00 	 1,0000 		 10,78 		0,2340	1,4842		
+		ELETRICISTA	H	 5,21 		 0,0500 	 0,26 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,0500 	 0,19 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 0,45 	 10,78 		0,2340	1,4842		
+				 LS(%): 148,42 			 0,67 			0,2340	1,4842		
+				 BDI (%): 23,40 			 2,78 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 14,68 		0,2340	1,4842		14,68
+											1,4842		
+	17.2.2	Disjuntor 01P - 40 e 50A - PADRÃO DIN	UN							0,2340	1,4842		
+		Disjuntor 01P - 40 e 50A - PADRÃO DIN	UN	 12,63 	 44,00 	 1,0000 		 12,63 		0,2340	1,4842		
+		ELETRICISTA	H	 5,21 		 0,0500 	 0,26 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,0500 	 0,19 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 0,45 	 12,63 		0,2340	1,4842		
+				 LS(%): 148,42 			 0,67 			0,2340	1,4842		
+				 BDI (%): 23,40 			 3,22 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 16,96 		0,2340	1,4842		16,96
+											1,4842		
+	17.2.3	Disjuntor 02P - 15 a 50A - PADRÃO DIN	UN							0,2340	1,4842		
+		Disjuntor 02P - 15 a 50A - PADRÃO DIN	UN	 39,81 	 44,00 	 1,0000 		 39,81 		0,2340	1,4842		
+		ELETRICISTA	H	 5,21 		 0,0500 	 0,26 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,0500 	 0,19 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 0,45 	 39,81 		0,2340	1,4842		
+				 LS(%): 148,42 			 0,67 			0,2340	1,4842		
+				 BDI (%): 23,40 			 9,58 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 50,50 		0,2340	1,4842		50,50
+										0,2340	1,4842		
+	17.2.4	Disjuntor 03P - 15 a 50A - PADRÃO DIN	UN							0,2340	1,4842		
+		Disjuntor 03P - 15 a 50A - PADRÃO DIN	UN	 54,96 	 44,00 	 1,0000 		 54,96 		0,2340	1,4842		
+		ELETRICISTA	H	 5,21 		 0,0500 	 0,26 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,0500 	 0,19 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 0,45 	 54,96 		0,2340	1,4842		
+				 LS(%): 148,42 			 0,67 			0,2340	1,4842		
+				 BDI (%): 23,40 			 13,12 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 69,19 		0,2340	1,4842		69,19
+													
+													
+	17.3.1	Ponto de força (tubul., fiaçao e disjuntor) acima de 200W	Pt							0,2340	1,4842		
+		Ponto de força (tubul., fiaçao e disjuntor) acima de 200W	Pt	 50,50 	 31,00 	 3,5000 		 176,76 		0,2340	1,4842		
+		ELETRICISTA	H	 5,21 		 2,5000 	 13,03 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,5000 	 5,66 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 18,68 	 176,76 		0,2340	1,4842		
+				 LS(%): 148,42 			 27,72 			0,2340	1,4842		
+				 BDI (%): 23,40 			 52,22 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 275,39 		0,2340	1,4842		275,39
+										0,2340	1,4842		
+	17.3.2	Ponto de luz / força (c/tubul., cx. e fiaçao) ate 200W	Pt							0,2340	1,4842		
+		Ponto de luz / força (c/tubul., cx. e fiaçao) ate 200W	Pt	 42,53 	 50,00 	 2,0000 		 85,05 		0,2340	1,4842		
+		ELETRICISTA	H	 5,21 		 1,0000 	 5,21 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,0000 	 3,77 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 8,98 	 85,05 		0,2340	1,4842		
+				 LS(%): 148,42 			 13,33 			0,2340	1,4842		
+				 BDI (%): 23,40 			 25,12 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 132,48 		0,2340	1,4842		132,48
+										0,2340	1,4842		
+	17.3.3	Ponto p/ ventilador de teto (c/ fiaçao)	Pt							0,2340	1,4842		
+		Ponto p/ ventilador de teto (c/ fiaçao)	Pt	 11,50 	 30,00 	 1,7135 		 19,71 		0,2340	1,4842		
+		ELETRICISTA	H	 5,21 		 1,5000 	 7,82 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,5000 	 5,66 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 13,47 	 19,71 		0,2340	1,4842		
+				 LS(%): 148,42 			 19,99 			0,2340	1,4842		
+				 BDI (%): 23,40 			 12,44 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 65,61 		0,2340	1,4842		65,61
+										0,2340	1,4842		
+	17.4.1	Luminária  p/ lâmp PLL de embutir	UN							0,2340	1,4842		
+		Luminária  p/ lâmp PLL de embutir	UN	 20,67 	 21,00 	 1,8000 		 37,20 		0,2340	1,4842		
+		ELETRICISTA	H	 5,21 		 1,2000 	 6,25 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,2000 	 4,52 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 10,78 	 37,20 		0,2340	1,4842		
+				 LS(%): 148,42 			 15,99 			0,2340	1,4842		
+				 BDI (%): 23,40 			 14,97 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 78,94 		0,2340	1,4842		78,94
+										0,2340	1,4842		
+	18.1.1	Ponto de agua (incl. tubos e conexoes)	Pt							0,2340	1,4842		
+		Ponto de agua (incl. tubos e conexoes)	Pt	 139,48 	 2,23 	 1,0000 		 139,48 		0,2340	1,4842		
+		ENCANADOR	H	 5,21 		 2,5000 	 13,03 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,0000 	 3,77 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 16,80 	 139,48 		0,2340	1,4842		
+				 LS(%): 148,42 			 24,93 			0,2340	1,4842		
+				 BDI (%): 23,40 			 42,40 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 223,60 		0,2340	1,4842		223,60
+										0,2340	1,4842		
+	18.1.2	Reservatório em fibra de vidro  3.000 L	UN							0,2340	1,4842		
+		Reservatório em fibra de vidro  3.000 L	U N	 1.255,83 	 2,37 	 1,0000 		 1.255,83 		0,2340	1,4842		
+		ENCANADOR	H	 5,21 		 3,5000 	 18,24 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 2,5000 	 9,43 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 27,66 	 1.255,83 		0,2340	1,4842		
+				 LS(%): 148,42 			 41,05 			0,2340	1,4842		
+				 BDI (%): 23,40 			 309,94 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 1.634,49 		0,2340	1,4842		1.634,49
+										0,2340	1,4842		
+	18.2.1	Fossa septica em concreto armado - cap=150 pessoas	UN							0,2340	1,4842		
+		Fossa septica em concreto armado - cap=150 pessoas	U N	 7.635,86 	 950,00 	 1,0000 		 7.635,86 		0,2340	1,4842		
+		ARMADOR	H	 5,21 		 3,0000 	 15,63 			0,2340	1,4842		
+		POCEIRO	H	 6,75 		 22,5520 	 152,23 			0,2340	1,4842		
+		PEDREIRO	H	 5,21 		 11,6390 	 60,64 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 16,4350 	 61,96 			0,2340	1,4842		
+										0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 290,46 	 7.635,86 		0,2340	1,4842		
+				 LS(%): 148,42 			 181,96 			0,2340	1,4842		
+				 BDI (%): 23,40 			 1.897,34 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 10.005,62 		0,2340	1,4842		10.005,62
+										0,2340	1,4842		
+	18.2.2	Ponto de esgoto (incl. tubos, conexoes,cx. e ralos)	Pt							0,2340	1,4842		
+		Ponto de esgoto (incl. tubos, conexoes,cx. e ralos)	Pt	 141,13 	 38,84 	 1,0000 		 141,13 		0,2340	1,4842		
+		ENCANADOR	H	 5,21 		 2,3000 	 11,98 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,5000 	 5,66 			0,2340	1,4842		
+										0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 17,64 	 141,13 		0,2340	1,4842		
+				 LS(%): 148,42 			 26,18 			0,2340	1,4842		
+				 BDI (%): 23,40 			 43,28 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 228,22 		0,2340	1,4842		228,22
+										0,2340	1,4842		
+	18.2.3	Sumidouro em alvenaria c/ tpo.em concreto - cap=150 pessoas	UN							0,2340	1,4842		
+		Sumidouro em alvenaria c/ tpo.em concreto - cap=150 pessoas	U N	 3.281,07 	 1,50 	 1,0000 		 3.281,07 		0,2340	1,4842		
+		ARMADOR	H	 5,21 		 3,0000 		 15,63 		0,2340	1,4842		
+		POCEIRO	H	 6,75 		 22,5520 		 152,23 		0,2340	1,4842		
+		PEDREIRO	H	 5,21 		 11,6390 	 60,64 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 16,4350 	 61,96 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 122,60 	 3.448,93 		0,2340	1,4842		
+				 LS(%): 148,42 			 181,96 			0,2340	1,4842		
+				 BDI (%): 23,40 			 878,32 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 4.631,81 		0,2340	1,4842		4.631,81
+										0,2340	1,4842		
+	18.2.4	Tubo em PVC - 100mm (LS)	M							0,2340	1,4842		
+		Tubo em PVC - 100mm (LS)	M	 16,06 	 98,99 	 1,0000 		 16,06 		0,2340	1,4842		
+		ENCANADOR	H	 5,21 		 0,1440 	 0,75 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,1440 	 0,54 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 1,29 	 16,06 		0,2340	1,4842		
+				 LS(%): 148,42 			 1,92 			0,2340	1,4842		
+				 BDI (%): 23,40 			 4,51 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 23,78 		0,2340	1,4842		23,78
+										0,2340	1,4842		
+	18.3.2	Joelho/Cotovelo 90º RC em PVC - JS - 100mm-LS	UN							0,2340	1,4842		
+		Joelho/Cotovelo 90º RC em PVC - JS - 100mm-LS	U N	 12,77 	 76,00 	 1,0000 		 12,77 		0,2340	1,4842		
+		ENCANADOR	H	 5,21 		 0,0720 	 0,38 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,0720 	 0,27 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 0,65 	 12,77 		0,2340	1,4842		
+				 LS(%): 148,42 			 0,96 			0,2340	1,4842		
+				 BDI (%): 23,40 			 3,36 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 17,74 		0,2340	1,4842		17,74
+										0,2340	1,4842		
+	19.1	Extintor de incêndio (pó químico) - 12 kg	UN							0,2340	1,4842		
+		Extintor de incêndio (pó químico) - 12 kg	UN	 122,51 	 8,06 	 2,5000 		 306,27 		0,2340	1,4842		
+		ENCANADOR	H	 5,21 		 1,8000 	 9,38 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,0000 	 3,77 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 13,15 	 306,27 		0,2340	1,4842		
+				 LS(%): 148,42 			 19,51 			0,2340	1,4842		
+				 BDI (%): 23,40 			 79,31 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 418,24 		0,2340	1,4842		418,24
+										0,2340	1,4842		
+	19.2	Extintor de incêndio ABC - 12Kg	UN							0,2340	1,4842		
+		Extintor de incêndio ABC - 12Kg	U N	 193,16 	 48,00 	 1,5000 		 289,74 		0,2340	1,4842		
+		ENCANADOR	H	 5,21 		 0,8600 	 4,48 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,8600 	 3,24 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 7,72 	 289,74 		0,2340	1,4842		
+				 LS(%): 148,42 			 11,46 			0,2340	1,4842		
+				 BDI (%): 23,40 			 72,29 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 381,22 		0,2340	1,4842		381,22
+										0,2340	1,4842		
+	19.3	Extintor de incendio CO2-6kg	UN							0,2340	1,4842		
+		Extintor de incendio CO2-6kg	U N	 150,79 	 0,53 	 2,5000 		 376,98 		0,2340	1,4842		
+		ENCANADOR	H	 5,21 		 1,6000 	 8,34 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,2000 	 4,52 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 12,86 	 376,98 		0,2340	1,4842		
+				 LS(%): 148,42 			 19,09 			0,2340	1,4842		
+				 BDI (%): 23,40 			 95,69 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 504,62 		0,2340	1,4842		504,62
+										0,2340	1,4842		
+	20.1	Bacia sifonada  - PNE	UN							0,2340	1,4842		
+		Bacia sifonada  - PNE	UN	 250,07 	 0,60 	 2,7000 		 675,19 		0,2340	1,4842		
+		ENCANADOR	H	 5,21 		 1,4000 	 7,29 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,0000 	 3,77 			0,2340	1,4842		
+										0,2340	1,4842		
+										0,2340			
+				 Custo Direto 			 11,06 	 675,19 		0,2340	1,4842		
+				 LS(%): 148,42 			 16,42 			0,2340	1,4842		
+				 BDI (%): 23,40 			 164,43 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 867,11 		0,2340	1,4842		867,11
+										0,2340	1,4842		
+	20.2	Bacia sifonada c/cx. descarga acoplada c/ assento	UN							0,2340	1,4842		
+		Bacia sifonada c/cx. descarga acoplada c/ assento	U N	 153,21 	 1,75 	 2,3000 		 352,38 		0,2340	1,4842		
+		ENCANADOR	H	 5,21 		 1,2000 	 6,25 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,0000 	 3,77 			0,2340	1,4842		
+										0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 10,02 	 352,38 		0,2340	1,4842		
+				 LS(%): 148,42 			 14,87 			0,2340	1,4842		
+				 BDI (%): 23,40 			 88,28 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 465,55 		0,2340	1,4842		465,55
+										0,2340	1,4842		
+	20.3	Barra em aço inox (PNE)	M							0,2340	1,4842		
+		Barra em aço inox (PNE)	M	 127,63 	 2,53 	 1,4000 		 178,68 		0,2340	1,4842		
+		ENCANADOR	H	 5,21 		 1,0000 	 5,21 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,0000 	 3,77 			0,2340	1,4842		
+										0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 8,98 	 178,68 		0,2340	1,4842		
+				 LS(%): 148,42 			 13,33 			0,2340	1,4842		
+				 BDI (%): 23,40 			 47,03 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 248,03 		0,2340	1,4842		248,03
+										0,2340	1,4842		
+	20.4	Bebedouro aço inox c/4 torneiras e filtro (det.5)	UN							0,2340	1,4842		
+		Bebedouro aço inox c/4 torneiras e filtro (det.5)	U N	 974,08 	 6,70 	 3,0000 		 2.922,23 		0,2340	1,4842		
+		ENCANADOR	H	 5,21 		 2,5000 	 13,03 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,7000 	 6,41 			0,2340	1,4842		
+										0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 19,43 	 2.922,23 		0,2340	1,4842		
+				 LS(%): 148,42 			 28,84 			0,2340	1,4842		
+				 BDI (%): 23,40 			 695,10 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 3.665,60 		0,2340	1,4842		3.665,60
+										0,2340	1,4842		
+	20.5	Lavatorio de louça c/col.,torn.,mistur.,sifao e valv.	UN							0,2340	1,4842		
+		Lavatorio de louça c/col.,torn.,mistur.,sifao e valv.	U N	 219,08 	 11,57 	 1,5000 		 328,61 		0,2340	1,4842		
+		ENCANADOR	H	 5,21 		 1,0000 	 5,21 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,0000 	 3,77 			0,2340	1,4842		
+										0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 8,98 	 328,61 		0,2340	1,4842		
+				 LS(%): 148,42 			 13,33 			0,2340	1,4842		
+				 BDI (%): 23,40 			 82,12 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 433,04 		0,2340	1,4842		433,04
+										0,2340	1,4842		
+	20.6	Mictório coletivo em aço c/ registro de pressão - 1,5m	UN							0,2340	1,4842		
+		Mictório coletivo em aço c/ registro de pressão - 1,5m	U N	 357,43 	 13,65 	 2,0000 		 714,87 		0,2340	1,4842		
+		ENCANADOR	H	 5,21 		 1,5000 	 7,82 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,2000 	 4,52 			0,2340	1,4842		
+										0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 12,34 	 714,87 		0,2340	1,4842		
+				 LS(%): 148,42 			 18,31 			0,2340	1,4842		
+				 BDI (%): 23,40 			 174,45 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 919,97 		0,2340	1,4842		919,97
+										0,2340	1,4842		
+	20.7	Mictorio individual em louça c/ acessorios	UN							0,2340	1,4842		
+		Mictorio individual em louça c/ acessorios	U N	 178,34 	 13,65 	 2,0000 		 356,69 		0,2340	1,4842		
+		ENCANADOR	H	 5,21 		 1,5000 	 7,82 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,2000 	 4,52 			0,2340	1,4842		
+										0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 12,34 	 356,69 		0,2340	1,4842		
+				 LS(%): 148,42 			 18,31 			0,2340	1,4842		
+				 BDI (%): 23,40 			 90,64 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 477,98 		0,2340	1,4842		477,98
+										0,2340	1,4842		
+	20.8	Pia 02 cubas em aço inox.c/torn.,sifoes e valv.(2.0m)	UN							0,2340	1,4842		
+		Pia 02 cubas em aço inox.c/torn.,sifoes e valv.(2.0m)	U N	 358,42 	 5,76 	 2,0000 		 716,85 		0,2340	1,4842		
+		ENCANADOR	H	 5,21 		 1,0000 	 5,21 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,0000 	 3,77 			0,2340	1,4842		
+										0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 8,98 	 716,85 		0,2340	1,4842		
+				 LS(%): 148,42 			 13,33 			0,2340	1,4842		
+				 BDI (%): 23,40 			 172,96 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 912,12 		0,2340	1,4842		912,12
+										0,2340	1,4842		
+	20.9	Porta papel higiênico - Polipropileno	UN							0,2340	1,4842		
+		Porta papel higiênico - Polipropileno	U N	 13,12 	 1,96 	 1,3000 		 17,06 		0,2340	1,4842		
+		ENCANADOR	H	 5,21 		 0,9000 	 4,69 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,9000 	 3,39 			0,2340	1,4842		
+										0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 8,08 	 17,06 		0,2340	1,4842		
+				 LS(%): 148,42 			 12,00 			0,2340	1,4842		
+				 BDI (%): 23,40 			 8,69 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 45,83 		0,2340	1,4842		45,83
+										0,2340	1,4842		
+	20.10	Porta toalha de papel - Polipropileno	UN							0,2340	1,4842		
+		Porta toalha de papel - Polipropileno	U N	 58,02 	 3,66 	 1,2000 		 69,63 		0,2340	1,4842		
+		ENCANADOR	H	 5,21 		 1,0000 	 5,21 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,0000 	 3,77 			0,2340	1,4842		
+										0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 8,98 	 69,63 		0,2340	1,4842		
+				 LS(%): 148,42 			 13,33 			0,2340	1,4842		
+				 BDI (%): 23,40 			 21,51 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 113,45 		0,2340	1,4842		113,45
+										0,2340	1,4842		
+	20.11	Saboneteira c/ reservatório - Polipropileno	UN							0,2340	1,4842		
+		Saboneteira c/ reservatório - Polipropileno	U N	 7,44 	 9,50 	 1,5000 		 11,16 		0,2340	1,4842		
+		ENCANADOR	H	 5,21 		 1,0000 	 5,21 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,0000 	 3,77 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 8,98 	 11,16 		0,2340	1,4842		
+				 LS(%): 148,42 			 13,33 			0,2340	1,4842		
+				 BDI (%): 23,40 			 7,83 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 41,30 		0,2340	1,4842		41,30
+										0,2340	1,4842		
+	21.1	Escada de marinheiro c/ proteçao	M							0,2340	1,4842		
+		Escada de marinheiro c/ proteçao	M	 140,70 	 10,56 	 2,0000 		 281,39 		0,2340	1,4842		
+		SERRALHEIRO	H	 5,21 		 1,0000 	 5,21 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,0000 	 3,77 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 8,98 	 281,39 		0,2340	1,4842		
+				 LS(%): 148,42 			 13,33 			0,2340	1,4842		
+				 BDI (%): 23,40 			 71,07 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 374,77 		0,2340	1,4842		374,77
+										0,2340	1,4842		
+	22.1	Quadro magnético branco c/ apoio para apagador e pincéis e moldura em alumínio 3,15 x 1,25 m 	M2							0,2340	1,4842		
+		Quadro magnético branco c/ apoio para apagador e pincéis e moldura em alumínio 3,15 x 1,25 m 	M2	 115,72 	 3,50 	 2,0000 		 231,44 		0,2340	1,4842		
+		PREDEIRO	H	 5,21 		 1,0000 	 5,21 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,0000 	 3,77 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 8,98 	 231,44 		0,2340	1,4842		
+				 LS(%): 148,42 			 13,33 			0,2340	1,4842		
+				 BDI (%): 23,40 			 59,38 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 313,13 		0,2340	1,4842		313,13
+										0,2340	1,4842		
+	23.1	Torre em conc.armado p/ cx.d'agua h=6,0m-base 2.0x2.0m	UN							0,2340	1,4842		
+		Torre em conc.armado p/ cx.d'agua h=6,0m-base 2.0x2.0m	U N	 2.459,97 	 3,82 	 3,0000 		 7.379,90 		0,2340	1,4842		
+		PREDEIRO	H	 5,21 		 2,0000 	 10,42 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 2,0000 	 7,54 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 17,96 	 7.379,90 		0,2340	1,4842		
+				 LS(%): 148,42 			 26,66 			0,2340	1,4842		
+				 BDI (%): 23,40 			 1.737,34 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 9.161,85 		0,2340	1,4842		9.161,85
+										0,2340	1,4842		
+	24.1	Ventilador de teto	UN							0,2340	1,4842		
+		Ventilador de teto	U N	 160,01 	 4,35 	 1,0000 		 160,01 		0,2340	1,4842		
+		ELETRICISTA	H	 5,21 		 0,8000 	 4,17 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,8000 	 3,02 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 7,18 	 160,01 		0,2340	1,4842		
+				 LS(%): 148,42 			 10,66 			0,2340	1,4842		
+				 BDI (%): 23,40 			 41,62 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 219,48 		0,2340	1,4842		219,48
+										0,2340	1,4842		
+										0,2340	1,4842		
+										0,2340	1,4842		
+	25.1	Bloco de concreto intertravado e=9cm (incl. colchao de areia e rejuntamento)	M2							0,2340	1,4842		
+		Bloco de concreto intertravado e=9cm (incl. colchao de areia e rejuntamento)	M2	 22,11 	 5,15 	 2,0000 		 44,22 		0,2340	1,4842		
+		PREDEIRO	H	 5,21 		 1,0000 	 5,21 			0,2340	1,4842		
+		SERVENTE	H	 3,77 		 1,0000 	 3,77 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 8,98 	 44,22 		0,2340	1,4842		
+				 LS(%): 148,42 			 13,33 			0,2340	1,4842		
+				 BDI (%): 23,40 			 15,57 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 82,10 		0,2340	1,4842		82,10
+										0,2340	1,4842		
+	26.1	Limpeza geral e entrega da obra	M2							0,2340	1,4842		
+		Limpeza geral e entrega da obra	M2	 2,15 	#REF!	 1,0000 		 2,15 		0,2340	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2340	1,4842		
+										0,2340	1,4842		
+				 Custo Direto 			 0,34 	 2,15 		0,2340	1,4842		
+				 LS(%): 148,42 			 0,50 			0,2340	1,4842		
+				 BDI (%): 23,40 			 0,70 			0,2340	1,4842		
+				 Valor Total c/ Taxas 				 3,70 		0,2340	1,4842		3,70
+										0,2340	1,4842		
+													
+													

@@ -1,0 +1,2854 @@
+﻿	TERPLANC - TERRAPLENAGEM  PLANEJAMENTO CONSTRUÇÃO E SEVIÇOS  EIRELE - EPP												
+													
+													
+													
+		 PREFEITURA MUNICIPAL DE OEIRAS DO PARÁ											
+		OBRA:  CONSTRUÇÃO DE ESCOLA PADRÃO FNDE 12 (DOZE) SALAS DE AULA NO MUNICIPIO DE OEIRAS DO PARÁ/PA											
+		PRAZO DE EXECUÇÃO: 9 MESES											
+													
+		COMPOSIÇÃO DE CUSTO UNITÁRIO											
+										27,08%	148,42		1,000
+	ITEM	SERVIÇO / DESCRIÇÃO	UNID.	" PREÇO
+UNIT. (R$) "		 Qtd. / Coef. 	 PREÇO Total (R$) 			BDI	L. S		
+							 M. OBRA 	 MAT. 					
+		Barracão de obra	M2							0,2999	1,4842		
+		CONCRETO FCK=15MPA, PREPARO COM BETONEIRA, SEM LANCAMENTO	M³	 308,96 	 365,63 	 0,0150 		 4,63 		0,2999	1,4842	 308,96 	
+		"PINHO DE TERCEIRA 1"" X 12"" E 1"" X 9"""	M²	 26,11 	 30,90 	 1,0200 		 26,63 		0,2999	1,4842	 26,11 	
+		PISO CIMENTADO E=1,5CM C/ARGAMASSA 1:3 CIMENTO AREIA ALISADO COLHER SOBRE BASE EXISTENTE.	M²	 23,20 	 27,46 	 1,0000 		 23,20 		0,2999	1,4842	 23,20 	
+		LANCAMENTO/APLICACAO MANUAL DE CONCRETO EM ESTRUTURAS	M³	 69,43 	 82,16 	 0,0150 		 1,04 		0,2999	1,4842	 69,43 	
+		CHAPA DE MADEIRA COMPENSADA PLASTIFICADA PARA FORMA DE CONCRETO, DE *2,44 X 1,22* M, E = 10 MM	M²	 16,34 	 19,34 	 0,3860 		 0,25 		0,2999	1,4842	 16,34 	
+		"CONJUNTO ARRUELAS DE VEDACAO 5/16"" PARA TELHA FIBROCIMENTO (UMA ARRUELA METALICA E UMA ARRUELA PVC - CONICAS)"	CJ	 0,12 	 0,14 	 0,2140 		 0,05 		0,2999	1,4842	 0,12 	
+		DISJUNTOR TIPO NEMA, MONOPOLAR 10 ATE 30A	Un	 6,50 	 7,69 	 0,0057 		 1,39 		0,2999	1,4842	 6,50 	
+		"PECA DE MADEIRA NATIVA/REGIONAL 7,5 X 12,50 CM (3X5"") NÃO APARELHADA (P/FORMA)"	M	 5,13 	 6,07 	 0,7000 		 0,03 		0,2999	1,4842	 5,13 	
+		"PECA DE MADEIRA NATIVA/REGIONAL 7,5 X 7,5CM (3X3) NAO APARELHADA
+(P/FORMA)"	M	 2,81 	 3,32 	 0,9000 		 1,96 		0,2999	1,4842	 2,81 	
+		PREGO POLIDO COM CABECA 18 X 30	KG	 6,09 	 7,21 	 0,1000 		 5,48 		0,2999	1,4842	 6,09 	
+		CADEADO LATAO CROMADO H = 35MM / 5 PINOS / HASTE CROMADA H = 30MM	Un	 14,89 	 17,62 	 0,0058 		 1,49 		0,2999	1,4842	 14,89 	
+		PORTA CADEADO ZINCADO OXIDADO PRETO	Un	 4,46 	 5,28 	 0,0058 		 0,03 		0,2999	1,4842	 4,46 	
+		TELHA DE FIBROCIMENTO ONDULADA E = 6 MM, DE *2,44 X 1,10* M (SEM AMIANTO)	M2	 17,59 	 20,82 	 0,3180 		 0,10 		0,2999	1,4842	 17,59 	
+		VIDRO LISO INCOLOR 3 MM - SEM COLOCACAO	M²	 51,12 	 60,50 	 0,0230 		 5,11 		0,2999	1,4842	 51,12 	
+		PORTA DE MADEIRA SEMI-OCA, FOLHA LISA PARA PINTURA *80 X 210 X 3,5* CM	Un	 64,54 	 76,38 	 0,0115 		 0,37 		0,2999	1,4842	 64,54 	
+		"TABUA MADEIRA 3A QUALIDADE 2,5 X 23,0CM (1 X 9"") NAO APARELHADA"	M	 4,17 	 4,94 	 0,2500 		 0,02 		0,2999	1,4842	 4,17 	
+		"CANTONEIRA ACO ABAS IGUAIS (QUALQUER BITOLA), E = 1/8 """	KG	 2,69 	 3,18 	 0,3030 		 0,85 		0,2999	1,4842	 2,69 	
+		"PARAFUSO ROSCA SOBERBA ZINCADO CABECA CHATA FENDA SIMPLES 3,8 X 30 MM (1.1/4 "")"	Un	 0,03 	 0,04 	 1,2800 		 0,00 		0,2999	1,4842	 0,03 	
+		"DOBRADICA FERRO POLIDO OU GALV 3 X 3"" E=2MM"	Un	 2,89 	 3,42 	 0,0346 		 0,03 		0,2999	1,4842	 2,89 	
+		FECHADURA SOBREPOR FERRO PINTADO CHAVE GRANDE	Un	 7,60 	 8,99 	 0,0058 		 1,90 		0,2999	1,4842	 7,60 	
+		FIO/CORDAO COBRE ISOLADO PARALELO OU TORCIDO 2 X 2,5MM2, TIPO PLASTIFLEX PIRELLI OU EQUIV	M	 2,13 	 2,52 	 0,5360 		 0,65 		0,2999	1,4842	 2,13 	
+		INTERRUPTOR SOBREPOR 1 TECLA SIMPLES, TIPO SILENTOQUE PIAL OU EQUIV	Un	 3,17 	 3,75 	 0,0230 		 4,06 		0,2999	1,4842	 3,17 	
+		TOMADA SOBREPOR 2P UNIVERSAL 10A/250V, TIPO SILENTOQUE PIAL OU EQUIV	Un	 7,17 	 8,49 	 0,0220 		 0,25 		0,2999	1,4842	 7,17 	
+		BOCAL/SOQUETE/RECEPTACULO DE PORCELANA	Un	 1,91 	 2,26 	 0,0461 		 0,01 		0,2999	1,4842	 1,91 	
+		GLOBO ESFERICO DE VIDRO LISO TAMANHO MEDIO	Un	 9,91 	 11,73 	 0,0461 		 5,31 		0,2999	1,4842	 9,91 	
+		FITA ISOLANTE ADESIVA ANTI-CHAMA EM ROLOS 19MM X 5M	Un	 1,03 	 1,22 	 0,0240 		 0,02 		0,2999	1,4842	 1,03 	
+		CARPINTEIRO	H	 4,40 		 2,6580 	 11,70 			0,2999	1,4842	 4,40 	
+		SERRALHEIRO	H	 4,40 		 0,0100 	 0,04 			0,2999	1,4842	 4,40 	
+		ELETRICISTA	H	 4,40 		 0,0090 	 0,04 			0,2999	1,4842	 4,40 	
+		AUXILIAR DE SERRALHEIRO	H	 3,51 		 0,0100 	 0,04 			0,2999	1,4842	 3,51 	
+		SERVENTE	H	 3,19 		 4,3400 	 13,83 			0,2999	1,4842	 3,19 	
+										0,2999	1,4842		
+				 Custo Direto 			 25,65 	 84,88 		0,2999	1,4842		
+				 LS(%): 148,42 			 38,06 			0,2999	1,4842		
+				 BDI (%): 29,99 			 44,56 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 193,15 		0,2999	1,4842	193,15	 0,00 
+										0,2999	1,4842		
+		Ligação  provisória de água	U N							0,2999	1,4842		
+		Instalações provisórias de água	m²	 200,00 	 200,00 	 1,0000 		 200,00 		0,2999	1,4842	 200,00 	
+		PEDREIRO	H	 5,21 		 0,9000 	 4,69 			0,2999	1,4842	 5,21 	
+		CARPINTEIRO	H	 5,21 		 0,9000 	 4,69 			0,2999	1,4842	 5,21 	
+		ENCANADOR	H	 5,21 		 0,9000 	 4,69 			0,2999	1,4842	 5,21 	
+		SERVENTE	H	 3,77 		 1,7160 	 6,47 			0,2999	1,4842	 3,77 	
+										0,2999	1,4842		
+				 Custo Direto 			 20,54 	 200,00 		0,2999	1,4842		
+				 LS(%): 148,42 			 30,48 			0,2999	1,4842		
+				 BDI (%): 29,99 			 75,28 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 326,30 		0,2999	1,4842	326,3	-0,00 
+										0,2999	1,4842		
+		Ligação provisória de energia	U N							0,2999	1,4842		
+		Materiais para ligações provisórias de energia elétrica	vb	 752,49 	 403,00 	 1,00 		 752,49 		0,2999	1,4842	 752,49 	
+		Eletricista	H	 5,21 		 16,00 	 83,36 			0,2999	1,4842	 5,21 	
+		Encanador	H	 3,77 		 3,00 	 11,31 			0,2999	1,4842	 3,77 	
+		Servente	H	 3,77 		 16,00 	 60,32 			0,2999	1,4842	 3,77 	
+										0,2999	1,4842		
+				 Custo Direto 			 154,99 	 752,49 		0,2999	1,4842		
+				 LS(%): 148,42 			 230,04 			0,2999	1,4842		
+				 BDI (%): 29,99 			 341,14 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 1.478,66 		0,2999	1,4842	1.478,66	-0,00 
+											1,4842		
+		Ligação provisórias de esgoto	U N							0,2999	1,4842		
+		Instalações provisórias de esgoto	U N	 518,13 	 234,39 	 1,0000 		 518,13 		0,2999	1,4842	 518,13 	
+		PEDREIRO	H	 5,21 		 4,0000 	 20,84 			0,2999	1,4842	 5,21 	
+		CARPINTEIRO	H	 5,21 		 4,0000 	 20,84 			0,2999	1,4842	 5,21 	
+		ENCANADOR	H	 5,21 		 4,0000 	 20,84 			0,2999	1,4842	 5,21 	
+		SERVENTE	H	 3,77 		 6,0600 	 22,85 			0,2999	1,4842	 3,77 	
+										0,2999	1,4842		
+				 Custo Direto 			 85,37 	 518,13 		0,2999	1,4842		
+				 LS(%): 148,42 			 126,70 			0,2999	1,4842		
+				 BDI (%): 29,99 			 218,98 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 949,18 		0,2999	1,4842	949,18	-0,00 
+											1,4842		
+		Locação da obra - execução de gabarito	M2							0,2999	1,4842		
+		ARAME RECOZIDO 18 BWG, 1,25 MM (0,01 KG/M)	Kg	 15,01 	 6,98 	 0,0200 		 0,30 		0,2999	1,4842	 15,01 	
+		PECA DE MADEIRA NATIVA / REGIONAL 7,5 X 7,5CM (3X3) NAO APARELHADA (P/FORMA)	M	 5,99 	 3,32 	 0,0360 		 0,22 		0,2999	1,4842	 5,99 	
+		PREGO POLIDO COM CABECA 18 X 27	Kg	 9,79 	 7,75 	 0,0100 		 0,10 		0,2999	1,4842	 9,79 	
+		"TABUA MADEIRA 3A QUALIDADE 2,5 X 23,0CM (1 X 9"") NAO APARELHADA"	M	 7,23 	4,94	 0,0320 		 0,23 		0,2999	1,4842	 7,23 	
+		CARPINTEIRO	H	 5,21 		 0,3000 	 1,56 			0,2999	1,4842	 5,21 	
+		SERVENTE	H	 3,77 		 0,1000 	 0,38 			0,2999	1,4842	 3,77 	
+										0,2999	1,4842		
+				 Custo Direto 			 1,94 	 0,85 		0,2999	1,4842		
+				 LS(%): 148,42 			 2,88 			0,2999	1,4842		
+				 BDI (%): 29,99 			 1,70 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 7,36 		0,2999	1,4842	7,36	 0,00 
+										0,2999	1,4842		
+		Placa da obra - padrão Governo Federal	M2							0,2999	1,4842		
+		CONCRETO NAO ESTRUTURAL, CONSUMO 150KG/M3	m³	 310,00 	 284,00 	 0,0100 		 3,10 		0,2999	1,4842	 310,00 	
+		"PECA DE MADEIRA DE LEI *2,5 X 7,5* CM (1"" X 3""), NÃO APARELHADA, (P/TELHADO)"	m	 5,50 	 4,52 	 1,0000 		 5,50 		0,2999	1,4842	 5,50 	
+		PEçA DE MADEIRA NATIVA / REGIONAL 7,5 X 7,5CM (3X3) NAO APARELHADA (P/FORMA)	m	 3,65 	 3,32 	 4,0000 		 14,60 		0,2999	1,4842	 3,65 	
+		PLACA DE OBRA (PARA CONSTRUCAO CIVIL) EM CHAPA GALVANIZADA	m²	 279,46 	 203,00 	 1,0000 		 279,46 		0,2999	1,4842	 279,46 	
+		PREGO POLIDO COM CABECA 18 X 30	kg	 7,21 	 7,21 	 0,1100 		 0,79 		0,2999	1,4842	 7,21 	
+		Carpinteiro	H	 5,21 		 1,0000 	 5,21 			0,2999	1,4842	 5,21 	
+		Servente	H	 3,77 		 2,0000 	 7,54 			0,2999	1,4842	 3,77 	
+				 Custo Direto 			 12,75 	 303,45 		0,2999	1,4842		
+				 LS(%): 148,42 			 18,92 			0,2999	1,4842		
+				 BDI (%): 29,99 			 100,50 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 435,63 		0,2999	1,4842	435,63	 0,00 
+										0,2999	1,4842		
+										0,2999	1,4842		
+		Escavação manual de valas até a profundidade de 1 metro	M3							0,2999	1,4842		
+		Servente	H	 3,77 		 2,4030 	 9,06 			0,2999	1,4842	 3,77 	
+										0,2999	1,4842		
+				 Custo Direto 			 9,06 	 -   		0,2999	1,4842		
+				 LS(%): 148,42 			 13,45 			0,2999	1,4842		
+				 BDI (%): 29,99 			 6,75 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 29,25 		0,2999	1,4842	29,25	 0,00 
+										0,2999	1,4842		
+		Reaterro  com apiloamento	M3							0,2999	1,4842		
+		COMPACTADOR DE SOLOS COM PLACA VIBRATORIA, DE 135 A 156 KG, COM MOTOR A DIESEL OU GASOLINA DE 4 A 6 HP, NAO REVERSIVEL (LOCACAO)	H	 3,30 	 1,20 	 0,3400 		 1,12 		0,2999	1,4842	 3,30 	
+		Servente	H	 3,77 		 3,4030 	 12,83 			0,2999	1,4842	 3,77 	
+										0,2999	1,4842		
+				 Custo Direto 			 12,83 	 1,12 		0,2999	1,4842		
+				 LS(%): 148,42 			 19,04 			0,2999	1,4842		
+				 BDI (%): 29,99 			 9,89 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 42,89 		0,2999	1,4842	42,89	-0,00 
+										0,2999	1,4842		
+		Aterro interno com apiloamento	M3							0,2999	1,4842		
+		COMPACTADOR DE SOLOS COM PLACA VIBRATORIA, DE 135 A 156 KG, COM MOTOR A DIESEL OU GASOLINA DE 4 A 6 HP, NAO REVERSIVEL (LOCACAO)	H	 5,77 	 1,20 	 0,3400 		 1,96 		0,2999	1,4842	5,77	
+		Servente	H	 3,77 		 3,9010 	 14,71 			0,2999	1,4842	3,77	
+										0,2999	1,4842		
+				 Custo Direto 			 14,71 	 1,96 		0,2999	1,4842		
+				 LS(%): 148,42 			 21,83 			0,2999	1,4842		
+				 BDI (%): 29,99 			 11,55 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 50,04 		0,2999	1,4842	50,04	 0,00 
+										0,2999	1,4842		
+										0,2999	1,4842		
+		Embassamento c/tijolo comum	M²							0,2999	1,4842		
+		Embassamento c/tijolo comum	M³	 128,03 	 88,00 	 2,4000 		 307,27 		0,2999	1,4842		
+		PEDREIRO	H	 5,21 		 9,5000 	 49,50 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 9,5000 	 35,82 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 85,31 	 307,27 		0,2999	1,4842		
+				 LS(%): 148,42 			 126,62 			0,2999	1,4842		
+				 BDI (%): 29,99 			 155,71 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 674,91 		0,2999	1,4842	674,91	-0,00 
+										0,2999	1,4842		
+		Estaca a trado diam. 30 cm com inclusive ferragem	M²							0,2999	1,4842		
+		DESMOLDANTE PROTETOR PARA FORMAS DE MADEIRA	L	 4,56 	 4,56 	 0,1000 		 0,46 		0,2999	1,4842		
+		PECA DE MADEIRA NATIVA / REGIONAL 7,5 X 7,5CM (3X3) NAO APARELHADA (P/FORMA)	M²	 44,89 	#REF!	 0,2850 		 12,79 		0,2999	1,4842		
+		PECA DE MADEIRA NATIVA/REGIONAL 2,5 X 7,0 CM (SARRAFO-P/FORMA)	M²	 3,32 	 3,32 	 0,2700 		 0,90 		0,2999	1,4842		
+		PREGO POLIDO COM CABECA 18 X 27	Kg	 7,21 	 7,21 	 0,1500 		 1,08 		0,2999	1,4842		
+		"TABUA MADEIRA 2A QUALIDADE 2,5 X 30,0CM (1 X 12"") NAO APARELHADA"	M²	 7,29 	 7,29 	 0,4950 		 3,61 		0,2999	1,4842		
+		CARPINTEIRO	H	 5,21 		 2,4000 	 12,50 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 3,1000 	 11,69 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 24,19 	 18,84 		0,2999	1,4842		
+				 LS(%): 148,42 			 35,90 			0,2999	1,4842		
+				 BDI (%): 29,99 			 23,67 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 102,60 		0,2999	1,4842	102,6	 0,00 
+										0,2999	1,4842		
+		Escavação manual de valas (sapatas/blocos)	M²							0,2999	1,4842		
+		SERVENTE	H	 3,77 		 5,2850 	 19,92 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 19,92 	 -   		0,2999	1,4842		
+				 LS(%): 148,42 			 29,57 			0,2999	1,4842		
+				 BDI (%): 29,99 			 14,84 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 64,34 		0,2999	1,4842	64,34	 0,00 
+										0,2999	1,4842		
+		Reaterro  c/ apiloamento (blocos/sapatas)	M²							0,2999	1,4842		
+		COMPACTADOR DE SOLOS COM PLACA VIBRATORIA, DE 135 A 156 KG, COM MOTOR A DIESEL OU GASOLINA DE 4 A 6 HP, NAO REVERSIVEL (LOCACAO)	H	 3,30 	 1,20 	 0,3400 		 1,12 		0,2999	1,4842	 3,30 	
+		Servente	H	 3,77 		 3,4030 	 12,83 			0,2999	1,4842	 3,77 	
+										0,2999	1,4842		
+				 Custo Direto 			 12,83 	 1,12 		0,2999	1,4842		
+				 LS(%): 148,42 			 19,04 			0,2999	1,4842		
+				 BDI (%): 29,99 			 9,89 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 42,89 		0,2999	1,4842	42,89	-0,00 
+										0,2999	1,4842		
+		Escavação tubulões a céu aberto - (obras civis)	M3							0,2999	1,4842		
+		Escavação tubulões a céu aberto - (obras civis)	M³	 205,00 		 1,3000 		 266,50 		0,2999			
+		SERVENTE	H	 3,77 		 1,0880 	 4,10 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 4,10 	 266,50 		0,2999	1,4842		
+				 LS(%): 148,42 			 6,09 			0,2999	1,4842		
+				 BDI (%): 29,99 			 82,98 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 359,67 		0,2999	1,4842	359,67	-0,00 
+										0,2999	1,4842		
+		Concreto simples para lastro	M³							0,2999	1,4842		
+		Concreto simples para lastro	M³	 450,00 	 150,00 	 0,8000 		 360,00 		0,2999	1,4842		
+		PEDREIRO	H	 5,21 		 1,3980 	 7,28 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 1,0010 	 3,77 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 11,06 	 360,00 		0,2999	1,4842		
+				 LS(%): 148,42 			 16,41 			0,2999	1,4842		
+				 BDI (%): 29,99 			 116,20 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 503,67 		0,2999	1,4842	503,67	 0,00 
+										0,2999	1,4842		
+		Concreto armado  fck=20 MPa,usinado,Bombeado, lançado e adensado, para uso geral, inclusive formas.	M³							0,2999	1,4842		
+		CONCRETO USINADO BOMBEAVEL, CLASSE DE RESISTENCIA C25, COM BRITA 0 E 1, SLUMP = 100 +/- 20 MM, INCLUI SERVICO DE BOMBEAMENTO (NBR 8953)	M³	 397,90 	 314,93 	 2,3300 		 927,12 		0,2999	1,4842		
+		VIBRADOR DE IMERSAO C/ MOTOR ELETRICO 2HP MON.	H	 1,65 	 1,65 	 0,4000 		 0,66 		0,2999	1,4842		
+		FERREIRO	H	 5,21 		 0,4000 	 2,08 			0,2999	1,4842		
+		CARPINTEIRO	H	 5,21 		 0,0900 	 0,47 			0,2999	1,4842		
+		PEDREIRO	H	 5,21 		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 3,36 	 927,78 		0,2999	1,4842		
+				 LS(%): 148,42 			 4,99 			0,2999	1,4842		
+				 BDI (%): 29,99 			 280,74 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 1.216,87 		0,2999	1,4842	1216,87	 0,00 
+											1,4842		
+		Fundação em pedra rachão	M³							0,2999	1,4842		
+		Fundação em pedra rachão	M³	 358,44 	 3,27 	 1,1000 		 394,28 		0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,34 	 394,28 		0,2999	1,4842		
+				 LS(%): 148,42 			 0,50 			0,2999	1,4842		
+				 BDI (%): 29,99 			 118,50 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 513,62 		0,2999	1,4842	513,62	-0,00 
+										0,2999	1,4842		
+		#REF!	M²							0,2999	1,4842		
+		DESMOLDANTE PROTETOR PARA FORMAS DE MADEIRA	L	 4,56 	 4,56 	 0,1000 		 0,46 		0,2999	1,4842		
+		PECA DE MADEIRA NATIVA / REGIONAL 7,5 X 7,5CM (3X3) NAO APARELHADA (P/FORMA)	M 	#REF!	#REF!	 0,2750 		#REF!		0,2999	1,4842		
+		"PECA DE MADEIRA NATIVA/REGIONAL 2,5 X 5CM (1X2"") NAO APARELHADA (SARRAFO-P/FORMA)"	M	 1,17 	 1,17 	 0,2400 		 0,28 		0,2999	1,4842		
+		PREGO POLIDO COM CABECA 18 X 27	Kg	 7,21 	 7,21 	 0,1500 		 1,08 		0,2999	1,4842		
+		"TABUA MADEIRA 2A QUALIDADE 2,5 X 30,0CM (1 X 12"") NAO APARELHADA"	M²	 7,29 	 7,29 	 0,7920 		 5,77 		0,2999	1,4842		
+		CARPINTEIRO	H	 5,21 		 0,9000 	 4,69 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,2250 	 0,85 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 5,54 	#REF!		0,2999	1,4842		
+				 LS(%): 148,42 			 8,22 			0,2999	1,4842		
+				 BDI (%): 29,99 			#REF!			0,2999	1,4842		
+				 Valor Total c/ Taxas 				#REF!		0,2999	1,4842		
+										0,2999	1,4842		
+		Forro de laje pre-moldada, inclusive  capeamento  (e=2cm) c/ ferr. Distrib.	M²							0,2999	1,4842		
+		Forro de laje pre-moldada, inclusive  capeamento  (e=2cm) c/ ferr. Distrib.	m²	 60,00 	 -   	 1,1111 		 66,67 		0,2999	1,4842		
+		CARPINTEIRO	H	 5,21 		 0,1000 	 0,52 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,1000 	 0,38 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,90 	 66,67 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,33 			0,2999	1,4842		
+				 BDI (%): 29,99 			 20,66 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 89,56 		0,2999	1,4842	89,56	-0,00 
+		Arandela a prova de intempéries, c/grade met.sup.90 gr<100w 	unid							0,2999	1,4842		
+		Arandela a prova de intempéries, c/grade met.sup.90 gr<100w 	unid	 44,90 	 2,69 	 1,0000 		 44,90 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,6400 	 3,33 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,6400 	 2,41 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 5,75 	 44,90 		0,2999	1,4842		
+				 LS(%): 148,42 			 8,53 			0,2999	1,4842		
+				 BDI (%): 29,99 			 17,75 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 76,92 		0,2999	1,4842	76,92	 0,00 
+										0,2999	1,4842		
+		Bandeja para rack de telecomunicações 1u	unid							0,2999	1,4842		
+		Bandeja para rack de telecomunicações 1u	unid	 25,33 	 2,69 	 1,0000 		 25,33 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,6400 	 3,33 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,6400 	 2,41 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 5,75 	 25,33 		0,2999	1,4842		
+				 LS(%): 148,42 			 8,53 			0,2999	1,4842		
+				 BDI (%): 29,99 			 11,88 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 51,49 		0,2999	1,4842	51,49	-0,00 
+										0,2999	1,4842		
+		Base p/ globo ou drops ( 1 lâmpada ) boca 10 '' cmcls	unid							0,2999	1,4842		
+		Base p/ globo ou drops ( 1 lâmpada ) boca 10 '' cmcls	unid	 29,95 	 2,69 	 1,0000 		 29,95 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,6600 	 3,44 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,6600 	 2,49 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 5,93 	 29,95 		0,2999	1,4842		
+				 LS(%): 148,42 			 8,80 			0,2999	1,4842		
+				 BDI (%): 29,99 			 13,40 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 58,07 		0,2999	1,4842	58,07	 0,00 
+										0,2999	1,4842		
+		Bloco BER - 10  ( bloco de engate rápido)	unid							0,2999	1,4842		
+		Bloco BER - 10  ( bloco de engate rápido)	unid	 2,06 	 2,69 	 1,0000 		 2,06 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,6600 	 3,44 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,6600 	 2,49 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 5,93 	 2,06 		0,2999	1,4842		
+				 LS(%): 148,42 			 8,80 			0,2999	1,4842		
+				 BDI (%): 29,99 			 5,03 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 21,81 		0,2999	1,4842	21,81	 0,00 
+											1,4842		
+		Cabeçote de liga de alumínio diam. 3''	unid							0,2999	1,4842		
+		Cabeçote de liga de alumínio diam. 3''	unid	 10,24 	 2,69 	 1,0000 		 10,24 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,6600 	 3,44 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,6600 	 2,49 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 5,93 	 10,24 		0,2999	1,4842		
+				 LS(%): 148,42 			 8,80 			0,2999	1,4842		
+				 BDI (%): 29,99 			 7,49 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 32,45 		0,2999	1,4842	32,45	-0,00 
+											1,4842		
+		Cabo de cobre nu no. 10 mm² (11,11m /kg)	m							0,2999	1,4842		
+		Cabo de cobre nu no. 10 mm² (11,11m /kg)	m	 4,24 	 2,69 	 1,0000 		 4,24 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,1000 	 0,52 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,1000 	 0,38 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,90 	 4,24 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,33 			0,2999	1,4842		
+				 BDI (%): 29,99 			 1,94 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 8,41 		0,2999	1,4842	8,41	 0,00 
+											1,4842		
+		Cabo de cobre nu no. 35 mm² 	m							0,2999	1,4842		
+		Cabo de cobre nu no. 35 mm² 	m	 16,50 	 2,69 	 1,0000 		 16,50 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,1000 	 0,52 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,1000 	 0,38 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,90 	 16,50 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,33 			0,2999	1,4842		
+				 BDI (%): 29,99 			 5,62 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 24,35 		0,2999	1,4842	24,35	-0,00 
+											1,4842		
+		Cabo flexível isolado 1 kv 10 mm²	m							0,2999	1,4842		
+		Cabo flexível isolado 1 kv 10 mm²	m	 5,04 	 2,69 	 1,0000 		 5,04 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,1000 	 0,52 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,1000 	 0,38 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,90 	 5,04 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,33 			0,2999	1,4842		
+				 BDI (%): 29,99 			 2,18 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 9,46 		0,2999	1,4842	9,46	-0,00 
+											1,4842		
+		Cabo flexível isolado 1 kv 16 mm²	m							0,2999	1,4842		
+		Cabo flexível isolado 1 kv 16 mm²	m	 7,93 	 2,69 	 1,0000 		 7,93 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,1000 	 0,52 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,1000 	 0,38 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,90 	 7,93 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,33 			0,2999	1,4842		
+				 BDI (%): 29,99 			 3,05 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 13,21 		0,2999	1,4842	13,21	-0,00 
+											1,4842		
+		Cabo flexível isolado 1 kv 2,5 mm²	m							0,2999	1,4842		
+		Cabo flexível isolado 1 kv 2,5 mm²	m	 0,90 	 2,69 	 1,0000 		 0,90 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 0,90 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 0,87 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 3,78 		0,2999	1,4842	3,78	-0,00 
+											1,4842		
+		Cabo flexível isolado 1 kv 35 mm²	m							0,2999	1,4842		
+		Cabo flexível isolado 1 kv 35 mm²	m	 17,83 	 2,69 	 1,0000 		 17,83 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 17,83 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 5,95 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 25,78 		0,2999	1,4842	25,78	 0,00 
+											1,4842		
+		Cabo flexível isolado 1 kv 4 mm²	m							0,2999	1,4842		
+		Cabo flexível isolado 1 kv 4 mm²	m	 2,29 	 2,69 	 1,0000 		 2,29 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 2,29 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 1,29 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 5,58 		0,2999	1,4842	5,58	 0,00 
+											1,4842		
+		Cabo flexível isolado 1 kv 6 mm²	m							0,2999	1,4842		
+		Cabo flexível isolado 1 kv 6 mm²	m	 3,19 	 2,69 	 1,0000 		 3,19 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 3,19 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 1,56 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 6,75 		0,2999	1,4842	6,75	 0,00 
+											1,4842		
+		Cabo flexível isolado 1 kv 95 mm²	m							0,2999	1,4842		
+		Cabo flexível isolado 1 kv 95 mm²	m	 43,78 	 2,69 	 1,1000 		 48,15 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 48,15 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 15,04 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 65,20 		0,2999	1,4842	65,2	 0,00 
+											1,4842		
+		Cabo flexível isolado 750v 2,5 mm²	m							0,2999	1,4842		
+		Cabo flexível isolado 750v 2,5 mm²	m	 0,52 	 2,69 	 1,0000 		 0,52 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 0,52 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 0,76 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 3,29 		0,2999	1,4842	3,29	-0,00 
+											1,4842		
+		Cabo flexível isolado 750v 4 mm²	m							0,2999	1,4842		
+		Cabo flexível isolado 750v 4 mm²	m	 1,72 	 2,69 	 1,0000 		 1,72 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 1,72 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 1,12 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 4,85 		0,2999	1,4842	4,85	-0,00 
+											1,4842		
+		Cabo flexível isolado 750v 6 mm²	m							0,2999	1,4842		
+		Cabo flexível isolado 750v 6 mm²	m	 3,05 	 2,69 	 1,0000 		 3,05 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 3,05 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 1,52 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 6,57 		0,2999	1,4842	6,57	 0,00 
+											1,4842		
+		Cabo isolado PP 3 x 4,0 mm²	m							0,2999	1,4842		
+		Cabo isolado PP 3 x 4,0 mm²	m	 4,89 	 2,69 	 1,0000 		 4,89 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 4,89 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 2,07 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 8,97 		0,2999	1,4842	8,97	-0,00 
+											1,4842		
+		Cabo lógico STP-4pares categoria 5e	m							0,2999	1,4842		
+		Cabo lógico STP-4pares categoria 5e	m	 4,47 	 2,69 	 1,0000 		 4,47 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 4,47 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 1,94 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 8,42 		0,2999	1,4842	8,42	 0,00 
+											1,4842		
+		Cabo telefônico cce-50-4 pares 	m							0,2999	1,4842		
+		Cabo telefônico cce-50-4 pares 	m	 7,06 	 2,69 	 1,0000 		 7,06 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 7,06 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 2,72 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 11,79 		0,2999	1,4842	11,79	-0,00 
+											1,4842		
+		Cabo telefônico ci-50- 10 pares ( uso interno)	m							0,2999	1,4842		
+		Cabo telefônico ci-50- 10 pares ( uso interno)	m	 2,37 	 2,69 	 1,0000 		 2,37 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 2,37 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 1,31 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 5,69 		0,2999	1,4842	5,69	 0,00 
+											1,4842		
+		Cabo UTP-4p, cat. 5e, 24 awg	m							0,2999	1,4842		
+		Cabo UTP-4p, cat. 5e, 24 awg	m	 3,13 	 2,69 	 1,0000 		 3,13 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 3,13 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 1,54 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 6,68 		0,2999	1,4842	6,68	-0,00 
+											1,4842		
+		Caixa de passagem metálica 15x15x12 cm 	unid							0,2999	1,4842		
+		Caixa de passagem metálica 15x15x12 cm 	unid	 10,27 	 2,69 	 2,3400 		 24,03 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 1,2300 	 6,41 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 1,2300 	 4,64 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 11,05 	 24,03 		0,2999	1,4842		
+				 LS(%): 148,42 			 16,39 			0,2999	1,4842		
+				 BDI (%): 29,99 			 15,44 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 66,91 		0,2999	1,4842	66,91	-0,00 
+											1,4842		
+		Caixa distribuição telefônica 40x40x12 cm	unid							0,2999	1,4842		
+		Caixa distribuição telefônica 40x40x12 cm	unid	 49,32 	 2,69 	 2,3400 		 115,41 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 1,2300 	 6,41 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 1,2300 	 4,64 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 11,05 	 115,41 		0,2999	1,4842		
+				 LS(%): 148,42 			 16,39 			0,2999	1,4842		
+				 BDI (%): 29,99 			 42,84 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 185,69 		0,2999	1,4842	185,69	-0,00 
+											1,4842		
+		Caixa distribuição telefônica 60x60x12 cm	unid							0,2999	1,4842		
+		Caixa distribuição telefônica 60x60x12 cm	unid	 75,17 	 2,69 	 2,3400 		 175,89 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 1,2300 	 6,41 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 1,2300 	 4,64 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 11,05 	 175,89 		0,2999	1,4842		
+				 LS(%): 148,42 			 16,39 			0,2999	1,4842		
+				 BDI (%): 29,99 			 60,98 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 264,30 		0,2999	1,4842	264,3	 0,00 
+											1,4842		
+		Caixa met. Hexagonal p/arandela (sextavada 3''x3'')	unid							0,2999	1,4842		
+		Caixa met. Hexagonal p/arandela (sextavada 3''x3'')	unid	 1,45 	 2,69 	 2,3400 		 3,40 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 3,40 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 1,62 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 7,03 		0,2999	1,4842	7,03	-0,00 
+											1,4842		
+		Caixa de pvc octogonal fundo móvel, dupla 4''	unid							0,2999	1,4842		
+		Caixa de pvc octogonal fundo móvel, dupla 4''	unid	 1,50 	 2,69 	 2,3400 		 3,51 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,1000 	 0,52 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,1000 	 0,38 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,90 	 3,51 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,33 			0,2999	1,4842		
+				 BDI (%): 29,99 			 1,72 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 7,46 		0,2999	1,4842	7,46	 0,00 
+											1,4842		
+		Caixa pvc quadrada 4''x4''x2''	unid							0,2999	1,4842		
+		Caixa pvc quadrada 4''x4''x2''	unid	 2,18 	 2,69 	 2,3400 		 5,10 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,1000 	 0,52 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,1000 	 0,38 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,90 	 5,10 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,33 			0,2999	1,4842		
+				 BDI (%): 29,99 			 2,20 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 9,53 		0,2999	1,4842	9,53	 0,00 
+											1,4842		
+		Caixa pvc 4'' x 2'' x 2'' 	unid							0,2999	1,4842		
+		Caixa pvc 4'' x 2'' x 2'' 	unid	 1,61 	 2,69 	 2,3400 		 3,77 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,1000 	 0,52 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,1000 	 0,38 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,90 	 3,77 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,33 			0,2999	1,4842		
+				 BDI (%): 29,99 			 1,80 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 7,80 		0,2999	1,4842	7,8	-0,00 
+											1,4842		
+		Caixa passagem 20x20x25 fundo brita s/tampa	unid							0,2999	1,4842		
+		Caixa passagem 20x20x25 fundo brita s/tampa	unid	 14,09 	 2,69 	 2,3400 		 32,97 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,1700 	 0,89 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,1700 	 0,64 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 1,53 	 32,97 		0,2999	1,4842		
+				 LS(%): 148,42 			 2,27 			0,2999	1,4842		
+				 BDI (%): 29,99 			 11,03 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 47,79 		0,2999	1,4842	47,79	-0,00 
+											1,4842		
+		Caixa passagem 35x60x50 fundo de conc. (p/tampa r1)	unid							0,2999	1,4842		
+		Caixa passagem 35x60x50 fundo de conc. (p/tampa r1)	unid	 110,12 	 2,69 	 2,3400 		 257,68 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 3,3000 	 17,19 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 3,3000 	 12,44 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 29,63 	 257,68 		0,2999	1,4842		
+				 LS(%): 148,42 			 43,98 			0,2999	1,4842		
+				 BDI (%): 29,99 			 99,36 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 430,65 		0,2999	1,4842	430,65	 0,00 
+											1,4842		
+		Caixa passagem 50x50x60 fundo de brita s/tampa 	unid							0,2999	1,4842		
+		Caixa passagem 50x50x60 fundo de brita s/tampa 	unid	 51,45 	 2,69 	 2,3400 		 120,39 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 3,3000 	 17,19 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 3,3000 	 12,44 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 29,63 	 120,39 		0,2999	1,4842		
+				 LS(%): 148,42 			 43,98 			0,2999	1,4842		
+				 BDI (%): 29,99 			 58,18 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 252,19 		0,2999	1,4842	252,19	 0,00 
+											1,4842		
+		Certificado digital	unid							0,2999	1,4842		
+		Certificado digital	unid	 4,50 	 2,69 	 2,3400 		 10,52 		0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 -   	 10,52 		0,2999	1,4842		
+				 LS(%): 148,42 			 -   			0,2999	1,4842		
+				 BDI (%): 29,99 			 3,16 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 13,68 		0,2999	1,4842	13,68	-0,00 
+											1,4842		
+		Condulete PVC Ib 3/4'' s/ tampa	unid							0,2999	1,4842		
+		Condulete PVC Ib 3/4'' s/ tampa	unid	 4,61 	 2,69 	 2,3860 		 11,00 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 11,00 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 3,90 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 16,91 		0,2999	1,4842	16,91	-0,00 
+											1,4842		
+		Condulete PVC t 3/4'' s/ tampa	unid							0,2999	1,4842		
+		Condulete PVC t 3/4'' s/ tampa	unid	 8,94 	 2,69 	 2,3860 		 21,33 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 21,33 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 7,00 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 30,34 		0,2999	1,4842	30,34	-0,00 
+											1,4842		
+											1,4842		
+		Condulete PVC x 3/4'' s/ tampa	unid							0,2999	1,4842		
+		Condulete PVC x 3/4'' s/ tampa	unid	 8,06 	 2,69 	 2,3860 		 19,23 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 19,23 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 6,37 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 27,61 		0,2999	1,4842	27,61	-0,00 
+											1,4842		
+		Convesor de fibra óptica para cabo UTP	unid							0,2999	1,4842		
+		Convesor de fibra óptica para cabo UTP	unid	 50,30 	 2,69 	 2,3860 		 120,00 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 120,00 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 36,59 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 158,60 		0,2999	1,4842	158,6	 0,00 
+											1,4842		
+		Disjuntor monopolar de 10 a 30-a	unid							0,2999	1,4842		
+		Disjuntor monopolar de 10 a 30-a	unid	 6,15 	 2,69 	 1,0000 		 6,15 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 6,15 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 2,45 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 10,60 		0,2999	1,4842	10,6	 0,00 
+											1,4842		
+		Disjuntor tripolar de 40 a 50-a	unid							0,2999	1,4842		
+		Disjuntor tripolar de 40 a 50-a	unid	 51,24 	 2,69 	 1,0000 		 51,24 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 51,24 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 15,97 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 69,21 		0,2999	1,4842	69,21	 0,00 
+											1,4842		
+		Disjuntor tripolar de 10 a 35-a	unid							0,2999	1,4842		
+		Disjuntor tripolar de 10 a 35-a	unid	 51,24 	 2,69 	 1,0000 		 51,24 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 51,24 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 15,97 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 69,21 		0,2999	1,4842	69,21	 0,00 
+											1,4842		
+		Disjuntor tripolar de 200-a	unid							0,2999	1,4842		
+		Disjuntor tripolar de 200-a	unid	 173,97 	 2,69 	 4,5000 		 782,87 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 2,3000 	 11,98 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 2,3000 	 8,67 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 20,65 	 782,87 		0,2999	1,4842		
+				 LS(%): 148,42 			 30,65 			0,2999	1,4842		
+				 BDI (%): 29,99 			 250,17 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 1.084,34 		0,2999	1,4842	1084,34	 0,00 
+											1,4842		
+		Disjuntor diferencial residual 25a, 30 ma	unid							0,2999	1,4842		
+		Disjuntor diferencial residual 25a, 30 ma	unid	 48,85 	 2,69 	 2,3000 		 112,36 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 112,36 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 34,30 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 148,67 		0,2999	1,4842	148,67	-0,00 
+											1,4842		
+		Dispositivo interno óptico 1 u para rack	unid							0,2999	1,4842		
+		Dispositivo interno óptico 1 u para rack	unid	 52,18 	 2,69 	 2,3000 		 120,00 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 120,00 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 36,59 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 158,60 		0,2999	1,4842	158,6	 0,00 
+											1,4842		
+		Eletroduto de PVC rigido diâmetro 1'' inclusive conexões	m							0,2999	1,4842		
+		Eletroduto de PVC rigido diâmetro 1'' inclusive conexões	m	 6,09 	 2,69 	 1,5000 		 9,14 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 9,14 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 3,34 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 14,48 		0,2999	1,4842	14,48	 0,00 
+											1,4842		
+		Eletroduto de PVC rigido diâmetro 2'' inclusive conexões	m							0,2999	1,4842		
+		Eletroduto de PVC rigido diâmetro 2'' inclusive conexões	m	 6,07 	 2,69 	 2,9500 		 17,92 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 17,92 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 5,97 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 25,90 		0,2999	1,4842	25,9	-0,00 
+											1,4842		
+		Eletroduto de PVC rigido diâmetro 3'' inclusive conexões	m							0,2999	1,4842		
+		Eletroduto de PVC rigido diâmetro 3'' inclusive conexões	m	 9,49 	 2,69 	 2,9500 		 28,00 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,4000 	 2,08 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,4000 	 1,51 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 3,59 	 28,00 		0,2999	1,4842		
+				 LS(%): 148,42 			 5,33 			0,2999	1,4842		
+				 BDI (%): 29,99 			 11,07 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 48,00 		0,2999	1,4842	48	-0,00 
+											1,4842		
+		Eletroduto de PVC rigido diâmetro 3/4'' inclusive conexões	m							0,2999	1,4842		
+		Eletroduto de PVC rigido diâmetro 3/4'' inclusive conexões	m	 4,00 	 2,69 	 1,9760 		 7,90 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 7,90 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 2,97 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 12,88 		0,2999	1,4842	12,88	 0,00 
+											1,4842		
+		Eletroduto de PVC rigido diâmetro 4'' inclusive conexões	m							0,2999	1,4842		
+		Eletroduto de PVC rigido diâmetro 4'' inclusive conexões	m	 7,69 	 2,69 	 3,1000 		 23,84 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 1,1000 	 5,73 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 1,1000 	 4,15 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 9,88 	 23,84 		0,2999	1,4842		
+				 LS(%): 148,42 			 14,66 			0,2999	1,4842		
+				 BDI (%): 29,99 			 14,51 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 62,89 		0,2999	1,4842	62,89	-0,00 
+											1,4842		
+		Eletroduto de ferro galvanizado  diâmetro 3'' inclusive conexões	m							0,2999	1,4842		
+		Eletroduto de ferro galvanizado  diâmetro 3'' inclusive conexões	m	 10,41 	 2,69 	 3,1000 		 32,27 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 1,1000 	 5,73 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 1,1000 	 4,15 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 9,88 	 32,27 		0,2999	1,4842		
+				 LS(%): 148,42 			 14,66 			0,2999	1,4842		
+				 BDI (%): 29,99 			 17,04 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 73,84 		0,2999	1,4842	73,84	 0,00 
+											1,4842		
+		Espelho baquelite 4'' x 2'' 2 furos RJ-45	unid							0,2999	1,4842		
+		Espelho baquelite 4'' x 2'' 2 furos RJ-45	unid	 8,95 	 2,69 	 2,1000 		 18,80 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 18,80 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 6,24 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 27,05 		0,2999	1,4842	27,05	-0,00 
+											1,4842		
+		Fibra óptica monomodo geleado	unid							0,2999	1,4842		
+		Fibra óptica monomodo geleado	unid	 7,43 	 2,69 	 1,0000 		 7,43 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 7,43 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 2,83 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 12,27 		0,2999	1,4842	12,27	-0,00 
+											1,4842		
+		Fio de cobre nu no. 6 mm² (18,00 m/kg)	m							0,2999	1,4842		
+		Fio de cobre nu no. 6 mm² (18,00 m/kg)	m	 3,12 	 2,69 	 1,0000 		 3,12 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 3,12 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 1,54 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 6,66 		0,2999	1,4842	6,66	-0,00 
+											1,4842		
+		Haste Copperweld 5/8'' x 3,00 m c/ conector	UNID							0,2999	1,4842		
+		Haste Copperweld 5/8'' x 3,00 m c/ conector	UNID	 3,76 	 2,69 	 3,4000 		 12,77 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 1,3000 	 6,77 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 1,3000 	 4,90 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 11,67 	 12,77 		0,2999	1,4842		
+				 LS(%): 148,42 			 17,33 			0,2999	1,4842		
+				 BDI (%): 29,99 			 12,53 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 54,29 		0,2999	1,4842	54,29	 0,00 
+											1,4842		
+		Interruptor para ventilador	UNID							0,2999	1,4842		
+		Interruptor para ventilador	UNID	 6,86 	 2,69 	 3,4000 		 23,32 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 1,3000 	 6,77 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 1,3000 	 4,90 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 11,67 	 23,32 		0,2999	1,4842		
+				 LS(%): 148,42 			 17,33 			0,2999	1,4842		
+				 BDI (%): 29,99 			 15,69 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 68,02 		0,2999	1,4842	68,02	-0,00 
+											1,4842		
+											1,4842		
+		Interruptor paralelo simples (1 seção)	UNID							0,2999	1,4842		
+		Interruptor paralelo simples (1 seção)	UNID	 3,57 	 2,69 	 2,1000 		 7,50 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 7,50 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 2,85 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 12,36 		0,2999	1,4842	12,36	-0,00 
+											1,4842		
+		Interruptor  simples (1 seção)	UNID							0,2999	1,4842		
+		Interruptor  simples (1 seção)	UNID	 3,39 	 2,69 	 1,8000 		 6,10 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 6,10 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 2,43 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 10,54 		0,2999	1,4842	10,54	 0,00 
+											1,4842		
+		Interruptor  simples (2 seção)	UNID							0,2999	1,4842		
+		Interruptor  simples (2 seção)	UNID	 3,46 	 2,69 	 3,8000 		 13,13 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 13,13 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 4,54 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 19,68 		0,2999	1,4842	19,68	-0,00 
+											1,4842		
+		Interruptor  simples (3 seção)	UNID							0,2999	1,4842		
+		Interruptor  simples (3 seção)	UNID	 5,69 	 2,69 	 3,8000 		 21,62 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 21,62 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 7,09 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 30,71 		0,2999	1,4842	30,71	 0,00 
+											1,4842		
+		Interruptor  simples 1 tomada univ. conjugados	UNID							0,2999	1,4842		
+		Interruptor  simples 1 tomada univ. conjugados	UNID	 5,69 	 2,69 	 2,7370 		 15,57 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 15,57 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 5,27 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 22,85 		0,2999	1,4842	22,85	 0,00 
+											1,4842		
+		Line cord up - 4p, cat. 5 e, flexivel, 2,0 m 	UNID							0,2999	1,4842		
+		Line cord up - 4p, cat. 5 e, flexivel, 2,0 m 	UNID	 5,68 	 2,69 	 1,8400 		 10,45 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 10,45 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 3,74 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 16,20 		0,2999	1,4842	16,2	-0,00 
+											1,4842		
+		Luminaria circular com vidro p/quadr 400 w, p/base e-40	UNID							0,2999	1,4842		
+		Luminaria circular com vidro p/quadr 400 w, p/base e-40	UNID	 159,20 	 2,69 	 3,5000 		 557,20 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 557,20 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 167,71 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 726,91 		0,2999	1,4842	726,91	 0,00 
+											1,4842		
+		Luminaria conj.c/1 pétala simpl. (ate 400 w) padrão b	UNID							0,2999	1,4842		
+		Luminaria conj.c/1 pétala simpl. (ate 400 w) padrão b	UNID	 47,60 	 2,69 	 2,3000 		 109,48 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 109,48 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 33,44 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 144,92 		0,2999	1,4842	144,92	 0,00 
+											1,4842		
+		Luminaria fluorescente de embutir 2 x 32 ou 2 x 40 w, completa, reator eletrônico e lâmpada conforme projeto	UNID							0,2999	1,4842		
+		Luminaria fluorescente de embutir 2 x 32 ou 2 x 40 w, completa, reator eletrônico e lâmpada conforme projeto	UNID	 38,91 	 2,69 	 2,3000 		 89,50 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 89,50 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 27,44 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 118,95 		0,2999	1,4842	118,95	 0,00 
+											1,4842		
+		Organizador de  Cabos (guias)	UNID							0,2999	1,4842		
+		Organizador de  Cabos (guias)	UNID	 16,35 	 2,69 	 2,3000 		 37,61 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 37,61 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 11,88 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 51,49 		0,2999	1,4842	51,49	 0,00 
+											1,4842		
+		Patch cord utp-4 p, cat 5e, flexível 2,0 m 	UNID							0,2999	1,4842		
+		Patch cord utp-4 p, cat 5e, flexível 2,0 m 	UNID	 9,95 	 2,69 	 1,1000 		 10,95 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0500 	 0,26 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0500 	 0,19 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,45 	 10,95 		0,2999	1,4842		
+				 LS(%): 148,42 			 0,67 			0,2999	1,4842		
+				 BDI (%): 29,99 			 3,62 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 15,68 		0,2999	1,4842	15,68	-0,00 
+											1,4842		
+		Patch pannel padrão 19'' cat. 5e, com 24 portas	UNID							0,2999	1,4842		
+		Patch pannel padrão 19'' cat. 5e, com 24 portas	UNID	 206,95 	 2,69 	 2,1000 		 434,59 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0500 	 0,26 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0500 	 0,19 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,45 	 434,59 		0,2999	1,4842		
+				 LS(%): 148,42 			 0,67 			0,2999	1,4842		
+				 BDI (%): 29,99 			 130,67 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 566,38 		0,2999	1,4842	566,38	-0,00 
+											1,4842		
+		Petrolet c 1'' s/tampa	UNID							0,2999	1,4842		
+		Petrolet c 1'' s/tampa	UNID	 12,05 	 2,69 	 1,0000 		 12,05 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0500 	 0,26 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0500 	 0,19 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,45 	 12,05 		0,2999	1,4842		
+				 LS(%): 148,42 			 0,67 			0,2999	1,4842		
+				 BDI (%): 29,99 			 3,95 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 17,11 		0,2999	1,4842	17,11	 0,00 
+											1,4842		
+		Petrolet c 3/4'' s/tampa	UNID							0,2999	1,4842		
+		Petrolet c 3/4'' s/tampa	UNID	 7,99 	 2,69 	 1,0000 		 7,99 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0500 	 0,26 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0500 	 0,19 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,45 	 7,99 		0,2999	1,4842		
+				 LS(%): 148,42 			 0,67 			0,2999	1,4842		
+				 BDI (%): 29,99 			 2,73 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 11,84 		0,2999	1,4842	11,84	-0,00 
+											1,4842		
+		Petrolet II, Ir ou Ib 1'' s/tampa	UNID							0,2999	1,4842		
+		Petrolet II, Ir ou Ib 1'' s/tampa	UNID	 11,53 	 2,69 	 1,0000 		 11,53 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0500 	 0,26 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0500 	 0,19 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,45 	 11,53 		0,2999	1,4842		
+				 LS(%): 148,42 			 0,67 			0,2999	1,4842		
+				 BDI (%): 29,99 			 3,79 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 16,43 		0,2999	1,4842	16,43	 0,00 
+											1,4842		
+		Poste circular em fº gº d=100/60mm e h= 12 m)	UNID							0,2999	1,4842		
+		Poste circular em fº gº d=100/60mm e h= 12 m)	UNID	 297,85 	 2,69 	 4,5500 		 1.355,22 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0500 	 0,26 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0500 	 0,19 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,45 	 1.355,22 		0,2999	1,4842		
+				 LS(%): 148,42 			 0,67 			0,2999	1,4842		
+				 BDI (%): 29,99 			 406,76 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 1.763,10 		0,2999	1,4842	1763,1	-0,00 
+											1,4842		
+		Poste de concreto quad. 10 cm lado c/2,5 metros  de comp.	UNID							0,2999	1,4842		
+		Poste de concreto quad. 10 cm lado c/2,5 metros  de comp.	UNID	 128,92 	 2,69 	 1,7600 		 226,90 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0500 	 0,26 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0500 	 0,19 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,45 	 226,90 		0,2999	1,4842		
+				 LS(%): 148,42 			 0,67 			0,2999	1,4842		
+				 BDI (%): 29,99 			 68,38 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 296,40 		0,2999	1,4842	296,4	-0,00 
+											1,4842		
+		Projetor circular( ate 200 w) base e-27 completo inclusive lâmpada, conforme projeto	UNID							0,2999	1,4842		
+		Projetor circular( ate 200 w) base e-27 completo inclusive lâmpada, conforme projeto	UNID	 106,76 	 2,69 	 1,7600 		 187,90 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0500 	 0,26 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0500 	 0,19 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,45 	 187,90 		0,2999	1,4842		
+				 LS(%): 148,42 			 0,67 			0,2999	1,4842		
+				 BDI (%): 29,99 			 56,69 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 245,71 		0,2999	1,4842	245,71	-0,00 
+											1,4842		
+		Projetor retangular c/ porta ( ate 400w) base e40 completo lãmpada, conforme projeto	UNID							0,2999	1,4842		
+		Projetor retangular c/ porta ( ate 400w) base e40 completo lãmpada, conforme projeto	UNID	 107,31 	 2,69 	 2,2500 		 241,46 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0500 	 0,26 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0500 	 0,19 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,45 	 241,46 		0,2999	1,4842		
+				 LS(%): 148,42 			 0,67 			0,2999	1,4842		
+				 BDI (%): 29,99 			 72,75 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 315,32 		0,2999	1,4842	315,32	-0,00 
+											1,4842		
+		Quadro de distribuição cb 12e - 100a 	UNID							0,2999	1,4842		
+		Quadro de distribuição cb 12e - 100a 	UNID	 100,99 	 2,69 	 2,2500 		 227,23 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0500 	 0,26 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0500 	 0,19 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,45 	 227,23 		0,2999	1,4842		
+				 LS(%): 148,42 			 0,67 			0,2999	1,4842		
+				 BDI (%): 29,99 			 68,48 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 296,82 		0,2999	1,4842	296,82	 0,00 
+											1,4842		
+		Quadro de distribuição cb 12e - 150a	UNID							0,2999	1,4842		
+		Quadro de distribuição cb 12e - 150a	UNID	 126,72 	 2,69 	 2,2500 		 285,11 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0500 	 0,26 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0500 	 0,19 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,45 	 285,11 		0,2999	1,4842		
+				 LS(%): 148,42 			 0,67 			0,2999	1,4842		
+				 BDI (%): 29,99 			 85,84 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 372,07 		0,2999	1,4842	372,07	-0,00 
+											1,4842		
+		Quadro de distribuição cb 18e - 150a	UNID							0,2999	1,4842		
+		Quadro de distribuição cb 18e - 150a	UNID	 126,38 	 2,69 	 3,0900 		 390,50 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0500 	 0,26 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0500 	 0,19 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,45 	 390,50 		0,2999	1,4842		
+				 LS(%): 148,42 			 0,67 			0,2999	1,4842		
+				 BDI (%): 29,99 			 117,45 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 509,07 		0,2999	1,4842	509,07	-0,00 
+											1,4842		
+		Quadro de distribuição cb 50e - 225a	UNID							0,2999	1,4842		
+		Quadro de distribuição cb 50e - 225a	UNID	 154,63 	 2,69 	 3,3000 		 510,28 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 1,1000 	 5,73 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 1,1000 	 4,15 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 9,88 	 510,28 		0,2999	1,4842		
+				 LS(%): 148,42 			 14,66 			0,2999	1,4842		
+				 BDI (%): 29,99 			 160,39 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 695,21 		0,2999	1,4842	695,21	-0,00 
+											1,4842		
+		Rack de telecomunicações fechado em acrilico 19'' 12u's	UNID							0,2999	1,4842		
+		Rack de telecomunicações fechado em acrilico 19'' 12u's	UNID	 154,95 	 2,69 	 3,5500 		 550,07 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 1,2000 	 6,25 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 1,2000 	 4,52 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 10,78 	 550,07 		0,2999	1,4842		
+				 LS(%): 148,42 			 15,99 			0,2999	1,4842		
+				 BDI (%): 29,99 			 172,99 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 749,84 		0,2999	1,4842	749,84	-0,00 
+											1,4842		
+		Rack de telecomunicações fechado em acrilico 19'' 40u's	UNID							0,2999	1,4842		
+		Rack de telecomunicações fechado em acrilico 19'' 40u's	UNID	 559,89 	 2,69 	 3,5500 		 1.987,62 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 1,2000 	 6,25 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 1,2000 	 4,52 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 10,78 	 1.987,62 		0,2999	1,4842		
+				 LS(%): 148,42 			 15,99 			0,2999	1,4842		
+				 BDI (%): 29,99 			 604,12 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 2.618,51 		0,2999	1,4842	2618,51	-0,00 
+											1,4842		
+		Régua com 8 tomadas	UNID							0,2999	1,4842		
+		Régua com 8 tomadas	UNID	 44,10 	 2,69 	 1,2000 		 52,92 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 52,92 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 16,47 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 71,40 		0,2999	1,4842	71,4	 0,00 
+											1,4842		
+		Rele Foto elétrico com base 	UNID							0,2999	1,4842		
+		Rele Foto elétrico com base 	UNID	 34,79 	 2,69 	 1,0000 		 34,79 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 34,79 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 11,04 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 47,83 		0,2999	1,4842	47,83	 0,00 
+											1,4842		
+		Switch 24 portas 10/100mbps	UNID							0,2999	1,4842		
+		Switch 24 portas 10/100mbps	UNID	 154,13 	 2,69 	 3,5000 		 539,47 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 539,47 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 162,39 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 703,87 		0,2999	1,4842	703,87	-0,00 
+											1,4842		
+		Tampa cega condulete PVC 1''	UNID							0,2999	1,4842		
+		Tampa cega condulete PVC 1''	UNID	 0,99 	 2,69 	 1,0000 		 0,99 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 0,99 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 0,90 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 3,90 		0,2999	1,4842	3,9	-0,00 
+											1,4842		
+		Tampa cega Petrolet 1''	UNID							0,2999	1,4842		
+		Tampa cega Petrolet 1''	UNID	 2,26 	 2,69 	 1,1000 		 2,49 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0800 	 0,42 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0800 	 0,30 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,72 	 2,49 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,07 			0,2999	1,4842		
+				 BDI (%): 29,99 			 1,28 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 5,55 		0,2999	1,4842	5,5	 0,05 
+											1,4842		
+		Tampa concreto e=5 cm p/cx. Passagem 	UNID							0,2999	1,4842		
+		Tampa concreto e=5 cm p/cx. Passagem 	UNID	 14,90 	 2,69 	 3,4000 		 50,66 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 50,66 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 15,80 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 68,47 		0,2999	1,4842	68,47	-0,00 
+													
+		Tampa de ferro fundido R1 com base	UNID							0,2999	1,4842		
+		Tampa de ferro fundido R1 com base	UNID	 59,98 	 2,69 	 4,0000 		 239,90 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0900 	 0,47 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0900 	 0,34 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,81 	 239,90 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,20 			0,2999	1,4842		
+				 BDI (%): 29,99 			 72,55 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 314,46 		0,2999	1,4842	314,46	-0,00 
+											1,4842		
+		Tampa de  PVC 4'' x 2'' com furo central	UNID							0,2999	1,4842		
+		Tampa de  PVC 4'' x 2'' com furo central	UNID	 3,17 	 2,69 	 1,2000 		 3,81 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0500 	 0,26 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0500 	 0,19 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,45 	 3,81 		0,2999	1,4842		
+				 LS(%): 148,42 			 0,67 			0,2999	1,4842		
+				 BDI (%): 29,99 			 1,48 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 6,40 		0,2999	1,4842	6,4	 0,00 
+											1,4842		
+		Tampa de  PVC 4'' x 2'' x 2'' com furo central	UNID							0,2999	1,4842		
+		Tampa de  PVC 4'' x 2'' x 2'' com furo central	UNID	 3,17 	 2,69 	 1,2000 		 3,81 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0500 	 0,26 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0500 	 0,19 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,45 	 3,81 		0,2999	1,4842		
+				 LS(%): 148,42 			 0,67 			0,2999	1,4842		
+				 BDI (%): 29,99 			 1,48 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 6,40 		0,2999	1,4842	6,4	 0,00 
+													
+		Tomada de 2 pólos mais terra	UNID							0,2999	1,4842		
+		Tomada de 2 pólos mais terra	UNID	 7,10 	 2,69 	 1,2000 		 8,52 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0500 	 0,26 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0500 	 0,19 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,45 	 8,52 		0,2999	1,4842		
+				 LS(%): 148,42 			 0,67 			0,2999	1,4842		
+				 BDI (%): 29,99 			 2,89 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 12,53 		0,2999	1,4842	12,53	-0,00 
+													
+		Tomada de 3 pólos mais terra	UNID							0,2999	1,4842		
+		Tomada de 3 pólos mais terra	UNID	 20,04 	 2,69 	 1,2000 		 24,05 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0500 	 0,26 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0500 	 0,19 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,45 	 24,05 		0,2999	1,4842		
+				 LS(%): 148,42 			 0,67 			0,2999	1,4842		
+				 BDI (%): 29,99 			 7,55 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 32,71 		0,2999	1,4842	32,71	-0,00 
+											1,4842		
+		Tomada lógica RJ-45 tipo Keystone Jack, cat. 5e	UNID							0,2999	1,4842		
+		Tomada lógica RJ-45 tipo Keystone Jack, cat. 5e	UNID	 15,65 	 2,69 	 1,2000 		 18,78 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0500 	 0,26 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0500 	 0,19 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,45 	 18,78 		0,2999	1,4842		
+				 LS(%): 148,42 			 0,67 			0,2999	1,4842		
+				 BDI (%): 29,99 			 5,97 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 25,86 		0,2999	1,4842	25,86	-0,00 
+											1,4842		
+		Tomada universal	UNID							0,2999	1,4842		
+		Tomada universal	UNID	 7,10 	 2,69 	 1,2000 		 8,52 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0500 	 0,26 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0500 	 0,19 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,45 	 8,52 		0,2999	1,4842		
+				 LS(%): 148,42 			 0,67 			0,2999	1,4842		
+				 BDI (%): 29,99 			 2,89 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 12,53 		0,2999	1,4842	12,53	-0,00 
+											1,4842		
+		Ventilador para rack	UNID							0,2999	1,4842		
+		Ventilador para rack	UNID	 39,46 	 2,69 	 3,3300 		 131,40 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0500 	 0,26 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0500 	 0,19 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,45 	 131,40 		0,2999	1,4842		
+				 LS(%): 148,42 			 0,67 			0,2999	1,4842		
+				 BDI (%): 29,99 			 39,74 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 172,25 		0,2999	1,4842	172,25	 0,00 
+													
+		CAIXA DE INSPEÇÃO  DE ATERRAMENTO 250x250x250mm	UNID							0,2999	1,4842		
+		CAIXA DE INSPEÇÃO  DE ATERRAMENTO 250x250x250mm	UNID	 43,80 	 2,69 	 2,0000 		 87,61 		0,2999	1,4842		
+		PREDEIRO	H	5,21		 0,0500 	 0,26 			0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,0500 	 0,26 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,0500 	 0,19 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,71 	 87,61 		0,2999	1,4842		
+				 LS(%): 148,42 			 1,05 			0,2999	1,4842		
+				 BDI (%): 29,99 			 26,80 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 116,17 		0,2999	1,4842	116,17	 0,00 
+										0,2999			
+		Caixa de passagem em alvenaria 500x500x800mm	UNID							0,2999	1,4842		
+		Caixa de passagem em alvenaria 500x500x800mm	UNID	 79,35 	 2,69 	 3,4000 		 269,80 		0,2999	1,4842		
+		PREDEIRO	H	5,21		 0,8000 	 4,17 			0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,8000 	 4,17 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,8000 	 3,02 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 11,35 	 269,80 		0,2999	1,4842		
+				 LS(%): 148,42 			 16,85 			0,2999	1,4842		
+				 BDI (%): 29,99 			 89,37 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 387,37 		0,2999	1,4842	387,37	 0,00 
+										0,2999	1,4842		
+		Caixa para medidor trifásico padrão concessionaria local	UNID							0,2999	1,4842		
+		Caixa para medidor trifásico padrão concessionaria local	UNID	 89,35 	 2,69 	 3,4000 		 303,80 		0,2999	1,4842		
+		PREDEIRO	H	5,21		 0,8000 	 4,17 			0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,8000 	 4,17 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,8000 	 3,02 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 11,35 	 303,80 		0,2999	1,4842		
+				 LS(%): 148,42 			 16,85 			0,2999	1,4842		
+				 BDI (%): 29,99 			 99,57 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 560,53 		0,2999	1,4842	387,37	 173,16 
+										0,2999	1,4842		
+		Chave fusível, 15 kV, 100a	UNID							0,2999	1,4842		
+		Chave fusível, 15 kV, 100a	UNID	 65,00 	 2,69 	 3,4000 		 221,00 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,8000 	 4,17 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,8000 	 3,02 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 7,18 	 221,00 		0,2999	1,4842		
+				 LS(%): 148,42 			 10,66 			0,2999	1,4842		
+				 BDI (%): 29,99 			 71,63 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 377,07 		0,2999	1,4842	387,37	-10,30 
+										0,2999	1,4842		
+										0,2999	1,4842		
+		Cruzeta de concreto armado 1900mm	UNID							0,2999	1,4842		
+		Cruzeta de concreto armado 1900mm	UNID	 30,00 	 2,69 	 3,4000 		 102,00 		0,2999	1,4842		
+		PREDEIRO	H	5,21		 0,8000 	 4,17 			0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,8000 	 4,17 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,8000 	 3,02 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 11,35 	 102,00 		0,2999	1,4842		
+				 LS(%): 148,42 			 16,85 			0,2999	1,4842		
+				 BDI (%): 29,99 			 39,05 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 154,99 		0,2999	1,4842	387,37	-232,38 
+										0,2999	1,4842		
+		Curva de 90 graus de pvc rigido diam. 4''	UNID							0,2999	1,4842		
+		Curva de 90 graus de pvc rigido diam. 4''	UNID	 10,00 	 2,69 	 3,4000 		 34,00 		0,2999	1,4842		
+		PREDEIRO	H	5,21		 0,8000 	 4,17 			0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,8000 	 4,17 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,8000 	 3,02 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 11,35 	 34,00 		0,2999	1,4842		
+				 LS(%): 148,42 			 16,85 			0,2999	1,4842		
+				 BDI (%): 29,99 			 18,65 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 79,39 		0,2999	1,4842	387,37	-307,98 
+										0,2999	1,4842		
+	6.7	Disjuntor termomagnético tripolar 200a	UNID							0,2999	1,4842		
+		Disjuntor termomagnético tripolar 200a	UNID	 10,00 	 2,69 	 3,4000 		 34,00 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,8000 	 4,17 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,8000 	 3,02 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 7,18 	 34,00 		0,2999	1,4842		
+				 LS(%): 148,42 			 10,66 			0,2999	1,4842		
+				 BDI (%): 29,99 			 15,55 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 79,39 		0,2999	1,4842	387,37	-307,98 
+										0,2999	1,4842		
+	6.8	Eletroduto de PVC rigido diâmetro 4''	UNID							0,2999	1,4842		
+		Eletroduto de PVC rigido diâmetro 4''	UNID	 10,00 	 2,69 	 3,4000 		 34,00 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,8000 	 4,17 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,8000 	 3,02 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 7,18 	 34,00 		0,2999	1,4842		
+				 LS(%): 148,42 			 10,66 			0,2999	1,4842		
+				 BDI (%): 29,99 			 15,55 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 79,39 		0,2999	1,4842	387,37	-307,98 
+										0,2999	1,4842		
+	6.9	Elo fusivel 6k 	UNID							0,2999	1,4842		
+		Elo fusivel 6k 	UNID	 10,00 	 2,69 	 3,4000 		 34,00 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,8000 	 4,17 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,8000 	 3,02 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 7,18 	 34,00 		0,2999	1,4842		
+				 LS(%): 148,42 			 10,66 			0,2999	1,4842		
+				 BDI (%): 29,99 			 15,55 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 -   		0,2999	1,4842	387,37	-387,37 
+										0,2999	1,4842		
+	6.10	Isolador polietileno de ancoragem	UNID							0,2999	1,4842		
+		Isolador polietileno de ancoragem	UNID	 10,00 	 2,69 	 3,4000 		 34,00 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,8000 	 4,17 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,8000 	 3,02 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 7,18 	 34,00 		0,2999	1,4842		
+				 LS(%): 148,42 			 10,66 			0,2999	1,4842		
+				 BDI (%): 29,99 			 15,55 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 -   		0,2999	1,4842	387,37	-387,37 
+										0,2999	1,4842		
+	6.11	isolador tipo roldana  de porcelana 	UNID							0,2999	1,4842		
+		isolador tipo roldana  de porcelana 	UNID	 10,00 	 2,69 	 3,4000 		 34,00 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,8000 	 4,17 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,8000 	 3,02 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 7,18 	 34,00 		0,2999	1,4842		
+				 LS(%): 148,42 			 10,66 			0,2999	1,4842		
+				 BDI (%): 29,99 			 15,55 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 -   		0,2999	1,4842	387,37	-387,37 
+										0,2999	1,4842		
+	6.12	isolador, pino 15 kV rosca 25 mm 	UNID							0,2999	1,4842		
+		isolador, pino 15 kV rosca 25 mm 	UNID	 10,00 	 2,69 	 3,4000 		 34,00 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,8000 	 4,17 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,8000 	 3,02 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 7,18 	 34,00 		0,2999	1,4842		
+				 LS(%): 148,42 			 10,66 			0,2999	1,4842		
+				 BDI (%): 29,99 			 15,55 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 -   		0,2999	1,4842	387,37	-387,37 
+										0,2999	1,4842		
+	6.13	Para raios distribuição, vávula bloco 12 kv, 5 kva	UNID							0,2999	1,4842		
+		Para raios distribuição, vávula bloco 12 kv, 5 kva	UNID	 10,00 	 2,69 	 3,4000 		 34,00 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,8000 	 4,17 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,8000 	 3,02 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 7,18 	 34,00 		0,2999	1,4842		
+				 LS(%): 148,42 			 10,66 			0,2999	1,4842		
+				 BDI (%): 29,99 			 15,55 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 -   		0,2999	1,4842	387,37	-387,37 
+										0,2999	1,4842		
+	6.14	Poste de Concreto SC 11/400	UNID							0,2999	1,4842		
+		Poste de Concreto SC 11/400	UNID	 10,00 	 2,69 	 3,4000 		 34,00 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,8000 	 4,17 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,8000 	 3,02 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 7,18 	 34,00 		0,2999	1,4842		
+				 LS(%): 148,42 			 10,66 			0,2999	1,4842		
+				 BDI (%): 29,99 			 15,55 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 -   		0,2999	1,4842	387,37	-387,37 
+										0,2999	1,4842		
+	6.15	suporte p/ transformador em poste duplo t 	UNID							0,2999	1,4842		
+		suporte p/ transformador em poste duplo t 	UNID	 10,00 	 2,69 	 3,4000 		 34,00 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,8000 	 4,17 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,8000 	 3,02 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 7,18 	 34,00 		0,2999	1,4842		
+				 LS(%): 148,42 			 10,66 			0,2999	1,4842		
+				 BDI (%): 29,99 			 15,55 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 -   		0,2999	1,4842	387,37	-387,37 
+										0,2999	1,4842		
+	6.16	Transformador trifasico 112,5 kva	UNID							0,2999	1,4842		
+		Transformador trifasico 112,5 kva	UNID	 10,00 	 2,69 	 3,4000 		 34,00 		0,2999	1,4842		
+		ELETRICISTA	H	5,21		 0,8000 	 4,17 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,8000 	 3,02 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 7,18 	 34,00 		0,2999	1,4842		
+				 LS(%): 148,42 			 10,66 			0,2999	1,4842		
+				 BDI (%): 29,99 			 15,55 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 -   		0,2999	1,4842	387,37	-387,37 
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	0		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	0		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	0		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	0		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	0		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	0		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+		alvenaria de tijolo comum 1/2 vez	M2							0,2999	1,4842		
+		ARGAMASSA TRAÇO 1:2:8 (CIMENTO, CAL E AREIA MÉDIA) 	M³	 475,20 	 475,20 	 0,0098 		 4,66 		0,2999	1,4842		
+		BLOCO CERAMICO DE 9 X 19 X 19 CM	MIL	 447,11 	 447,11 	 0,0279 		 12,49 		0,2999	1,4842		
+		TELA DE ACO SOLDADA GALVANIZADA PARA ALVENARIA, 	M	 1,21 	 1,21 	 0,4200 		 0,51 		0,2999	1,4842		
+		PINO DE ACO COM FURO, HASTE = 27 MM (ACAO DIRETA)	CENTO	 47,84 	 47,84 	 0,0050 		 0,24 		0,2999	1,4842		
+		PEDREIRO	H	 5,21 		 1,6000 	 8,34 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,6850 	 2,58 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 10,92 	 17,89 		0,2999	1,4842		
+				 LS(%): 148,42 			 16,21 			0,2999	1,4842		
+				 BDI (%): 29,99 			 13,50 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 57,90 		0,2999	1,4842		
+										0,2999	1,4842		
+		alvenaria de tijolo comum 1/4 vez 	M2							0,2999	1,4842		
+		ARGAMASSA TRAÇO 1:2:8 (CIMENTO, CAL E AREIA MÉDIA) 	M³	 473,20 	 475,20 	 0,0098 		 4,64 		0,2999	1,4842		
+		BLOCO CERAMICO DE 9 X 19 X 19 CM	MIL	 437,11 	 447,11 	 0,0279 		 12,21 		0,2999	1,4842		
+		TELA DE ACO SOLDADA GALVANIZADA PARA ALVENARIA, 	M	 1,10 	 1,21 	 0,4200 		 0,46 		0,2999	1,4842		
+		PINO DE ACO COM FURO, HASTE = 27 MM (ACAO DIRETA)	CENTO	 42,23 	 47,84 	 0,0050 		 0,21 		0,2999	1,4842		
+		PEDREIRO	H	 5,21 		 1,1000 	 5,73 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,5000 	 1,89 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 7,62 	 17,52 		0,2999	1,4842		
+				 LS(%): 148,42 			 11,30 			0,2999	1,4842		
+				 BDI (%): 29,99 			 10,93 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 42,61 		0,2999	1,4842		
+										0,2999	1,4842		
+		elemento vazado de concreto	M²							0,2999	1,4842		
+		ARGAMASSA TRAÇO 1:4 (CIMENTO E AREIA MÉDIA) 	M³	 500,00 	 415,10 	 0,0088 		 4,40 		0,2999	1,4842		
+		ELEMENTO VAZADO DE CONCRETO, QUADRICULADO, 16 FUROS *29 X 29 X 6*CM	U N	 7,60 	 6,53 	 11,0000 		 83,60 		0,2999	1,4842		
+		PEDREIRO	H	 5,21 		 1,0000 	 5,21 			0,2999	1,4842		
+		SERVENTE]	H	 4,15 		 1,0000 	 4,15 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 9,36 	 88,00 		0,2999	1,4842		
+				 LS(%): 148,42 			 13,89 			0,2999	1,4842		
+				 BDI (%): 29,99 			 33,36 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 142,70 		0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	1,4842		
+		Vidro liso 3 mm	kg							0,2999	1,4842		
+		ESTRUTURA METÁLICA	kg	 7,65 	 41,00 	 1,0000 		 7,65 		0,2999	1,4842		
+		SERRALHEIRO	H	 5,21 		 0,0300 	 0,16 			0,2999	1,4842		
+		AJUDANTE	H	 3,77 		 0,0300 	 0,11 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 0,27 	 7,65 		0,2999	1,4842		
+				 LS(%): 148,42 			 0,40 			0,2999	1,4842		
+				 BDI (%): 29,99 			 2,50 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 10,82 		0,2999	1,4842		
+										0,2999	1,4842		
+		cobertura com telha colonial-plan	M2							0,2999	1,4842		
+		TELHA SANDUICHE METÁLICA	M²	 25,00 	 25,00 	 1,0000 		 25,00 		0,2999	1,4842		
+		MONTADOR	H	 5,21 		 0,5000 	 2,61 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 1,0000 	 3,77 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 6,38 	 25,00 		0,2999	1,4842		
+				 LS(%): 148,42 			 9,46 			0,2999	1,4842		
+				 BDI (%): 29,99 			 12,25 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 52,36 		0,2999	1,4842		
+										0,2999	1,4842		
+		cumeeira para telha colonial-plan 	M²							0,2999	1,4842		
+		cumeeira para telha colonial-plan 	M 	 20,00 	 20,00 	 1,0000 		 20,00 		0,2999	1,4842		
+		MONTADOR	H	 5,21 		 0,1500 	 0,78 			0,2999	1,4842		
+		SERVENTE	H	 3,77 		 0,1500 	 0,57 			0,2999	1,4842		
+										0,2999	1,4842		
+				 Custo Direto 			 1,35 	 20,00 		0,2999	1,4842		
+				 LS(%): 148,42 			 2,00 			0,2999	1,4842		
+				 BDI (%): 29,99 			 7,00 			0,2999	1,4842		
+				 Valor Total c/ Taxas 				 38,71 		0,2999	1,4842		
+										0,2999	1,4842		
+										0,2999	#REF!		
+										0,2999	#REF!		
+										0,2999	#REF!		
+										0,2999	#REF!		
+										0,2999	#REF!		
+										0,2999	#REF!		
+										0,2999	#REF!		
+										0,2999	#REF!		
+										0,2999	#REF!		
+										0,2999	#REF!		
+										0,2999	#REF!		
+													
+													

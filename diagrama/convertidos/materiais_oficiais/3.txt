@@ -1,0 +1,1114 @@
+﻿  H C GOMES CONSTRUTORA COMÉCIO E SERVIÇOS EIRELI - EPP                                                                                       CNPJ: 18.235.336/0001-07, Incs. Municipal: 30.476, Trav. João Augusto, nº 847 -                                                      Bairro: São Pedro - CEP: 68.400-000 - Cametá - Pará									
+									
+									
+							Motorista	7,55	
+							Oficial	5,44	
+COMPOSIÇÃO UNITÁRIA DE PREÇOS DEMONSTRANDO A QUANTIDADE DE MATERIAL, MÃO DE OBRA, ENCARGOS E BDI EMITIDOS OS ITENS DA PLANILHA							Meio-oficial	4,83	
+					%		Servente	4,59	
+CONCORRÊNCIA PÚBLICA N° 003/2015-SEMED-PMC						0,99998			
+COMPOSIÇÃO DE PREÇOS UNITÁRIOS						1,00			
+SERVIÇO / DESCRIÇÃO	Unidade	Preço Unit.(R$)	Qtd/Coef.	Preço Total(R$)		COEF.			
+						1,00			
+									
+Placa de obra - padrão Governo Federal	m³								
+Lona com plotagem gráfica	m³	 R$ 75,00 	1,000	 R$ 75,00 		 R$ 75,00 			
+"Pernamanca 3"" x 2"" x 4,00m - madeira branca"	Dz	 R$ 147,00 	0,382	 R$ 56,17 		 R$ 147,00 			
+"Ripão de madeira branca 6"" x 1"" x 4,00m"	Dz	 R$ 145,00 	0,200	 R$ 29,00 		 R$ 145,00 			
+"Prego 2 1/2"" x 10'"	Kg	 R$ 53,32 	0,800	 R$ 42,66 		 R$ 53,32 			
+Carpinteiro	H	 R$ 10,88 	0,960	 R$ 10,44 		 R$ 10,88 			
+Pintor	H	 R$ 10,88 	1,000	 R$ 10,88 		 R$ 10,88 			
+Servente 	H	 R$ 7,32 	0,980	 R$ 7,17 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	231,32					
+		LS(%):148,42	Valor LS:	42,30					
+		BDI(%):25,22	Valor BDI:	69,01					
+			Valor Total c/ Taxas:	 R$ 342,62 					
+									
+Instalação provisória de água	m²								
+"Parafuso 5/16"" c= 100mm"	und	46,90	0,500	23,45		 R$ 46,90 			
+"Prego com cabeça 2.1/2"" x 10"	kg	52,00	0,050	2,60		 R$ 52,00 			
+"Tábua de madeira 1"" x 6 "" (espessura: 125mm / largura: 150mm)"	Dz	97,00	0,500	48,50		 R$ 97,00 			
+"Pernamanca 3"" x 2"" madeira branca"	Dz	102,00	0,600	61,20		 R$ 102,00 			
+Telha de fibrocimento ondulada (espessura: 4mm/ largura: 450mm)	und	57,00	0,600	34,20		 R$ 57,00 			
+Fechadura de sobrepor comum	und	77,00	0,400	30,80		 R$ 77,00 			
+Cadeado 30mm	und	66,00	0,500	33,00		 R$ 66,00 			
+"Dobradiça 3"" x 3"" com Parafuso"	und	47,00	1,269	59,65		 R$ 47,00 			
+"Registro de gaveta s/ canopla 1/2"""	und	68,00	0,600	40,80		 R$ 68,00 			
+Bacia sifonada de louça c/ assento	und	122,00	0,333	40,60		 R$ 122,00 			
+Chuveiro comum em pvc	und	64,00	0,400	25,60		 R$ 64,00 			
+Caixa de descarga plástica externa	und	68,70	0,110	7,56		 R$ 68,70 			
+Lavatório de louça s/ coluna c/ torneira, sifão e válvula	und	106,40	0,250	26,60		 R$ 106,40 			
+Carpinteiro 	H	10,88	6,500	70,72		 R$ 10,88 			
+Encanador 	H	10,88	6,500	70,72		 R$ 10,88 			
+Servente	H	7,32	6,500	47,58		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	623,57					
+		LS(%):148,42	Valor LS:	280,55					
+		BDI(%):25,22	Valor BDI:	228,02					
+			Valor Total c/ Taxas:	 R$ 1.132,13 					
+									
+Instalação provisória de energia elétrica em baixa tensão	m²								
+Materiais para ligações provisórias de energia elétrica	VB	670,17	0,890	596,45		670,18			
+Eletricista	H	10,82	0,550	5,95		10,82			
+Servente	H	7,32	0,550	4,03		7,32			
+			Total s/ Taxas(Unit.):	606,43					
+		LS(%):148,42	Valor LS:	14,81					
+		BDI(%):25,22	Valor BDI:	156,68					
+			Valor Total c/ Taxas:	 R$ 777,91 					
+									
+Instalações provisórias de esgoto	m²								
+Instalações provisórias de esgoto	VB	849,98	0,890	756,48		850,00			
+PEDREIRO	H	10,82	0,550	5,95		10,82			
+CARPINTEIRO	H	7,32	0,550	4,03		7,32			
+ENCANADOR	H	10,88	0,550	5,98		10,88			
+SERVENTE	H	7,32	0,550	4,03		7,32			
+			Total s/ Taxas(Unit.):	776,47					
+		LS(%):148,42	Valor LS:	29,67					
+		BDI(%):25,22	Valor BDI:	203,31					
+			Valor Total c/ Taxas:	 R$ 1.009,44 					
+									
+Barracões provisórios (depósito, escritório, vestiário e refeitório) com piso cimentado	m²								
+CONCRETO FCK=15MPA, PREPARO COM BETONEIRA, SEM LANCAMENTO	m³	281,53	0,015	4,22		281,54			
+									
+"PINHO DE TERCEIRA 1"" X 12"" E 1"" X 9"""	m²	23,79	1,020	24,27		23,79			
+PISO CIMENTADO E=1,5CM C/ARGAMASSA 1:3 CIMENTO AREIA ALISADO COLHER SOBRE BASE EXISTENTE.	m²	21,14	1,000	21,14		21,14			
+									
+LANCAMENTO/APLICACAO MANUAL DE CONCRETO EM ESTRUTURAS	m³	63,26	0,015	0,95		63,26			
+									
+CHAPA DE MADEIRA COMPENSADA PLASTIFICADA PARA FORMA DE CONCRETO, DE *2,44 X 1,22* M, E = 10 MM	m²	14,89	0,386	5,75		14,89			
+									
+"CONJUNTO ARRUELAS DE VEDACAO 5/16"" PARA TELHA FIBROCIMENTO (UMA ARRUELA METALICA E UMA ARRUELA PVC - CONICAS)"	cj	0,11	0,214	0,02		0,11			
+									
+									
+DISJUNTOR TIPO NEMA, MONOPOLAR 10 ATE 30A	und	5,92	0,0057	0,03		5,92			
+"PECA DE MADEIRA NATIVA/REGIONAL 7,5 X 12,50 CM (3X5"") NÃO APARELHADA (P/FORMA)"	m	4,67	0,700	3,27		4,67			
+									
+"PECA DE MADEIRA NATIVA / REGIONAL 7,5 X 7,5CM (3X3) NAO APARELHADA
+(P/FORMA)"	m	2,56	0,900	2,30		2,56			
+									
+PREGO POLIDO COM CABECA 18 X 30	kg	5,55	0,100	0,55		5,55			
+CADEADO LATAO CROMADO H = 35MM / 5 PINOS / HASTE CROMADA H = 30MM	und	13,57	0,0058	0,08		13,57			
+									
+PORTA CADEADO ZINCADO OXIDADO PRETO	und	4,07	0,0058	0,024		4,07			
+TELHA DE FIBROCIMENTO ONDULADA E = 6 MM, DE *2,44 X 1,10* M (SEM AMIANTO)	m²	16,03	0,318	5,10		16,03			
+									
+VIDRO LISO INCOLOR 3 MM - SEM COLOCACAO	m²	46,59	0,0230	1,07		46,59			
+PORTA DE MADEIRA SEMI-OCA, FOLHA LISA PARA PINTURA *80 X 210 X 3,5* CM	und	58,81	0,0115	0,68		58,81			
+									
+"TABUA MADEIRA 3A QUALIDADE 2,5 X 23,0CM (1 X 9"") NAO APARELHADA"	m	3,80	0,2500	0,95		3,80			
+									
+"CANTONEIRA ACO ABAS IGUAIS (QUALQUER BITOLA), E = 1/8 """	kg	2,45	0,3030	0,74		2,45			
+									
+"PARAFUSO ROSCA SOBERBA ZINCADO CABECA CHATA FENDA SIMPLES 3,8 X 30 MM (1.1/4 "")"	und	0,03	1,2800	0,04		0,03			
+									
+"DOBRADICA FERRO POLIDO OU GALV 3 X 3"" E=2MM"	und	2,63	0,0346	0,09		2,63			
+FECHADURA SOBREPOR FERRO PINTADO CHAVE GRANDE	und	6,92	0,0058	0,04		6,92			
+FIO/CORDAO COBRE ISOLADO PARALELO OU TORCIDO 2 X 2,5MM2, TIPO PLASTIFLEX PIRELLI OU EQUIV	m	1,94	0,5360	1,04		1,94			
+									
+INTERRUPTOR SOBREPOR 1 TECLA SIMPLES, TIPO SILENTOQUE PIAL OU EQUIV	und	2,89	0,0230	0,07		2,89			
+									
+TOMADA SOBREPOR 2P UNIVERSAL 10A/250V, TIPO SILENTOQUE PIAL OU EQUIV	und	6,54	0,0220	0,14		6,54			
+									
+BOCAL/SOQUETE/RECEPTACULO DE PORCELANA	und	1,74	0,0461	0,08		1,74			
+GLOBO ESFERICO DE VIDRO LISO TAMANHO MEDIO	und	9,03	0,0461	0,42		9,03			
+FITA ISOLANTE ADESIVA ANTI-CHAMA EM ROLOS 19MM X 5M	und	0,94	0,0240	0,02		0,94			
+									
+CARPINTEIRO	H	10,88	0,550	5,98		10,88			
+SERRALHEIRO	H	10,88	0,550	5,98		10,88			
+ELETRICISTA	H	10,82	0,550	5,95		10,82			
+AUXILIAR DE SERRALHEIRO	H	7,32	0,550	4,03		7,32			
+SERVENTE	H	7,32	0,550	4,03		7,32			
+			Total s/ Taxas(Unit.):	99,06					
+		LS(%):148,42	Valor LS:	38,55					
+		BDI(%):25,22	Valor BDI:	34,70					
+			Valor Total c/ Taxas:	 R$ 172,31 					
+									
+Locação da obra (execução de gabarito)	m²								
+ARAME RECOZIDO 18 BWG, 1,25 MM (0,01 KG/M)	Kg	 3,93 	0,020	0,08		 3,93 			
+PECA DE MADEIRA NATIVA / REGIONAL 7,5 X 7,5CM (3X3) NAO APARELHADA (P/FORMA)	M	 0,82 	0,050	 0,04 		 0,82 			
+									
+PREGO POLIDO COM CABECA 18 X 27	Kg	4,59	0,050	0,23		4,59			
+"TABUA MADEIRA 3A QUALIDADE 2,5 X 23,0CM (1 X 9"") NAO APARELHADA"	M	 2,20 	0,050	0,11		 2,20 			
+									
+CARPINTEIRO	H	10,88	0,035	0,38		10,88			
+SERVENTE	H	7,32	0,035	0,26		7,32			
+			Total s/ Taxas(Unit.):	1,10					
+		LS(%):148,42	Valor LS:	0,95					
+		BDI(%):25,22	Valor BDI:	0,51					
+			Valor Total c/ Taxas:	 R$ 2,56 					
+									
+Sondagem do terreno ( um furo de 7m a cada 200 m²)	m								
+Sondagem do terreno	m	59,88	1,000	59,88		59,88			
+			Total s/ Taxas(Unit.):	59,88					
+		LS(%):148,42	Valor LS:						
+		BDI(%):25,22	Valor BDI:	15,10					
+			Valor Total c/ Taxas:	 R$ 74,98 					
+									
+Tapume de chapa de madeira compensada, 6mm (40x2,00m, frente do terreno)	M²								
+									
+CAL HIDRATADA CH-I PARA ARGAMASSAS	Kg	0,72	0,6000	0,43		0,72			
+CHAPA DE MADEIRA COMPENSADA RESINADA PARA FORMA DE CONCRETO, DE *2,2 X 1,1* M, E = 6 MM	UND	17,48	0,2273	 R$ 3,97 		17,48			
+									
+PECA DE MADEIRA NATIVA / REGIONAL 7,5 X 7,5CM (3X3) NAO APARELHADA (P/FORMA)	M	2,82	1,5800	 R$ 4,46 		2,82			
+									
+PREGO POLIDO COM CABECA 18 X 27	Kg	6,59	0,1500	0,99		6,59			
+OLEO DE LINHACA	L	12,91	0,2200	2,84		12,91			
+CARPINTEIRO	H	10,88	0,8000	8,70		10,88			
+PINTOR	H	10,88	0,3000	3,26		10,88			
+SERVENTE	H	7,32	0,9500	6,95		7,32			
+			Total s/ Taxas(Unit.):	31,61					
+		LS(%):148,42	Valor LS:	28,08					
+		BDI(%):25,22	Valor BDI:	7,97					
+			Valor Total c/ Taxas:	 R$ 67,67 					
+									
+Aterro apiloado em camadas de 0,20 m com material argilo-arenoso entre baldrames	m²								
+SAIBRO PARA ARGAMASSA (COLETADO NO COMERCIO)	H	 R$ 37,85 	1,000	 R$ 37,85 		 R$ 37,85 			
+Servente	H	 R$ 7,32 	0,950	 R$ 6,95 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	44,81					
+		LS(%):148,42	Valor LS:	10,32					
+		BDI(%):25,22	Valor BDI:	13,90					
+			Valor Total c/ Taxas:	 R$ 69,03 					
+									
+CONCRETO ARMADO PARA VIGAS DE RESPALDO	m²								
+ Concreto c/ seixo Fck= 13.5 MPA (incl. preparo e lançamento	m³	 R$ 897,98 	1,000	 R$ 897,98 		 898,00 			
+ Forma  c/ madeira branca 	m²	 R$ 220,00 	1,000	 R$ 220,00 		 220,00 			
+ Desforma 	m²	 R$ 33,00 	1,000	 R$ 33,00 		 33,00 			
+ Armação p/ concreto	kg	 R$ 65,00 	1,000	 R$ 65,00 		 65,00 			
+Servente	H	 R$ 7,32 	0,960	 R$ 7,03 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	1223,00					
+		LS(%):148,42	Valor LS:	10,43					
+		BDI(%):25,22	Valor BDI:	311,07					
+			Valor Total c/ Taxas:	 R$ 1.544,50 					
+									
+Laje pré-moldada para cobertura, intereixo 38cm, h = 12cm, elemento de enchimento em bloco cerâmico, capeamento de 4cm, inclusive armadura, escoramento, material e mão-de-abro, conforme projeto	m²								
+CONCRETO FCK=20MPA, VIRADO EM BETONEIRA, C/ LANCAMENTO	m³	 R$ 25,24 	1,000	 R$ 25,24 		 R$ 25,24 			
+ACO CA-60, 5,0 MM, VERGALHAO	Kg	 R$ 9,90 	1,000	 R$ 9,90 		 R$ 9,90 			
+LAJE PRE-MOLDADA DE PISO CONVENCIONAL SOBRECARGA 200KG/M2 VAO ATE 3,50M	M²	 R$ 6,50 	1,000	 R$ 6,50 		 R$ 6,50 			
+PECA DE MADEIRA NATIVA / REGIONAL 7,5 X 7,5CM (3X3) NAO APARELHADA (P/FORMA	M	 R$ 6,50 	1,000	 R$ 6,50 		 R$ 6,50 			
+PREGO POLIDO COM CABECA 18 X 27	Kg	 R$ 4,10 	1,000	 R$ 4,10 		 R$ 4,10 			
+"TABUA MADEIRA 2A QUALIDADE 2,5 X 30,0CM (1 X 12"") NAO APARELHADA"	M	 R$ 2,30 	1,000	 R$ 2,30 		 R$ 2,30 			
+Carpinteiro	H	 R$ 8,99 	0,005	 R$ 0,05 		 R$ 8,99 			
+Pedreiro	H	 R$ 8,99 	0,005	 R$ 0,05 		 R$ 8,99 			
+Servente	H	 R$ 7,32 	0,005	 R$ 0,04 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	54,68					
+		LS(%):148,42	Valor LS:	0,21					
+		BDI(%):25,22	Valor BDI:	13,84					
+			Valor Total c/ Taxas:	 R$ 68,74 					
+									
+Cobogó de concreto - (7 x 30 x 30 cm), assentado com argamassa traço 1:4 (cimento e areia)	m²								
+ARGAMASSA TRAÇO 1:4 (CIMENTO E AREIA MÉDIA) 	M³	 R$ 62,34 	1,000	 R$ 62,34 		 62,34 			
+ELEMENTO VAZADO DE CONCRETO, QUADRICULADO, 7,0x30x30cm)	U N	 R$ 8,33 	1,000	 R$ 8,33 		 8,33 			
+PEDREIRO	H	 R$ 10,88 	0,360	 R$ 3,92 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,360	 R$ 2,64 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	77,22					
+		LS(%):148,42	Valor LS:	9,72					
+		BDI(%):25,22	Valor BDI:	21,93					
+			Valor Total c/ Taxas:	 R$ 108,87 					
+									
+Divisórias de banheiros e sanitários em granito com espessura 2cm polido assentado com argamasssa traço 1:4	m³								
+ARGAMASSA TRAÇO 1:4 (CIMENTO E AREIA MÉDIA)	M³	 R$ 180,00 	1,000	 R$ 180,00 		 180,00 			
+CIMENTO BRANCO	Kg	 R$ 3,58 	1,000	 R$ 3,58 		 3,58 			
+DIVISORIA EM GRANITO BRANCO ESP=2CM POLIDO	M²	 R$ 321,00 	1,000	 R$ 321,00 		 321,01 			
+MARMORISTA	H	 R$ 7,55 	0,140	 R$ 1,06 		 R$ 7,55 			
+Servente	H	 R$ 7,32 	0,140	 R$ 1,02 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	506,66					
+		LS(%):148,42	Valor LS:	3,09					
+		BDI(%):25,22	Valor BDI:	128,56					
+			Valor Total c/ Taxas:	 R$ 638,31 					
+									
+Porta de madeira - P01 - com ferragens, conforme projeto de esquadrias	U N								
+Porta de Madeira c/ ferragem, conforme projeto de esquadrias	U N	 R$ 263,41 	1,000	 R$ 263,41 		 R$ 263,42 			
+CARPINTEIRO	H	 R$ 10,88 	0,307	 R$ 3,34 		 10,88 			
+PEDREIRO	H	 R$ 10,88 	0,307	 R$ 3,34 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,307	 R$ 2,25 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	272,34					
+		LS(%):148,42	Valor LS:	13,25					
+		BDI(%):25,22	Valor BDI:	72,02					
+			Valor Total c/ Taxas:	 R$ 357,61 					
+									
+Porta de madeira - P02 - com ferragens, conforme projeto de esquadrias	U N								
+Porta de Madeira c/ ferragem, conforme projeto de esquadrias	U N	 R$ 263,41 	1,000	 R$ 263,41 		 R$ 263,42 			
+CARPINTEIRO	H	 R$ 10,88 	0,307	 R$ 3,34 		 10,88 			
+PEDREIRO	H	 R$ 10,88 	0,307	 R$ 3,34 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,307	 R$ 2,25 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	272,34					
+		LS(%):148,42	Valor LS:	13,25					
+		BDI(%):25,22	Valor BDI:	72,02					
+			Valor Total c/ Taxas:	 R$ 357,61 					
+									
+Porta de madeira - P03 - com ferragens, conforme projeto de esquadrias	U N								
+Porta de Madeira c/ ferragem, conforme projeto de esquadrias	U N	 R$ 263,41 	1,000	 R$ 263,41 		 R$ 263,42 			
+CARPINTEIRO	H	 R$ 10,88 	0,307	 R$ 3,34 		 10,88 			
+PEDREIRO	H	 R$ 10,88 	0,307	 R$ 3,34 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,307	 R$ 2,25 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	272,34					
+		LS(%):148,42	Valor LS:	13,25					
+		BDI(%):25,22	Valor BDI:	72,02					
+			Valor Total c/ Taxas:	 R$ 357,61 					
+									
+Porta de madeira - P05 - com ferragens, conforme projeto de esquadrias	U N								
+Porta de Madeira c/ ferragem, conforme projeto de esquadrias	U N	 R$ 263,41 	1,000	 R$ 263,41 		 R$ 263,42 			
+CARPINTEIRO	H	 R$ 10,88 	0,307	 R$ 3,34 		 10,88 			
+PEDREIRO	H	 R$ 10,88 	0,307	 R$ 3,34 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,307	 R$ 2,25 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	272,34					
+		LS(%):148,42	Valor LS:	13,25					
+		BDI(%):25,22	Valor BDI:	72,02					
+			Valor Total c/ Taxas:	 R$ 357,61 					
+									
+Porta de madeira - PM04B - com ferragens, conforme projeto de esquadrias	U N								
+Porta de Madeira c/ ferragem, conforme projeto de esquadrias	U N	 R$ 189,02 	1,000	 R$ 189,02 		 R$ 189,02 			
+CARPINTEIRO	H	 R$ 10,88 	0,171	 R$ 1,86 		 10,88 			
+PEDREIRO	H	 R$ 10,88 	0,171	 R$ 1,86 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,171	 R$ 1,25 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	193,99					
+		LS(%):148,42	Valor LS:	7,38					
+		BDI(%):25,22	Valor BDI:	50,78					
+			Valor Total c/ Taxas:	 R$ 252,14 					
+									
+Porta de madeira - PM04C - com ferragens, conforme projeto de esquadrias	U N								
+Porta de Madeira c/ ferragem, conforme projeto de esquadrias	U N	 R$ 263,41 	1,000	 R$ 263,41 		 R$ 263,42 			
+CARPINTEIRO	H	 R$ 10,88 	0,307	 R$ 3,34 		 10,88 			
+PEDREIRO	H	 R$ 10,88 	0,307	 R$ 3,34 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,307	 R$ 2,25 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	272,34					
+		LS(%):148,42	Valor LS:	13,25					
+		BDI(%):25,22	Valor BDI:	72,02					
+			Valor Total c/ Taxas:	 R$ 357,61 					
+Porta de madeira - banheiros e sanitários completa incluisve trageta metálica									
+Porta de Madeira - Banheiros e Sanitários completa inclusive targeta metálica	U N	 R$ 190,75 	1,000	 R$ 190,75 		 R$ 190,75 			
+PEDREIRO	H	 R$ 10,88 	0,090	 R$ 0,98 		 R$ 10,88 			
+SERVENTE	H	 R$ 7,32 	0,090	 R$ 0,66 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	192,38					
+		LS(%):148,42	Valor LS:	2,43					
+		BDI(%):25,22	Valor BDI:	49,13					
+			Valor Total c/ Taxas:	 R$ 243,95 					
+									
+Porta de ferro - PF1 - com ferragens, conforme projeto de esquadrias									
+Chapa de aço perfurada, inclusive pintura - fornecimento e instalação	U N 	 R$ 180,00 	1,000	 R$ 180,00 		 R$ 180,00 			
+FERREIRO	H	 R$ 10,88 	0,546	 R$ 5,94 		10,88			
+PEDREIRO	H	 R$ 10,88 	0,546	 R$ 5,94 		 R$ 10,88 			
+SERVENTE	H	 R$ 7,32 	0,546	 R$ 4,00 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	195,87					
+		LS(%):148,42	Valor LS:	23,56					
+		BDI(%):25,22	Valor BDI:	55,34					
+			Valor Total c/ Taxas:	 R$ 274,77 					
+									
+Porta de ferro - PF2 - com ferragens, conforme projeto de esquadrias									
+Chapa de aço perfurada, inclusive pintura - fornecimento e instalação	U N 	 R$ 180,00 	1,000	 R$ 180,00 		 R$ 180,00 			
+FERREIRO	H	 R$ 10,88 	0,546	 R$ 5,94 		10,88			
+PEDREIRO	H	 R$ 10,88 	0,546	 R$ 5,94 		 R$ 10,88 			
+SERVENTE	H	 R$ 7,32 	0,546	 R$ 4,00 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	195,87					
+		LS(%):148,42	Valor LS:	23,56					
+		BDI(%):25,22	Valor BDI:	55,34					
+			Valor Total c/ Taxas:	 R$ 274,77 					
+									
+Janela de ferrp EF-17-A - com ferragens, conforme projeto de esquadrias - basculante - inclusive vidro 4mm									
+Janela de ferrp EF-17-A - com ferragens, conforme projeto de esquadrias - basculante - inclusive vidro 4mm	U N 	 R$ 140,85 	1,000	 R$ 140,85 		 R$ 140,86 			
+FERREIRO	H	 R$ 10,88 	1,600	 R$ 17,41 		10,88			
+PEDREIRO	H	 R$ 10,88 	1,600	 R$ 17,41 		 R$ 10,88 			
+SERVENTE	H	 R$ 7,32 	1,600	 R$ 11,71 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	187,38					
+		LS(%):148,42	Valor LS:	69,06					
+		BDI(%):25,22	Valor BDI:	64,67					
+			Valor Total c/ Taxas:	 R$ 321,11 					
+									
+Janela de ferrp EF-17-B - com ferragens, conforme projeto de esquadrias - basculante - inclusive vidro 4mm									
+Janela de ferrp EF-17-B - com ferragens, conforme projeto de esquadrias - basculante - inclusive vidro 4mm	U N 	 R$ 140,85 	1,000	 R$ 140,85 		 R$ 140,86 			
+FERREIRO	H	 R$ 10,88 	1,600	 R$ 17,41 		10,88			
+PEDREIRO	H	 R$ 10,88 	1,600	 R$ 17,41 		 R$ 10,88 			
+SERVENTE	H	 R$ 7,32 	1,600	 R$ 11,71 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	187,38					
+		LS(%):148,42	Valor LS:	69,06					
+		BDI(%):25,22	Valor BDI:	64,67					
+			Valor Total c/ Taxas:	 R$ 321,11 					
+									
+Janela de ferrp EF-19 - com ferragens, conforme projeto de esquadrias - basculante - inclusive vidro 4mm									
+Janela de ferrp EF-19 - com ferragens, conforme projeto de esquadrias - basculante - inclusive vidro 4mm	U N 	 R$ 209,69 	1,000	 R$ 209,69 		 R$ 209,69 			
+FERREIRO	H	 R$ 10,88 	1,600	 R$ 17,41 		10,88			
+PEDREIRO	H	 R$ 10,88 	1,600	 R$ 17,41 		 R$ 10,88 			
+SERVENTE	H	 R$ 7,32 	1,600	 R$ 11,71 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	256,22					
+		LS(%):148,42	Valor LS:	69,06					
+		BDI(%):25,22	Valor BDI:	82,03					
+			Valor Total c/ Taxas:	 R$ 407,31 					
+									
+Janela de ferrp EF-28 - com ferragens, conforme projeto de esquadrias - basculante - inclusive vidro 4mm									
+Janela de ferrp EF-28 - com ferragens, conforme projeto de esquadrias - basculante - inclusive vidro 4mm	U N 	 R$ 209,69 	1,000	 R$ 209,69 		 R$ 209,69 			
+FERREIRO	H	 R$ 10,88 	1,600	 R$ 17,41 		10,88			
+PEDREIRO	H	 R$ 10,88 	1,600	 R$ 17,41 		 R$ 10,88 			
+SERVENTE	H	 R$ 7,32 	1,600	 R$ 11,71 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	256,22					
+		LS(%):148,42	Valor LS:	69,06					
+		BDI(%):25,22	Valor BDI:	82,03					
+			Valor Total c/ Taxas:	 R$ 407,31 					
+									
+Janela de ferrp EF-31 - com ferragens, conforme projeto de esquadrias - basculante - inclusive vidro 4mm									
+Janela de ferrp EF-31 - com ferragens, conforme projeto de esquadrias - basculante - inclusive vidro 4mm	U N 	 R$ 209,69 	1,000	 R$ 209,69 		 R$ 209,69 			
+FERREIRO	H	 R$ 10,88 	1,600	 R$ 17,41 		10,88			
+PEDREIRO	H	 R$ 10,88 	1,600	 R$ 17,41 		 R$ 10,88 			
+SERVENTE	H	 R$ 7,32 	1,600	 R$ 11,71 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	256,22					
+		LS(%):148,42	Valor LS:	69,06					
+		BDI(%):25,22	Valor BDI:	82,03					
+			Valor Total c/ Taxas:	 R$ 407,31 					
+									
+Janela de ferrp EF-32 - com ferragens, conforme projeto de esquadrias - basculante - inclusive vidro 4mm									
+Janela de ferrp EF-32 - com ferragens, conforme projeto de esquadrias - basculante - inclusive vidro 4mm	U N 	 R$ 140,85 	1,000	 R$ 140,85 		 R$ 140,86 			
+FERREIRO	H	 R$ 10,88 	1,600	 R$ 17,41 		10,88			
+PEDREIRO	H	 R$ 10,88 	1,600	 R$ 17,41 		 R$ 10,88 			
+SERVENTE	H	 R$ 7,32 	1,600	 R$ 11,71 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	187,38					
+		LS(%):148,42	Valor LS:	69,06					
+		BDI(%):25,22	Valor BDI:	64,67					
+			Valor Total c/ Taxas:	 R$ 321,11 					
+									
+estrtura metálica com vidro fixo 8mm									
+estrtura metálica com vidro fixo 8mm	M²	27,74	1,000	 R$ 27,74 		 R$ 27,74 			
+PEDREIRO	H	 R$ 10,88 	1,750	 R$ 19,04 		 R$ 10,88 			
+SERVENTE	H	 R$ 7,32 	1,750	 R$ 12,81 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	59,58					
+		LS(%):148,42	Valor LS:	88,44					
+		BDI(%):25,22	Valor BDI:	37,33					
+			Valor Total c/ Taxas:	 R$ 185,35 					
+									
+Estrutura de madeira aparelhada com tesoura vão 3,0 a 7,0 m, primeira para telha cerâmica	M²								
+Madeira de lei para cobertura	m²	 R$ 74,00 	0,200	 R$ 14,80 		 R$ 74,00 			
+Prego 18 x 27 com cabeça 	Kg	 R$ 8,00 	0,800	 R$ 6,40 		 R$ 8,00 			
+Ferragens para telhados tipo chapa de emenda de ferro	Cj	 R$ 14,00 	0,620	 R$ 8,68 		 R$ 14,00 			
+Carpinteiro	H	 R$ 10,88 	0,285	 R$ 3,10 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,285	 R$ 2,08 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	35,06					
+		 LS(%):148,42 	Valor LS:	 R$ 7,69 					
+		BDI(%):25,22	Valor BDI:	12,83					
+			Valor Total c/ Taxas:	 R$ 55,58 					
+									
+Cobertura em telha cerâmica tipo capa e canal	M²								
+Cobertura em telha cerâmica tipo capa e canal	M²	 R$ 155,20 	0,200	 R$ 31,04 		 R$ 155,20 			
+Carpinteiro	H	 R$ 10,88 	0,285	 R$ 3,10 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,285	 R$ 2,08 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	36,22					
+		 LS(%):148,42 	Valor LS:	 R$ 7,69 					
+		BDI(%):25,22	Valor BDI:	13,17					
+			Valor Total c/ Taxas:	 R$ 57,08 					
+									
+Cumeeira com telha cerâmica emboçada com argamassa traço 1:2:8	m²								
+Madeira de lei aparelhada para cobertura	m²	 R$ 19,07 	0,200	 R$ 3,81 		 R$ 19,07 			
+Prego 18 x 27 com cabeça 	Kg	 R$ 5,00 	0,478	 R$ 2,39 		 R$ 5,00 			
+Ferragens para telhados tipo chapa de emenda de ferro	Cj	 R$ 8,00 	0,600	 R$ 4,80 		 R$ 8,00 			
+Carpinteiro	H	 R$ 10,88 	0,065	 R$ 0,71 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,065	 R$ 0,48 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	12,19					
+		 LS(%):148,42 	Valor LS:	 R$ 1,76 					
+		BDI(%):25,22	Valor BDI:	4,18					
+			Valor Total c/ Taxas:	 R$ 18,13 					
+									
+Calha em chapa de aço galvanizado nº 24 desenvolvimento 33cm	m								
+Telha cerâmica tipo plan	und	 R$ 1,20 	4,149	 R$ 4,99 		 R$ 1,20 			
+Telhadista	H	 R$ 10,88 	0,374	 R$ 4,07 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,374	 R$ 2,74 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	11,81					
+		 LS(%):148,42 	Valor LS:	 R$ 10,11 					
+		BDI(%):25,22	Valor BDI:	5,53					
+			Valor Total c/ Taxas:	 R$ 27,45 					
+									
+Impermeabilização de calhas de concreto com mastique betuminoso a frio	m²								
+"Ripão em madeira de lei 2"" x 1"""	Dz	 R$ 58,50 	0,255	14,90		 R$ 58,50 			
+Prego com cabeça 18 x 27	Kg	 R$ 8,28 	0,400	3,31		 R$ 8,28 			
+Carpinteiro	H	 R$ 10,88 	0,190	 R$ 2,07 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,190	 R$ 1,39 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	21,67					
+		 LS(%):148,42 	Valor LS:	 R$ 5,13 					
+		BDI(%):25,22	Valor BDI:	6,76					
+			Valor Total c/ Taxas:	 R$ 33,57 					
+#REF!	m²								
+Forro em lambri de pvc 100mm	m²	 R$ 16,70 	0,490	 R$ 8,18 		 R$ 16,70 			
+Arremate para forro pvc	m	 R$ 7,70 	0,400	 R$ 3,08 		 R$ 7,70 			
+"Prego com cabeça 1.1/2 x 13"""	Kg	 R$ 8,44 	0,300	 R$ 2,53 		 R$ 8,44 			
+Carpinteiro	H	 R$ 10,88 	0,300	 R$ 3,26 		 R$ 10,88 			
+Ajudante	H	 R$ 7,32 	0,300	 R$ 2,20 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	19,25					
+		 LS(%):148,42 	Valor LS:	 R$ 8,10 					
+		BDI(%):25,22	Valor BDI:	6,90					
+			Valor Total c/ Taxas:	 R$ 34,26 					
+									
+Chapisco de aderência em paredes internas e externas	pt								
+Encanador	H	 R$ 10,88 	0,124	 R$ 1,35 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,124	 R$ 0,91 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	2,26					
+		 LS(%):148,42 	Valor LS:	 R$ 2,01 					
+		BDI(%):25,22	Valor BDI:	1,08					
+			Valor Total c/ Taxas:	 R$ 5,35 					
+									
+Chapisco de aderência em lajes pré-moldadas	pt								
+Encanador	H	 R$ 10,88 	0,124	 R$ 1,35 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,124	 R$ 0,91 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	2,26					
+		 LS(%):148,42 	Valor LS:	 R$ 2,01 					
+		BDI(%):25,22	Valor BDI:	1,08					
+			Valor Total c/ Taxas:	 R$ 5,35 					
+									
+Emboço pra paredes internas e externas traço 1:5 - preparo manual - espessura 2cm	und								
+ARGAMASSA TRACO 1:4,5 	M²	 R$ 12,44 	0,500	 R$ 6,22 		 R$ 12,44 			
+Pedreiro	H	 R$ 11,88 	0,100	 R$ 1,19 		 R$ 11,88 			
+Servente	H	 R$ 7,32 	0,100	 R$ 0,73 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	8,14					
+		 LS(%):148,42 	Valor LS:	 R$ 2,85 					
+		BDI(%):25,22	Valor BDI:	2,77					
+			Valor Total c/ Taxas:	 R$ 13,76 					
+									
+Reboco tipo paulista para paredes internas e externas - espessura 2,0cm	m²								
+ARGAMASSA TRACO 1:4,5 	m²	 R$ 11,92 	0,800	 R$ 9,54 		 R$ 11,92 			
+Pedreiro	H	 R$ 10,88 	0,020	 R$ 0,22 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,020	 R$ 0,15 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	9,90					
+		 LS(%):148,42 	Valor LS:	 R$ 0,54 					
+		BDI(%):25,22	Valor BDI:	2,63					
+			Valor Total c/ Taxas:	 R$ 13,07 					
+									
+Reboco tipo paulista para lajes - espessura 2,0cm									
+CERAMICA PEI IV - 30 x 40CM	m²	 R$ 7,15 	0,800	 R$ 5,72 		 R$ 7,15 			
+ARGAMASSA COLANTE AC I PARA CERAMICAS	m²	 R$ 5,02 	0,800	 R$ 4,02 		 R$ 5,02 			
+REJUNTE COLORIDO	m²	 R$ 4,10 	0,800	 R$ 3,28 		 R$ 4,10 			
+Pedreiro	H	 R$ 10,88 	0,001	 R$ 0,01 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,001	 R$ 0,01 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	13,03					
+		 LS(%):148,42 	Valor LS:	 R$ 0,03 					
+		BDI(%):25,22	Valor BDI:	3,29					
+			Valor Total c/ Taxas:	 R$ 16,35 					
+									
+Revestimento cerâmico de paredes PEI III - cerâmica 20 x 20cm - incl. rejunte  -conforme projeto									
+CERAMICA PEI III - 20 x 20CM	m²	 R$ 7,92 	0,800	 R$ 6,34 		 R$ 7,92 			
+ARGAMASSA COLANTE AC I PARA CERAMICAS	m²	 R$ 6,00 	0,800	 R$ 4,80 		 R$ 6,00 			
+REJUNTE COLORIDO	m²	 R$ 4,10 	0,800	 R$ 3,28 		 R$ 4,10 			
+Pedreiro	H	 R$ 10,88 	0,600	 R$ 6,53 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,600	 R$ 4,39 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	25,34					
+		 LS(%):148,42 	Valor LS:	 R$ 16,21 					
+		BDI(%):25,22	Valor BDI:	10,48					
+			Valor Total c/ Taxas:	 R$ 52,02 					
+									
+Revestimento cerâmico de paredes PEI III - cerâmica 10 x 10cm - incl. rejunte  -conforme projeto									
+CERAMICA PEI III - 10 x 10CM	m²	 R$ 7,99 	0,800	 R$ 6,39 		 R$ 7,99 			
+ARGAMASSA COLANTE AC I PARA CERAMICAS	m²	 R$ 6,50 	0,800	 R$ 5,20 		 R$ 6,50 			
+REJUNTE COLORIDO	m²	 R$ 5,01 	0,800	 R$ 4,01 		 R$ 5,01 			
+Pedreiro	H	 R$ 10,88 	0,800	 R$ 8,70 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,800	 R$ 5,86 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	30,16					
+		 LS(%):148,42 	Valor LS:	 R$ 21,61 					
+		BDI(%):25,22	Valor BDI:	13,06					
+			Valor Total c/ Taxas:	 R$ 64,83 					
+									
+Camada impermeabilizadora e=5cm	m								
+Camada impermeabilizadora e=5cm	m	 R$ 53,53 	0,200	 R$ 10,71 		 R$ 53,53 			
+Pedreiro	H	 R$ 10,88 	0,390	 R$ 4,24 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,390	 R$ 2,85 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	17,80					
+		 LS(%):148,42 	Valor LS:	 R$ 10,53 					
+		BDI(%):25,22	Valor BDI:	7,15					
+			Valor Total c/ Taxas:	 R$ 35,49 					
+									
+Camada regularizadora e=3cm	m								
+Camada regularizadora e=3cm	m	 R$ 16,70 	0,200	 R$ 3,34 		 R$ 16,70 			
+Pedreiro	H	 R$ 10,88 	0,250	 R$ 2,72 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,250	 R$ 1,83 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	7,89					
+		 LS(%):148,42 	Valor LS:	 R$ 6,75 					
+		BDI(%):25,22	Valor BDI:	3,69					
+			Valor Total c/ Taxas:	 R$ 18,33 					
+									
+Piso de alta resistência em massa granilítica, inclusive polimento e enceramento	m								
+Cabo de cobre nu 10mm²	m	 R$ 39,91 	0,500	 R$ 19,95 		 R$ 39,91 			
+Pedreiro	H	 R$ 10,88 	0,750	 R$ 8,16 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,750	 R$ 5,49 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	33,60					
+		 LS(%):148,42 	Valor LS:	 R$ 20,26 					
+		BDI(%):25,22	Valor BDI:	13,58					
+			Valor Total c/ Taxas:	 R$ 67,45 					
+									
+pios cerâmico esmaltada PEI IV - 20 x 20 cm - incl. rejunte - conforme projeto	und								
+pios cerâmico esmaltada PEI IV - 20 x 20 cm - incl. rejunte - conforme projeto	und	 R$ 45,18 	0,567	 R$ 25,63 		 R$ 45,18 			
+Pedreiro	H	 R$ 10,88 	0,450	 R$ 4,90 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,450	 R$ 3,29 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	33,82					
+		 LS(%):148,42 	Valor LS:	 R$ 12,16 					
+		BDI(%):25,22	Valor BDI:	11,60					
+			Valor Total c/ Taxas:	 R$ 57,58 					
+									
+Lastro de areia para o playground	m²								
+Disjuntor termomagnético monopolar padrão nema (americano) 10 a 30A 240V	und	 R$ 139,17 	0,305	 R$ 42,38 		 R$ 139,17 			
+Pedreiro	H	 R$ 10,88 	0,670	 R$ 7,29 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,670	 R$ 4,90 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	54,57					
+		 LS(%):148,42 	Valor LS:	 R$ 18,10 					
+		BDI(%):25,22	Valor BDI:	18,33					
+			Valor Total c/ Taxas:	 R$ 91,00 					
+									
+Piso de cimento desempenado com juntas e dilatação	und								
+Tomada de embutir 2P+T 10A/250V c/ placa	und	 R$ 63,29 	0,486	 R$ 30,76 		 R$ 63,29 			
+Pedreiro	H	 R$ 10,88 	0,120	 R$ 1,31 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,120	 R$ 0,88 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	32,94					
+		 LS(%):148,42 	Valor LS:	 R$ 3,24 					
+		BDI(%):25,22	Valor BDI:	9,13					
+			Valor Total c/ Taxas:	 R$ 45,31 					
+									
+Blocos de argamassa armada pré-fabricados 50 x 50 cm	unid								
+Luminária c/ 1 lamp. fluorescente 32W sem fiação	unid	 R$ 43,23 	0,700	 R$ 30,26 		 R$ 43,23 			
+Pedreiro	H	 R$ 10,88 	0,009	 R$ 0,10 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,009	 R$ 0,07 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	30,42					
+		 LS(%):148,42 	Valor LS:	 R$ 0,24 					
+		BDI(%):25,22	Valor BDI:	7,73					
+			Valor Total c/ Taxas:	 R$ 38,40 					
+									
+Piso de pedra rolada	pt								
+Pedreiro	H	 R$ 10,88 	0,189	 R$ 2,06 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,189	 R$ 1,38 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	3,44					
+		 LS(%):148,42 	Valor LS:	 R$ 5,11 					
+		BDI(%):25,22	Valor BDI:	2,16					
+			Valor Total c/ Taxas:	 R$ 10,70 					
+									
+Blocrete intervalado de concreto	pt								
+Pedreiro	H	 R$ 10,88 	0,795	 R$ 8,65 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,795	 R$ 5,82 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	14,47					
+		 LS(%):148,42 	Valor LS:	 R$ 21,48 					
+		BDI(%):25,22	Valor BDI:	9,07					
+			Valor Total c/ Taxas:	 R$ 45,03 					
+									
+Rodapé em massa granilítica h=10cm	und								
+Porta de madeira almofadada semi-oca 1A 80x210x3cm	und	 R$ 1,12 	1,200	 R$ 1,34 		 R$ 1,12 			
+Caixilho em madeira de lei	m²	 R$ 0,95 	0,600	 R$ 0,57 		 R$ 0,95 			
+Cal hidratada CH lll	kg	 R$ 0,95 	1,450	 R$ 1,38 		 R$ 0,95 			
+Areia lavada tipo média	m³	 R$ 0,95 	0,650	 R$ 0,62 		 R$ 0,95 			
+Cimento Portland CP II-E-32 	kg	 R$ 0,95 	0,400	 R$ 0,38 		 R$ 0,95 			
+Prego com cabeça 16 x 24	kg	 R$ 1,00 	0,600	 R$ 0,60 		 R$ 1,00 			
+Alizar de madeira para porta	m	 R$ 1,00 	0,250	 R$ 0,25 		 R$ 1,00 			
+"Dobradiça de ferro para porta 3"""	und	 R$ 0,60 	0,350	 R$ 0,21 		 R$ 0,60 			
+Parafuso madeira cabeça chata fenda 	und	 R$ 0,11 	2,000	 R$ 0,22 		 R$ 0,11 			
+Fechadura em latão completa para porta 	und	 R$ 1,80 	0,380	 R$ 0,68 		 R$ 1,80 			
+Carpinteiro	H	 R$ 10,88 	0,001	 R$ 0,01 		 R$ 10,88 			
+Pedreiro	H	 R$ 10,88 	0,001	 R$ 0,01 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,001	 R$ 0,01 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	6,28					
+		 LS(%):148,42 	Valor LS:	 R$ 0,04 					
+		BDI(%):25,22	Valor BDI:	1,60					
+			Valor Total c/ Taxas:	 R$ 7,92 					
+									
+Soleira em granito									
+Soleira em granito	M²	 R$ 14,74 	1,000	 R$ 14,74 		 R$ 14,74 			
+Pedreiro	H	 R$ 10,88 	0,220	 R$ 2,39 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,220	 R$ 1,61 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	18,74					
+		 LS(%):148,42 	Valor LS:	 R$ 27,82 					
+		BDI(%):25,22	Valor BDI:	11,74					
+			Valor Total c/ Taxas:	 R$ 58,31 					
+									
+Pietoril em granito (2x18) cm									
+Pietoril em granito (2x18) cm	M²	 R$ 14,74 	1,000	 R$ 14,74 		 R$ 14,74 			
+Pedreiro	H	 R$ 10,88 	0,220	 R$ 2,39 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,220	 R$ 1,61 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	18,74					
+		 LS(%):148,42 	Valor LS:	 R$ 27,82 					
+		BDI(%):25,22	Valor BDI:	11,74					
+			Valor Total c/ Taxas:	 R$ 58,31 					
+									
+Roda meio em madeira (largura 10cm)	m²								
+Roda meio em madeira (largura 10cm)	m²	 R$ 12,94 	0,950	 R$ 12,29 		 R$ 12,94 			
+Argamassa de cimento e areia traço 1:6	m³	 R$ 2,75 	0,520	 R$ 1,43 		 R$ 2,75 			
+Pedreiro	H	 R$ 10,88 	0,002	 R$ 0,02 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,002	 R$ 0,01 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	13,76					
+		 LS(%):148,42 	Valor LS:	 R$ 0,05 					
+		BDI(%):25,22	Valor BDI:	3,48					
+			Valor Total c/ Taxas:	 R$ 17,30 					
+									
+Emassamento de paredes internas e externas com massa acrílica - 02 demãos	m²								
+Emassamento de paredes internas e externas com massa acrílica - 02 demãos	gl	 R$ 64,70 	0,050	 R$ 3,23 		 R$ 64,70 			
+Fundo branco nivelador para madeira	gl	 R$ 37,43 	0,060	 R$ 2,25 		 R$ 37,43 			
+Aguarras mineral	l	 R$ 8,33 	0,100	 R$ 0,83 		 R$ 8,33 			
+Lixa para madeira grana 100	und	 R$ 0,48 	0,100	 R$ 0,05 		 R$ 0,48 			
+Pintor	H	 R$ 10,88 	0,013	 R$ 0,15 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,013	 R$ 0,10 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	6,61					
+		 LS(%):148,42 	Valor LS:	 R$ 0,36 					
+		BDI(%):25,22	Valor BDI:	1,76					
+			Valor Total c/ Taxas:	 R$ 8,72 					
+									
+Emassamento de lajes internas e externas com massa acrílica - 02 demãos	m²								
+Emassamento de lajes internas e externas com massa acrílica - 02 demãos	m²	 R$ 24,35 	0,480	 R$ 11,68 		 R$ 24,35 			
+Pintor	H	 R$ 10,88 	0,009	 R$ 0,10 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,009	 R$ 0,07 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	11,84					
+		 LS(%):148,42 	Valor LS:	 R$ 0,24 					
+		BDI(%):25,22	Valor BDI:	3,05					
+			Valor Total c/ Taxas:	 R$ 15,13 					
+									
+Pintura em látex acrílico 02 demãos sobre paredes internas e externas	m²								
+Pintura em látex acrílico 02 demãos sobre paredes internas e externas	m²	 R$ 8,37 	0,205	 R$ 1,71 		 R$ 8,37 			
+Pintor	H	 R$ 10,88 	0,109	 R$ 1,19 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,109	 R$ 0,80 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	3,70					
+		 LS(%):148,42 	Valor LS:	 R$ 2,94 					
+		BDI(%):25,22	Valor BDI:	1,67					
+			Valor Total c/ Taxas:	 R$ 8,32 					
+									
+Pintura em látex acrílico 02 demãos sobre lajes internas e externas	M²								
+Pintura em látex acrílico 02 demãos sobre lajes internas e externas	m²	 R$ 9,88 	0,205	 R$ 2,02 		 R$ 9,88 			
+Pintor	H	 R$ 10,88 	0,120	 R$ 1,31 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,120	 R$ 0,88 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	4,21					
+		 LS(%):148,42 	Valor LS:	 R$ 3,24 					
+		BDI(%):25,22	Valor BDI:	1,88					
+			Valor Total c/ Taxas:	 R$ 9,33 					
+									
+Pintura em esmalte sintético 02 demãos em esquadrias de madeira									
+Pintura em esmalte sintético 02 demãos em esquadrias de madeira	m²	 R$ 8,45 	0,205	 R$ 1,73 		 R$ 8,45 			
+Pintor	H	 R$ 10,88 	0,145	 R$ 1,58 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,145	 R$ 1,06 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	4,37					
+		 LS(%):148,42 	Valor LS:	 R$ 3,92 					
+		BDI(%):25,22	Valor BDI:	2,09					
+			Valor Total c/ Taxas:	 R$ 10,38 					
+									
+Pintura em esmalte sintético 02 demãos em esquadrias de ferro									
+Pintura em esmalte sintético 02 demãos em esquadrias de ferro	m²	 R$ 17,78 	0,205	 R$ 3,64 		 R$ 17,78 			
+Pintor	H	 R$ 10,88 	0,230	 R$ 2,50 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,230	 R$ 1,68 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	7,82					
+		 LS(%):148,42 	Valor LS:	 R$ 6,21 					
+		BDI(%):25,22	Valor BDI:	3,54					
+			Valor Total c/ Taxas:	 R$ 17,58 					
+									
+Quadro de Distruição Deral de Daixa Tensão, de embutir, completo com 04 disjuntores tripolar, com barramento para as fases, neutro e para proteção, disjuntor geral trifásico de 200A e dispositivo de proteção contra surtos, metálco, pintura eletrostática epóxi cor bege c/ porta, trinco e acessórios (QGD - conforme projeto)									
+Quadro de Distruição Deral de Daixa Tensão, de embutir, completo com 04 disjuntores tripolar, com barramento para as fases, neutro e para proteção, disjuntor geral trifásico de 200A e dispositivo de proteção contra surtos, metálco, pintura eletrostática epóxi cor bege c/ porta, trinco e acessórios (QGD - conforme projeto)	U N	 R$ 434,84 	1,000	 R$ 434,84 		 R$ 434,85 			
+Eletricista	H	 R$ 10,88 	0,980	 R$ 10,66 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,980	 R$ 7,17 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	452,68					
+		 LS(%):148,42 	Valor LS:	 R$ 26,47 					
+		BDI(%):25,22	Valor BDI:	120,84					
+			Valor Total c/ Taxas:	 R$ 600,00 					
+									
+Quadro de Distruição de embutir, completo, com 07 circuitos (05 disjuntores monopolares e 02 disjuntores bipolares), com barramento para as fases, neutro e para proteção, disjunutor geral trifásico de 30A e 01 dispositivo diferencial residual, metálico, pintura eletrostática epóxi cor bege c/ porta, trinco e acessórios (QD-1 - conforme projeto)									
+Quadro de Distruição de embutir, completo, com 07 circuitos (05 disjuntores monopolares e 02 disjuntores bipolares), com barramento para as fases, neutro e para proteção, disjunutor geral trifásico de 30A e 01 dispositivo diferencial residual, metálico, pintura eletrostática epóxi cor bege c/ porta, trinco e acessórios (QD-1 - conforme projeto)	U N	 R$ 269,70 	1,000	 R$ 269,70 		 R$ 269,71 			
+Eletricista	H	 R$ 10,88 	1,100	 R$ 11,97 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	1,100	 R$ 8,05 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	289,72					
+		 LS(%):148,42 	Valor LS:	 R$ 29,71 					
+		BDI(%):25,22	Valor BDI:	80,56					
+			Valor Total c/ Taxas:	 R$ 400,00 					
+									
+Quadro de Distruição de embutir, completo, com 10 circuitos (03 disjuntores monopolares e 03 disjuntores bipolares), com barramento para as fases, neutro e para proteção, disjuntor geral trifásico de 50A e 06 dispositivos diferencial residual, metálico, pintura eletrostática epóxi cor bege c/ porta, trinco e acessórios (QD-2 - conforme projeto)									
+Quadro de Distruição de embutir, completo, com 10 circuitos (03 disjuntores monopolares e 03 disjuntores bipolares), com barramento para as fases, neutro e para proteção, disjuntor geral trifásico de 50A e 06 dispositivos diferencial residual, metálico, pintura eletrostática epóxi cor bege c/ porta, trinco e acessórios (QD-2 - conforme projeto)	U N	 R$ 309,63 	1,000	 R$ 309,63 		 R$ 309,64 			
+Eletricista	H	 R$ 10,88 	1,100	 R$ 11,97 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	1,100	 R$ 8,05 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	329,65					
+		 LS(%):148,42 	Valor LS:	 R$ 29,71 					
+		BDI(%):25,22	Valor BDI:	90,63					
+			Valor Total c/ Taxas:	 R$ 450,00 					
+									
+Quadro de Distruição de embutir, completo, com 08 circuitos (02 disjuntores monopolares e 06 disjuntores bipolares), com barramento para as fases, neutro e para proteção, disjuntor geral trifásico de 50A e 04 dispositivos diferencial residual, metálico, pintura eletrostática epóxi cor bege c/ porta, trinco e acessórios (QD-3 - conforme projeto)									
+Quadro de Distruição de embutir, completo, com 08 circuitos (02 disjuntores monopolares e 06 disjuntores bipolares), com barramento para as fases, neutro e para proteção, disjuntor geral trifásico de 50A e 04 dispositivos diferencial residual, metálico, pintura eletrostática epóxi cor bege c/ porta, trinco e acessórios (QD-3 - conforme projeto)	U N	 R$ 309,63 	1,000	 R$ 309,63 		 R$ 309,64 			
+Eletricista	H	 R$ 10,88 	1,100	 R$ 11,97 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	1,100	 R$ 8,05 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	329,65					
+		 LS(%):148,42 	Valor LS:	 R$ 29,71 					
+		BDI(%):25,22	Valor BDI:	90,63					
+			Valor Total c/ Taxas:	 R$ 450,00 					
+									
+Quadro de Distruição de embutir, completo, com 24 circuitos (17 disjuntores monopolares e 07 disjuntores bipolares), com barramento para as fases, neutro e para proteção, disjuntor geral trifásico de 100A e 13 dispositivos diferencial residual, metálico, pintura eletrostática epóxi cor bege c/ porta, trinco e acessórios (QD-4 - conforme projeto)									
+Quadro de Distruição de embutir, completo, com 24 circuitos (17 disjuntores monopolares e 07 disjuntores bipolares), com barramento para as fases, neutro e para proteção, disjuntor geral trifásico de 100A e 13 dispositivos diferencial residual, metálico, pintura eletrostática epóxi cor bege c/ porta, trinco e acessórios (QD-4 - conforme projeto)	U N	 R$ 309,63 	1,000	 R$ 309,63 		 R$ 309,64 			
+Eletricista	H	 R$ 10,88 	1,100	 R$ 11,97 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	1,100	 R$ 8,05 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	329,65					
+		 LS(%):148,42 	Valor LS:	 R$ 29,71 					
+		BDI(%):25,22	Valor BDI:	90,63					
+			Valor Total c/ Taxas:	 R$ 450,00 					
+									
+Quadro de comando de Motor de embutir, completo, p/ 02 motores de 3/4 CV (01 de reserva), para controle automàtcio do nível de água de reservatório superior e inferior, com contatores, bases fusíveis completas com fusível, relé térmico de sobrecarga, relé de falta de fase, chaves e lâmpadas c/ porta, trinco e acessórios (QCD - conforme projeto)									
+Quadro de comando de Motor de embutir, completo, p/ 02 motores de 3/4 CV (01 de reserva), para controle automàtcio do nível de água de reservatório superior e inferior, com contatores, bases fusíveis completas com fusível, relé térmico de sobrecarga, relé de falta de fase, chaves e lâmpadas c/ porta, trinco e acessórios (QCD - conforme projeto)	U N	 R$ 269,70 	1,000	 R$ 269,70 		 R$ 269,71 			
+Eletricista	H	 R$ 10,88 	1,100	 R$ 11,97 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	1,100	 R$ 8,05 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	289,72					
+		 LS(%):148,42 	Valor LS:	 R$ 29,71 					
+		BDI(%):25,22	Valor BDI:	80,56					
+			Valor Total c/ Taxas:	 R$ 400,00 					
+									
+"Eletroduto PVC flexível, ø16mm (DN 3/8""), inclusiva curvas"									
+"Eletroduto PVC flexível, ø16mm (DN 3/8""), inclusiva curvas"	U N 	 R$ 2,78 	1,000	 R$ 2,78 		 R$ 2,78 			
+Eletricista	H	 R$ 10,88 	0,001	 R$ 0,01 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,001	 R$ 0,01 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	2,80					
+		 LS(%):148,42 	Valor LS:	 R$ 0,03 					
+		BDI(%):25,22	Valor BDI:	0,71					
+			Valor Total c/ Taxas:	 R$ 3,54 					
+									
+"Eletroduto PVC flexível corrugado refrçado , ø20mm (DN 1/2""), inclusiva curvas"									
+"Eletroduto PVC flexível corrugado refrçado , ø20mm (DN 1/2""), inclusiva curvas"	U N 	 R$ 3,08 	1,000	 R$ 3,08 		 R$ 3,08 			
+Eletricista	H	 R$ 10,88 	0,008	 R$ 0,09 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,008	 R$ 0,06 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	3,23					
+		 LS(%):148,42 	Valor LS:	 R$ 0,22 					
+		BDI(%):25,22	Valor BDI:	0,87					
+			Valor Total c/ Taxas:	 R$ 4,32 					
+									
+"Eletroduto PVC flexível corrugado refrçado , ø25mm (DN 3/4""), inclusiva curvas"									
+"Eletroduto PVC flexível corrugado refrçado , ø25mm (DN 3/4""), inclusiva curvas"	U N 	 R$ 3,74 	1,000	 R$ 3,74 		 R$ 3,74 			
+Eletricista	H	 R$ 10,88 	0,014	 R$ 0,15 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,014	 R$ 0,10 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	4,00					
+		 LS(%):148,42 	Valor LS:	 R$ 0,38 					
+		BDI(%):25,22	Valor BDI:	1,10					
+			Valor Total c/ Taxas:	 R$ 5,49 					
+									
+"Eletroduto, ø31mm (DN 1""), inclusiva curvas"									
+"Eletroduto, ø31mm (DN 1""), inclusiva curvas"	U N 	 R$ 7,07 	1,000	 R$ 7,07 		 R$ 7,07 			
+Eletricista	H	 R$ 10,88 	0,040	 R$ 0,44 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,040	 R$ 0,29 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	7,80					
+		 LS(%):148,42 	Valor LS:	 R$ 1,08 					
+		BDI(%):25,22	Valor BDI:	2,24					
+			Valor Total c/ Taxas:	 R$ 11,12 					
+									
+"Eletroduto, ø41mm (DN 1.1/4""), inclusiva curvas"									
+"Eletroduto, ø41mm (DN 1.1/4""), inclusiva curvas"	U N 	 R$ 9,19 	1,000	 R$ 9,19 		 R$ 9,19 			
+Eletricista	H	 R$ 10,88 	0,090	 R$ 0,98 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,090	 R$ 0,66 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	10,83					
+		 LS(%):148,42 	Valor LS:	 R$ 2,43 					
+		BDI(%):25,22	Valor BDI:	3,34					
+			Valor Total c/ Taxas:	 R$ 16,61 					
+									
+"Eletroduto, ø47mm (DN 1.1/2""), inclusiva curvas"									
+"Eletroduto, ø47mm (DN 1.1/2""), inclusiva curvas"	U N 	 R$ 10,18 	1,000	 R$ 10,18 		 R$ 10,18 			
+Eletricista	H	 R$ 10,88 	0,092	 R$ 1,00 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,092	 R$ 0,67 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	11,85					
+		 LS(%):148,42 	Valor LS:	 R$ 2,49 					
+		BDI(%):25,22	Valor BDI:	3,62					
+			Valor Total c/ Taxas:	 R$ 17,96 					
+									
+"Eletroduto, ø59mm (DN 2""), inclusiva curvas"									
+"Eletroduto, ø59mm (DN 2""), inclusiva curvas"	U N 	 R$ 11,57 	1,000	 R$ 11,57 		 R$ 11,57 			
+Eletricista	H	 R$ 10,88 	0,095	 R$ 1,03 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,095	 R$ 0,70 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	13,30					
+		 LS(%):148,42 	Valor LS:	 R$ 2,57 					
+		BDI(%):25,22	Valor BDI:	4,00					
+			Valor Total c/ Taxas:	 R$ 19,87 					
+									
+"Eletroduto, ø75mm (DN 2.1/2""), inclusiva curvas"									
+"Eletroduto, ø75mm (DN 2.1/2""), inclusiva curvas"	U N 	 R$ 13,59 	1,000	 R$ 13,59 		 R$ 13,59 			
+Eletricista	H	 R$ 10,88 	0,100	 R$ 1,09 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,100	 R$ 0,73 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	15,41					
+		 LS(%):148,42 	Valor LS:	 R$ 2,70 					
+		BDI(%):25,22	Valor BDI:	4,57					
+			Valor Total c/ Taxas:	 R$ 22,69 					
+									
+Caixa de passagem 40x40 cm em alvenaria com tampa de ferro fundido tipo leve									
+Caixa de passagem 40x40 cm em alvenaria com tampa de ferro fundido tipo leve	U N 	 R$ 61,47 	1,000	 R$ 61,47 		 R$ 61,47 			
+Eletricista	H	 R$ 10,88 	0,990	 R$ 10,77 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,990	 R$ 7,25 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	79,49					
+		 LS(%):148,42 	Valor LS:	 R$ 26,74 					
+		BDI(%):25,22	Valor BDI:	26,79					
+			Valor Total c/ Taxas:	 R$ 133,03 					
+									
+# 1,5 mm²									
+# 1,5 mm²	U N 	 R$ 1,48 	1,000	 R$ 1,48 		 R$ 1,48 			
+Eletricista	H	 R$ 10,88 	0,001	 R$ 0,01 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,001	 R$ 0,01 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	1,50					
+		 LS(%):148,42 	Valor LS:	 R$ 0,03 					
+		BDI(%):25,22	Valor BDI:	0,39					
+			Valor Total c/ Taxas:	 R$ 1,92 					
+									
+# 2,5 mm²									
+# 2,5 mm²	U N 	 R$ 1,79 	1,000	 R$ 1,79 		 R$ 1,79 			
+Eletricista	H	 R$ 10,88 	0,005	 R$ 0,05 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,005	 R$ 0,04 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	1,88					
+		 LS(%):148,42 	Valor LS:	 R$ 0,14 					
+		BDI(%):25,22	Valor BDI:	0,51					
+			Valor Total c/ Taxas:	 R$ 2,53 					
+									
+# 4 mm²									
+# 4 mm²	U N 	 R$ 2,60 	1,000	 R$ 2,60 		 R$ 2,60 			
+Eletricista	H	 R$ 10,88 	0,008	 R$ 0,09 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,008	 R$ 0,06 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	2,75					
+		 LS(%):148,42 	Valor LS:	 R$ 0,22 					
+		BDI(%):25,22	Valor BDI:	0,75					
+			Valor Total c/ Taxas:	 R$ 3,72 					
+									
+# 6 mm²									
+# 6 mm²	U N 	 R$ 2,85 	1,000	 R$ 2,85 		 R$ 2,85 			
+Eletricista	H	 R$ 10,88 	0,026	 R$ 0,28 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,026	 R$ 0,19 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	3,32					
+		 LS(%):148,42 	Valor LS:	 R$ 0,70 					
+		BDI(%):25,22	Valor BDI:	1,02					
+			Valor Total c/ Taxas:	 R$ 5,05 					
+									
+# 10 mm²									
+# 10 mm²	U N 	 R$ 4,64 	1,000	 R$ 4,64 		 R$ 4,64 			
+Eletricista	H	 R$ 10,88 	0,035	 R$ 0,38 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,035	 R$ 0,26 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	5,28					
+		 LS(%):148,42 	Valor LS:	 R$ 0,95 					
+		BDI(%):25,22	Valor BDI:	1,57					
+			Valor Total c/ Taxas:	 R$ 7,80 					
+									
+# 16 mm²									
+# 16 mm²	U N 	 R$ 5,03 	1,000	 R$ 5,03 		 R$ 5,03 			
+Eletricista	H	 R$ 10,88 	0,047	 R$ 0,51 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,047	 R$ 0,34 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	5,89					
+		 LS(%):148,42 	Valor LS:	 R$ 1,27 					
+		BDI(%):25,22	Valor BDI:	1,80					
+			Valor Total c/ Taxas:	 R$ 8,96 					
+									
+# 25 mm²									
+# 25 mm²	U N 	 R$ 6,90 	1,000	 R$ 6,90 		 R$ 6,90 			
+Eletricista	H	 R$ 10,88 	0,077	 R$ 0,84 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,077	 R$ 0,56 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	8,30					
+		 LS(%):148,42 	Valor LS:	 R$ 2,08 					
+		BDI(%):25,22	Valor BDI:	2,62					
+			Valor Total c/ Taxas:	 R$ 13,01 					
+									
+# 35 mm²									
+# 35 mm²	U N 	 R$ 11,23 	1,000	 R$ 11,23 		 R$ 11,23 			
+Eletricista	H	 R$ 10,88 	0,097	 R$ 1,06 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,097	 R$ 0,71 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	13,00					
+		 LS(%):148,42 	Valor LS:	 R$ 2,62 					
+		BDI(%):25,22	Valor BDI:	3,94					
+			Valor Total c/ Taxas:	 R$ 19,56 					
+									
+# 70 mm²									
+# 70 mm²	U N 	 R$ 22,51 	1,000	 R$ 22,51 		 R$ 22,51 			
+Eletricista	H	 R$ 10,88 	0,100	 R$ 1,09 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,100	 R$ 0,73 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	24,33					
+		 LS(%):148,42 	Valor LS:	 R$ 2,70 					
+		BDI(%):25,22	Valor BDI:	6,82					
+			Valor Total c/ Taxas:	 R$ 33,85 					
+									
+# 120 mm²									
+# 120 mm²	U N 	 R$ 28,23 	1,000	 R$ 28,23 		 R$ 28,23 			
+Eletricista	H	 R$ 10,88 	0,350	 R$ 3,81 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,350	 R$ 2,56 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	34,60					
+		 LS(%):148,42 	Valor LS:	 R$ 9,45 					
+		BDI(%):25,22	Valor BDI:	11,11					
+			Valor Total c/ Taxas:	 R$ 55,17 					
+									
+Tomada universal circular, 2P+T, 15A/250V, cor preta, completa									
+Tomada universal circular, 2P+T, 15A/250V, cor preta, completa	U N 	 R$ 3,44 	1,000	 R$ 3,44 		 R$ 3,44 			
+Eletricista	H	 R$ 10,88 	0,094	 R$ 1,02 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,094	 R$ 0,69 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	5,15					
+		 LS(%):148,42 	Valor LS:	 R$ 2,54 					
+		BDI(%):25,22	Valor BDI:	1,94					
+			Valor Total c/ Taxas:	 R$ 9,64 					
+									
+Tomada universal circular, 3P, 20A/250V, cor preta, completa									
+Tomada universal circular, 3P, 20A/250V, cor preta, completa	U N 	 R$ 8,14 	1,000	 R$ 8,14 		 R$ 8,14 			
+Eletricista	H	 R$ 10,88 	0,100	 R$ 1,09 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,100	 R$ 0,73 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	9,96					
+		 LS(%):148,42 	Valor LS:	 R$ 2,70 					
+		BDI(%):25,22	Valor BDI:	3,19					
+			Valor Total c/ Taxas:	 R$ 15,86 					
+									
+interruptor simples 10A, completo									
+interruptor simples 10A, completo	U N 	 R$ 6,34 	1,000	 R$ 6,34 		 R$ 6,34 			
+Eletricista	H	 R$ 10,88 	0,003	 R$ 0,03 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,003	 R$ 0,02 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	6,39					
+		 LS(%):148,42 	Valor LS:	 R$ 0,08 					
+		BDI(%):25,22	Valor BDI:	1,63					
+			Valor Total c/ Taxas:	 R$ 8,11 					
+									
+interruptor duas seções 10A por seção, completo									
+interruptor duas seções 10A por seção, completo	U N 	 R$ 11,40 	1,000	 R$ 11,40 		 R$ 11,41 			
+Eletricista	H	 R$ 10,88 	0,015	 R$ 0,16 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,015	 R$ 0,11 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	11,68					
+		 LS(%):148,42 	Valor LS:	 R$ 0,41 					
+		BDI(%):25,22	Valor BDI:	3,05					
+			Valor Total c/ Taxas:	 R$ 15,14 					
+									
+Interruptor com dimmer, completo									
+Interruptor com dimmer, completo	U N 	 R$ 11,40 	1,000	 R$ 11,40 		 R$ 11,41 			
+Eletricista	H	 R$ 10,88 	0,015	 R$ 0,16 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,015	 R$ 0,11 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	11,68					
+		 LS(%):148,42 	Valor LS:	 R$ 0,41 					
+		BDI(%):25,22	Valor BDI:	3,05					
+			Valor Total c/ Taxas:	 R$ 15,14 					
+									
+Luminária 2x40w, ccompleta									
+Luminária 2x40w, ccompleta	U N 	 R$ 70,70 	1,000	 R$ 70,70 		 R$ 70,70 			
+Eletricista	H	 R$ 10,88 	0,080	 R$ 0,87 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,080	 R$ 0,59 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	72,16					
+		 LS(%):148,42 	Valor LS:	 R$ 2,16 					
+		BDI(%):25,22	Valor BDI:	18,74					
+			Valor Total c/ Taxas:	 R$ 93,07 					
+									
+Luminária 2x20w, ccompleta									
+Luminária 2x20w, ccompleta	U N 	 R$ 65,03 	1,000	 R$ 65,03 		 R$ 65,03 			
+Eletricista	H	 R$ 10,88 	0,080	 R$ 0,87 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,080	 R$ 0,59 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	66,49					
+		 LS(%):148,42 	Valor LS:	 R$ 2,16 					
+		BDI(%):25,22	Valor BDI:	17,31					
+			Valor Total c/ Taxas:	 R$ 85,97 					
+									
+Luminárias incandescentes 100W									
+Luminárias incandescentes 100W	U N 	 R$ 32,49 	1,000	 R$ 32,49 		 R$ 32,49 			
+Eletricista	H	 R$ 10,88 	0,080	 R$ 0,87 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,080	 R$ 0,59 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	33,95					
+		 LS(%):148,42 	Valor LS:	 R$ 2,16 					
+		BDI(%):25,22	Valor BDI:	9,11					
+			Valor Total c/ Taxas:	 R$ 45,22 					
+									
+Arandela 100W									
+Arandela 100W	U N 	 R$ 27,95 	1,000	 R$ 27,95 		 R$ 27,95 			
+Eletricista	H	 R$ 10,88 	0,056	 R$ 0,61 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,056	 R$ 0,41 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	28,97					
+		 LS(%):148,42 	Valor LS:	 R$ 1,51 					
+		BDI(%):25,22	Valor BDI:	7,69					
+			Valor Total c/ Taxas:	 R$ 38,17 					
+									
+"Caixa de passagem 4x4"" para tomada/interruptor"									
+"Caixa de passagem 4x4"" para tomada/interruptor"	U N 	 R$ 3,04 	1,000	 R$ 3,04 		 R$ 3,04 			
+Eletricista	H	 R$ 10,88 	0,056	 R$ 0,61 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,056	 R$ 0,41 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	4,06					
+		 LS(%):148,42 	Valor LS:	 R$ 1,51 					
+		BDI(%):25,22	Valor BDI:	1,41					
+			Valor Total c/ Taxas:	 R$ 6,98 					
+									
+"Caixa de passagem 4x2"" para tomada e interruptor"									
+"Caixa de passagem 4x2"" para tomada e interruptor"	U N 	 R$ 2,53 	1,000	 R$ 2,53 		 R$ 2,53 			
+Eletricista	H	 R$ 10,88 	0,046	 R$ 0,50 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,046	 R$ 0,34 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	3,37					
+		 LS(%):148,42 	Valor LS:	 R$ 1,24 					
+		BDI(%):25,22	Valor BDI:	1,16					
+			Valor Total c/ Taxas:	 R$ 5,78 					
+									
+"Caixa de passagem de ferro esmaltada octogonal 4x4"""									
+"Caixa de passagem de ferro esmaltada octogonal 4x4"""	U N 	 R$ 2,51 	1,000	 R$ 2,51 		 R$ 2,51 			
+Eletricista	H	 R$ 10,88 	0,049	 R$ 0,53 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,049	 R$ 0,36 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	3,40					
+		 LS(%):148,42 	Valor LS:	 R$ 1,32 					
+		BDI(%):25,22	Valor BDI:	1,19					
+			Valor Total c/ Taxas:	 R$ 5,92 					
+									
+"Patch panel 19"" - 24 portas, categoria 6"									
+"Patch panel 19"" - 24 portas, categoria 6"	U N 	 R$ 280,11 	1,000	 R$ 280,11 		 R$ 280,11 			
+Eletricista	H	 R$ 10,88 	1,500	 R$ 16,32 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	1,500	 R$ 10,98 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	307,41					
+		 LS(%):148,42 	Valor LS:	 R$ 40,52 					
+		BDI(%):25,22	Valor BDI:	87,75					
+			Valor Total c/ Taxas:	 R$ 435,68 					
+									
+switch de 24 portas									
+switch de 24 portas	U N 	 R$ 360,05 	1,000	 R$ 360,05 		 R$ 360,05 			
+Eletricista	H	 R$ 10,88 	1,600	 R$ 17,41 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	1,600	 R$ 11,71 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	389,17					
+		 LS(%):148,42 	Valor LS:	 R$ 43,22 					
+		BDI(%):25,22	Valor BDI:	109,05					
+			Valor Total c/ Taxas:	 R$ 541,44 					
+									
+"Bloco 110 para rack 19"" 100 pares"									
+"Bloco 110 para rack 19"" 100 pares"	U N 	 R$ 319,00 	1,000	 R$ 319,00 		 R$ 319,00 			
+Eletricista	H	 R$ 10,88 	1,340	 R$ 14,58 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	1,340	 R$ 9,81 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	343,39					
+		 LS(%):148,42 	Valor LS:	 R$ 36,20 					
+		BDI(%):25,22	Valor BDI:	95,73					
+			Valor Total c/ Taxas:	 R$ 475,32 					
+									
+Guia de cabos frontal, fechado									
+Guia de cabos frontal, fechado	U N 	 R$ 4,54 	1,000	 R$ 4,54 		 R$ 4,54 			
+Eletricista	H	 R$ 10,88 	0,001	 R$ 0,01 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,001	 R$ 0,01 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	4,56					
+		 LS(%):148,42 	Valor LS:	 R$ 0,03 					
+		BDI(%):25,22	Valor BDI:	1,16					
+			Valor Total c/ Taxas:	 R$ 5,75 					
+									
+Guia de cabos trazeiros									
+Guia de cabos trazeiros	U N 	 R$ 4,54 	1,000	 R$ 4,54 		 R$ 4,54 			
+Eletricista	H	 R$ 10,88 	0,001	 R$ 0,01 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,001	 R$ 0,01 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	4,56					
+		 LS(%):148,42 	Valor LS:	 R$ 0,03 					
+		BDI(%):25,22	Valor BDI:	1,16					
+			Valor Total c/ Taxas:	 R$ 5,75 					
+									
+Trava path panel									
+Trava path panel	U N 	 R$ 6,77 	1,000	 R$ 6,77 		 R$ 6,77 			
+Eletricista	H	 R$ 10,88 	0,003	 R$ 0,03 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,003	 R$ 0,02 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	6,82					
+		 LS(%):148,42 	Valor LS:	 R$ 0,08 					
+		BDI(%):25,22	Valor BDI:	1,74					
+			Valor Total c/ Taxas:	 R$ 8,65 					
+									
+Guia de cabos vertical, fechado									
+Guia de cabos vertical, fechado	U N 	 R$ 6,77 	1,000	 R$ 6,77 		 R$ 6,77 			
+Eletricista	H	 R$ 10,88 	0,003	 R$ 0,03 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,003	 R$ 0,02 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	6,82					
+		 LS(%):148,42 	Valor LS:	 R$ 0,08 					
+		BDI(%):25,22	Valor BDI:	1,74					
+			Valor Total c/ Taxas:	 R$ 8,65 					
+									
+Guia de cabos superior, fechado									
+Guia de cabos superior, fechado	U N 	 R$ 6,77 	1,000	 R$ 6,77 		 R$ 6,77 			
+Eletricista	H	 R$ 10,88 	0,003	 R$ 0,03 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,003	 R$ 0,02 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	6,82					
+		 LS(%):148,42 	Valor LS:	 R$ 0,08 					
+		BDI(%):25,22	Valor BDI:	1,74					
+			Valor Total c/ Taxas:	 R$ 8,65 					
+									
+Cabo par trançado não blindado (UTP) - 4 pares 24 AWG, 100 Ohms - categoria 6									
+Cabo par trançado não blindado (UTP) - 4 pares 24 AWG, 100 Ohms - categoria 6	U N 	 R$ 3,10 	1,000	 R$ 3,10 		 R$ 3,10 			
+Eletricista	H	 R$ 10,88 	0,001	 R$ 0,01 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,001	 R$ 0,01 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	3,12					
+		 LS(%):148,42 	Valor LS:	 R$ 0,03 					
+		BDI(%):25,22	Valor BDI:	0,79					
+			Valor Total c/ Taxas:	 R$ 3,95 					
+									
+Cabo telefônico inetrno CI-50, 20 - pares									
+Cabo telefônico inetrno CI-50, 20 - pares	U N 	 R$ 5,04 	1,000	 R$ 5,04 		 R$ 5,04 			
+Eletricista	H	 R$ 10,88 	0,001	 R$ 0,01 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,001	 R$ 0,01 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	5,06					
+		 LS(%):148,42 	Valor LS:	 R$ 0,03 					
+		BDI(%):25,22	Valor BDI:	1,28					
+			Valor Total c/ Taxas:	 R$ 6,38 					
+									
+Cabo coaxial									
+Cabo coaxial	U N 	 R$ 1,95 	1,000	 R$ 1,95 		 R$ 1,95 			
+Eletricista	H	 R$ 10,88 	0,001	 R$ 0,01 		 R$ 10,88 			
+Servente	H	 R$ 7,32 	0,001	 R$ 0,01 		 R$ 7,32 			
+			Total s/ Taxas(Unit.):	1,97					
+		 LS(%):148,42 	Valor LS:	 R$ 0,03 					
+		BDI(%):25,22	Valor BDI:	0,50					
+			Valor Total c/ Taxas:	 R$ 2,51 

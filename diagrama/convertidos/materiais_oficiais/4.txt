@@ -1,0 +1,328 @@
+﻿  H C GOMES CONSTRUTORA COMÉCIO E SERVIÇOS EIRELI - EPP                                                                                       CNPJ: 18.235.336/0001-07, Incs. Municipal: 30.476, Trav. João Augusto, nº 847 -                                                      Bairro: São Pedro - CEP: 68.400-000 - Cametá - Pará										
+										
+										
+							Motorista	7,55		
+							Oficial	5,44		
+COMPOSIÇÃO UNITÁRIA DE PREÇOS DEMONSTRANDO A QUANTIDADE DE MATERIAL, MÃO DE OBRA, ENCARGOS E BDI EMITIDOS OS ITENS DA PLANÍLHA							Meio-oficial	4,83		
+					%	16	Servente	4,59		
+CONCORRÊNCIA PÚBLICA N° 003/2015-SEMED-PMC						0,67998				
+COMPOSIÇÃO DE PREÇOS UNITÁRIOS						1,00				
+SERVIÇO / DESCRIÇÃO	Unidade	Preço Unit.(R$)	Qtd/Coef.	Preço Total(R$)		COEF.				
+						0,84				
+										
+Placa de obra em lona com plotagem gráfica	m³									
+Lona com plotagem gráfica	m³	 R$ 26,88 	0,500	 R$ 13,44 		 R$ 32,00 				
+"Pernamanca 3"" x 2"" x 4,00m - madeira branca"	Dz	 R$ 87,36 	0,366	 R$ 31,96 		 R$ 104,00 				
+"Ripão de madeira branca 6"" x 1"" x 4,00m"	Dz	 R$ 85,68 	0,200	 R$ 17,14 		 R$ 102,00 				
+"Prego 2 1/2"" x 10'"	Kg	 R$ 8,40 	0,800	 R$ 6,72 		 R$ 10,00 				
+Carpinteiro	H	 R$ 9,14 	0,700	 R$ 6,40 		 R$ 10,88 				
+Pintor	H	 R$ 9,14 	0,700	 R$ 6,40 		 R$ 10,88 				
+Servente 	H	 R$ 6,15 	0,600	 R$ 3,69 		 R$ 7,32 				
+			Total s/ Taxas(Unit.):	85,74						
+		LS(%):148,42	Valor LS:	24,47						
+		BDI(%):25,22	Valor BDI:	27,79						
+			Valor Total c/ Taxas:	 R$ 137,99 						
+										
+Concreto armado fck = 20MPa c/ forma em madeira branca	m³									
+Areia branca	m³	 R$ 33,60 	5,000	 R$ 168,00 		 R$ 40,00 				
+Seixo Lavado	m³	 R$ 58,80 	3,300	 R$ 194,04 		 R$ 70,00 				
+Cimento 50Kg	SC	 R$ 27,72 	4,200	 R$ 116,42 		 R$ 33,00 				
+Ferro CA 50 e CA 60	Kg	 R$ 75,60 	4,000	 R$ 302,39 		 R$ 90,00 				
+Forma com madeira branca	m²	 R$ 23,52 	4,900	 R$ 115,25 		 R$ 28,00 				
+Armador	H	 R$ 9,14 	6,680	 R$ 61,05 		 R$ 10,88 				
+Pedreiro	H	 R$ 9,14 	6,680	 R$ 61,05 		 R$ 10,88 				
+Servente	H	 R$ 6,15 	6,699	 R$ 41,19 		 R$ 7,32 				
+			Total s/ Taxas(Unit.):	1059,38						
+		LS(%):148,42	Valor LS:	242,36						
+		BDI(%):25,22	Valor BDI:	328,30						
+			Valor Total c/ Taxas:	 R$ 1.630,03 						
+										
+Bloco em concreto armado para fundações (INCL. FORMA)	m³									
+Areia branca	m³	 R$ 33,60 	3,700	 R$ 124,32 		 R$ 40,00 				
+Seixo Lavado	m³	 R$ 58,80 	3,600	 R$ 211,67 		 R$ 70,00 				
+Cimento 50Kg	SC	 R$ 27,72 	3,700	 R$ 102,56 		 R$ 33,00 				
+Ferro CA 50 e CA 60	Kg	 R$ 75,60 	4,200	 R$ 317,51 		 R$ 90,00 				
+Forma com madeira branca	m²	 R$ 23,52 	4,000	 R$ 94,08 		 R$ 28,00 				
+Armador	H	 R$ 9,14 	6,500	 R$ 59,40 		 R$ 10,88 				
+Pedreiro	H	 R$ 9,14 	6,500	 R$ 59,40 		 R$ 10,88 				
+Servente	H	 R$ 6,15 	7,101	 R$ 43,66 		 R$ 7,32 				
+			Total s/ Taxas(Unit.):	1012,61						
+		LS(%):148,42	Valor LS:	241,14						
+		BDI(%):25,22	Valor BDI:	316,20						
+			Valor Total c/ Taxas:	 R$ 1.569,95 						
+										
+Calçada (incl. alecerce, baldrame e concreto c/ junta seca)	m³									
+Seixo Lavado	m³	 R$ 58,80 	0,280	 R$ 16,45 		 R$ 70,00 				
+Areia lavada tipo média	m³	 R$ 33,60 	0,310	 R$ 10,41 		 R$ 40,00 				
+Cimento Portland CP II-E-32 (resist. 32 MPa)	kg	 R$ 27,72 	0,310	 R$ 8,59 		 R$ 33,00 				
+Pedreiro	H	 R$ 9,14 	0,460	 R$ 4,20 		 R$ 10,88 				
+Servente	H	 R$ 6,15 	0,460	 R$ 2,83 		 R$ 7,32 				
+			Total s/ Taxas(Unit.):	42,49						
+		 LS(%):148,42 	Valor LS:	 R$ 10,44 						
+		BDI(%):25,22	Valor BDI:	15,88						
+			Valor Total c/ Taxas:	 R$ 68,80 						
+										
+Baldrame em concreto simples c/ seixo incl. forma mad. Branca	m²									
+Areia branca	m³	 R$ 33,60 	1,000	 R$ 33,60 		 R$ 40,00 				
+Seixo Lavado	m³	 R$ 58,80 	0,900	 R$ 52,92 		 R$ 70,00 				
+Cimento 50Kg	SC	 R$ 27,72 	2,000	 R$ 55,44 		 R$ 33,00 				
+Ferro CA 50 e CA 60	Kg	 R$ 75,60 	3,000	 R$ 226,79 		 R$ 90,00 				
+Forma com madeira branca	m²	 R$ 23,52 	2,000	 R$ 47,04 		 R$ 28,00 				
+Armador	H	 R$ 9,14 	4,500	 R$ 41,13 		 R$ 10,88 				
+Pedreiro	H	 R$ 9,14 	4,500	 R$ 41,13 		 R$ 10,88 				
+Servente	H	 R$ 6,15 	3,824	 R$ 23,51 		 R$ 7,32 				
+			Total s/ Taxas(Unit.):	521,55						
+		LS(%):148,42	Valor LS:	156,97						
+		BDI(%):25,22	Valor BDI:	171,12						
+			Valor Total c/ Taxas:	 R$ 849,65 						
+										
+Alvenaria em tijolo de barrao a singelo	m²									
+Tijolo cerâmico 6 furos 9 x 19 x19 cm	und	 R$ 1,66 	0,300	 R$ 0,50 		 R$ 1,98 				
+Areia lavada tipo média	m³	 R$ 33,60 	0,060	 R$ 2,02 		 R$ 40,00 				
+Cimento Portland CP II-E-32 	Kg	 R$ 27,72 	0,050	 R$ 1,39 		 R$ 33,00 				
+Cal hidratada CH lll	Kg	 R$ 1,68 	0,900	 R$ 1,51 		 R$ 2,00 				
+Pedreiro	H	 R$ 9,14 	0,547	 R$ 4,99 		 R$ 10,88 				
+Servente	H	 R$ 6,15 	0,550	 R$ 3,38 		 R$ 7,32 				
+			Total s/ Taxas(Unit.):	13,79						
+		 LS(%):148,42 	Valor LS:	 R$ 12,43 						
+		BDI(%):25,22	Valor BDI:	6,61						
+			Valor Total c/ Taxas:	 R$ 32,84 						
+										
+Chapisco de areia e cimento no traço 1:3	m²									
+Areia lavada tipo média	m³	 R$ 33,60 	0,020	 R$ 0,67 		 R$ 40,00 				
+Cimento Portland CP II-E-32 	Kg	 R$ 27,72 	0,030	 R$ 0,83 		 R$ 33,00 				
+Cal hidratada CH lll	Kg	 R$ 1,68 	0,080	 R$ 0,13 		 R$ 2,00 				
+Rolo para textura acrílica	und	 R$ 5,88 	0,080	 R$ 0,47 		 R$ 7,00 				
+Pedreiro	H	 R$ 9,14 	0,061	 R$ 0,56 		 R$ 10,88 				
+Servente	H	 R$ 6,15 	0,061	 R$ 0,37 		 R$ 7,32 				
+			Total s/ Taxas(Unit.):	3,04						
+		 LS(%):148,42 	Valor LS:	 R$ 1,38 						
+		BDI(%):25,22	Valor BDI:	1,11						
+			Valor Total c/ Taxas:	 R$ 5,54 						
+										
+Retirada de reboco ou emboço	m²									
+Pedreiro	H	 R$ 9,14 	0,057	 R$ 0,52 		 R$ 10,88 				
+Servente	H	 R$ 6,15 	0,056	 R$ 0,34 		 R$ 7,32 				
+			Total s/ Taxas(Unit.):	0,86						
+		 LS(%):148,42 	Valor LS:	 R$ 1,28 						
+		BDI(%):25,22	Valor BDI:	0,54						
+			Valor Total c/ Taxas:	 R$ 2,69 						
+										
+Rebco com argamassa 1:6 adit. plast.	m²									
+Areia lavada tipo média	m³	 R$ 33,60 	0,150	 R$ 5,04 		 R$ 40,00 				
+Cimento Portland CP II-E-32 	Kg	 R$ 27,72 	0,150	 R$ 4,16 		 R$ 33,00 				
+Cal hidratada CH lll	Kg	 R$ 1,68 	0,600	 R$ 1,01 		 R$ 2,00 				
+Aditivo plastificante para argamassa	l	 R$ 7,69 	0,200	 R$ 1,54 		 R$ 9,15 				
+Pedreiro	H	 R$ 9,14 	0,170	 R$ 1,55 		 R$ 10,88 				
+Servente	H	 R$ 6,15 	0,180	 R$ 1,11 		 R$ 7,32 				
+			Total s/ Taxas(Unit.):	14,40						
+		 LS(%):148,42 	Valor LS:	 R$ 3,95 						
+		BDI(%):25,22	Valor BDI:	4,63						
+			Valor Total c/ Taxas:	 R$ 22,97 						
+										
+Aterro interno (edificações) compactado manualmente	m³									
+Material para aterro	m³	 R$ 13,92 	1,495	 R$ 20,81 		 R$ 16,57 				
+Servente	H	 R$ 6,15 	0,700	 R$ 4,30 		 R$ 7,32 				
+			Total s/ Taxas(Unit.):	25,11						
+		 LS(%):148,42 	Valor LS:	 R$ 6,39 						
+		BDI(%):25,22	Valor BDI:	9,45						
+			Valor Total c/ Taxas:	 R$ 40,95 						
+										
+Estrutura em madeira de lei para telha de barro - peça serrada	m²									
+Madeira de lei para cobertura	m²	 R$ 62,16 	0,150	 R$ 9,32 		 R$ 74,00 				
+Prego 18 x 27 com cabeça 	Kg	 R$ 6,72 	0,600	 R$ 4,03 		 R$ 8,00 				
+Ferragens para telhados tipo chapa de emenda de ferro	Cj	 R$ 11,76 	0,440	 R$ 5,17 		 R$ 14,00 				
+Carpinteiro	H	 R$ 9,14 	0,568	 R$ 5,19 		 R$ 10,88 				
+Servente	H	 R$ 6,15 	0,560	 R$ 3,44 		 R$ 7,32 				
+			Total s/ Taxas(Unit.):	27,17						
+		 LS(%):148,42 	Valor LS:	 R$ 12,82 						
+		BDI(%):30,00	Valor BDI:	12,00						
+			Valor Total c/ Taxas:	 R$ 51,98 						
+										
+Tesoura completa em mad. de lei serrada, para telhados com vãos de 10m	und									
+Madeira de lei para construção de tesoura	m²	 R$ 204,37 	5,800	 R$ 1.185,33 		 R$ 243,30 				
+Prego 18 x 27 com cabeça 	Kg	 R$ 6,72 	9,000	 R$ 60,48 		 R$ 8,00 				
+Ferragens para telhados tipo chapa de emenda de ferro	Cj	 R$ 11,76 	7,000	 R$ 82,32 		 R$ 14,00 				
+Carpinteiro	H	 R$ 9,14 	6,601	 R$ 60,33 		 R$ 10,88 				
+Servente	H	 R$ 6,15 	6,600	 R$ 40,58 		 R$ 7,32 				
+			Total s/ Taxas(Unit.):	1429,03						
+		 LS(%):148,42 	Valor LS:	 R$ 149,77 						
+		BDI(%):30,00	Valor BDI:	473,64						
+			Valor Total c/ Taxas:	 R$ 2.052,45 						
+										
+Cobertura em telha cerâmica tipo plan, excluindo madeiramento	m²									
+Telha cerâmica tipo plan	und	 R$ 1,01 	4,300	 R$ 4,33 		 R$ 1,20 				
+Telhadista	H	 R$ 9,14 	0,780	 R$ 7,13 		 R$ 10,88 				
+Servente	H	 R$ 6,15 	0,776	 R$ 4,77 		 R$ 7,32 				
+			Total s/ Taxas(Unit.):	16,24						
+		 LS(%):148,42 	Valor LS:	 R$ 17,67 						
+		BDI(%):25,22	Valor BDI:	8,55						
+			Valor Total c/ Taxas:	 R$ 42,45 						
+										
+Calha em chapa galvanizada	m									
+Calha em chapa galvanizada	m²	 R$ 57,12 	0,170	 R$ 9,71 		 R$ 68,00 				
+Prego 15 x 15 com cabeça 	Kg	 R$ 6,72 	0,290	 R$ 1,95 		 R$ 8,00 				
+Rebite de ferro zincado nº 8	Kg	 R$ 50,88 	0,030	 R$ 1,53 		 R$ 60,57 				
+Estanho pra solda 30 x 70	Kg	 R$ 17,89 	0,030	 R$ 0,54 		 R$ 21,30 				
+Telhadista	H	 R$ 9,14 	0,654	 R$ 5,98 		 R$ 10,88 				
+Ajudante	H	 R$ 6,15 	0,650	 R$ 4,00 		 R$ 7,32 				
+			Total s/ Taxas(Unit.):	23,70						
+		 LS(%):148,42 	Valor LS:	 R$ 14,81 						
+		BDI(%):25,22	Valor BDI:	11,55						
+			Valor Total c/ Taxas:	 R$ 50,06 						
+										
+Manta asfáltica SBS - 3mm com filme de polietileno	m²									
+Manta asfáltica com armadura de filme de polietileno (e = 3mm)	m²	 R$ 18,90 	0,170	 R$ 3,21 		 R$ 22,50 				
+Papel Kraft betumado duplo para proteção mecânica de superfiícies	m²	 R$ 14,45 	0,150	 R$ 2,17 		 R$ 17,20 				
+Cimento Portland CP II-E-32 	Kg	 R$ 27,72 	0,100	 R$ 2,77 		 R$ 33,00 				
+Areia lavada tipo média	m³	 R$ 33,60 	0,120	 R$ 4,03 		 R$ 40,00 				
+Aplicador de impermeabilização	H	 R$ 9,14 	0,030	 R$ 0,27 		 R$ 10,88 				
+Ajudante 	H	 R$ 6,15 	0,030	 R$ 0,18 		 R$ 7,32 				
+Pedreiro	H	 R$ 9,14 	0,640	 R$ 5,85 		 R$ 10,88 				
+Servente	H	 R$ 6,15 	0,647	 R$ 3,98 		 R$ 7,32 				
+			Total s/ Taxas(Unit.):	22,47						
+		 LS(%):148,42 	Valor LS:	 R$ 15,27 						
+		BDI(%):25,22	Valor BDI:	9,52						
+			Valor Total c/ Taxas:	 R$ 47,26 						
+										
+Piso de alta resistência e = 8mm com resina incl. camada regularizadora	m²									
+Areia lavada tipo média	m³	 R$ 33,60 	0,320	 R$ 10,75 		 R$ 40,00 				
+Cimento Portland CP II-E-32	SC	 R$ 27,72 	0,260	 R$ 7,21 		 R$ 33,00 				
+Seixo Lavado médio	m³	 R$ 58,80 	0,230	 R$ 13,52 		 R$ 70,00 				
+Misturador mecânico, potência 3 HP (2,2 kW), capacidade 3,5 m3/h-vida útil 10.000 h	h/prod	 R$ 21,50 	0,279	 R$ 6,01 		 R$ 25,60 				
+Pedreiro	H	 R$ 9,14 	0,530	 R$ 4,84 		 R$ 10,88 				
+Servente	H	 R$ 6,15 	0,530	 R$ 3,26 		 R$ 7,32 				
+			Total s/ Taxas(Unit.):	45,59						
+		 LS(%):148,42 	Valor LS:	 R$ 12,03 						
+		BDI(%):30,00	Valor BDI:	14,53						
+			Valor Total c/ Taxas:	 R$ 72,15 						
+										
+Barra em aço inox - PNE	m									
+Barra em aço inox - PNE	m	 R$ 207,73 	0,726	 R$ 150,75 		 R$ 247,30 				
+Pedreiro	H	 R$ 9,14 	0,640	 R$ 5,85 		 R$ 10,88 				
+Servente	H	 R$ 6,15 	0,640	 R$ 3,94 		 R$ 7,32 				
+			Total s/ Taxas(Unit.):	160,53						
+		 LS(%):148,42 	Valor LS:	 R$ 14,52 						
+		BDI(%):25,22	Valor BDI:	44,15						
+			Valor Total c/ Taxas:	 R$ 219,21 						
+										
+Mini cerca em ripa de madeira para proteção da área de lazer	m²									
+Ripa em madeira de lei 1,0 x 5,0 cm	Dz	 R$ 35,45 	0,044	1,56		 R$ 42,20 				
+"Ripão em madeira de lei 2"" x 1"""	Dz	 R$ 48,72 	0,060	2,92		 R$ 58,00 				
+Estaca em madeira de lei	und	 R$ 18,14 	0,040	0,73		 R$ 21,60 				
+"Prego com cabeça 1.1/2"" x 15"	Kg	 R$ 7,10 	0,060	0,43		 R$ 8,45 				
+"Prego com cabeça 2"" x 15"	Kg	 R$ 6,38 	0,070	0,45		 R$ 7,60 				
+Carpinteiro	H	 R$ 9,14 	0,140	 R$ 1,28 		 R$ 10,88 				
+Servente	H	 R$ 6,15 	0,140	 R$ 0,86 		 R$ 7,32 				
+			Total s/ Taxas(Unit.):	8,23						
+		 LS(%):148,42 	Valor LS:	 R$ 3,18 						
+		BDI(%):25,22	Valor BDI:	2,88						
+			Valor Total c/ Taxas:	 R$ 14,28 						
+										
+Passarela coberta com telhas de barra tipo plan - pilar sanduiche	m									
+Madeira de lei para cobertura de passarela	m²	 R$ 107,06 	2,840	 R$ 304,04 		 R$ 127,45 				
+Prego 18 x 27 com cabeça 	Kg	 R$ 6,72 	3,200	 R$ 21,50 		 R$ 8,00 				
+Ferragens para telhados tipo chapa de emenda de ferro	Cj	 R$ 11,76 	3,800	 R$ 44,69 		 R$ 14,00 				
+Telha cerâmica tipo plan	und	 R$ 1,01 	6,400	 R$ 6,45 		 R$ 1,20 				
+Telhadista	H	 R$ 9,14 	5,550	 R$ 50,72 		 R$ 10,88 				
+Pedreiro	H	 R$ 9,14 	5,550	 R$ 50,72 		 R$ 10,88 				
+Ajudante	H	 R$ 6,15 	6,633	 R$ 40,78 		 R$ 7,32 				
+			Total s/ Taxas(Unit.):	518,91						
+		 LS(%):148,42 	Valor LS:	 R$ 211,10 						
+		BDI(%):25,22	Valor BDI:	184,11						
+			Valor Total c/ Taxas:	 R$ 914,11 						
+										
+Banco em madeira de lei c = 1,8m, l = 0,4m e h = 0,4m	m									
+Madeira de lei aparelhada	m²	 R$ 204,54 	0,539	 R$ 110,25 		 R$ 243,50 				
+"Prego com cabeça 2.1/2"" x 10"""	Kg	 R$ 8,40 	1,100	 R$ 9,24 		 R$ 10,00 				
+Verniz poliuretano sobre madeiramento	l	 R$ 12,89 	0,700	 R$ 9,03 		 R$ 15,35 				
+Carpinteiro	H	 R$ 9,14 	0,350	 R$ 3,20 		 R$ 10,88 				
+Servente	H	 R$ 6,15 	0,350	 R$ 2,15 		 R$ 7,32 				
+			Total s/ Taxas(Unit.):	133,86						
+		 LS(%):148,42 	Valor LS:	 R$ 7,94 						
+		BDI(%):25,22	Valor BDI:	35,76						
+			Valor Total c/ Taxas:	 R$ 177,57 						
+										
+Bancada de mármore E = 3cm, polido com furo para cuba	m²									
+Bancada de mármore E = 3cm, polido com furo para cuba	m²	 R$ 350,52 	0,980	 R$ 343,51 		 R$ 417,30 				
+Areia lavada tipo média	m³	 R$ 33,60 	0,760	 R$ 25,54 		 R$ 40,00 				
+Cimento Portland CP II-E-32	SC	 R$ 27,72 	0,777	 R$ 21,53 		 R$ 33,00 				
+Pedreiro	H	 R$ 9,14 	0,780	 R$ 7,13 		 R$ 10,88 				
+Servente	H	 R$ 6,15 	0,850	 R$ 5,23 		 R$ 7,32 				
+			Total s/ Taxas(Unit.):	402,93						
+		 LS(%):148,42 	Valor LS:	 R$ 18,34 						
+		BDI(%):25,22	Valor BDI:	106,24						
+			Valor Total c/ Taxas:	 R$ 527,52 						
+										
+Lavatório s/ coluna (incl. torn., sifão e válvula) - PNE	und									
+Lavatório s/ coluna - PNE	und	 R$ 222,09 	0,840	 R$ 186,56 		 R$ 264,40 				
+Fita de vedação para tubos e conexões rosqueáveis	und	 R$ 2,28 	0,800	 R$ 1,83 		 R$ 2,72 				
+"Sifão metálico para lavatório 1.1/2"""	und	 R$ 30,83 	1,300	 R$ 40,08 		 R$ 36,70 				
+Válvula de escoamento metálica para lavatório 1'	und	 R$ 13,73 	1,410	 R$ 19,36 		 R$ 16,35 				
+Engate flexível de PVC para entrada de água 30cm	und	 R$ 3,63 	0,860	 R$ 3,12 		 R$ 4,32 				
+"Torneira metálica p/ lavatório 1/2"""	und	 R$ 22,33 	1,102	 R$ 24,59 		 R$ 26,58 				
+"Parafuso cromado 2.1/2"" "	und	 R$ 3,19 	0,895	 R$ 2,86 		 R$ 3,80 				
+Encanador	H	 R$ 9,14 	2,350	 R$ 21,48 		 R$ 10,88 				
+Ajudante	H	 R$ 6,15 	2,350	 R$ 14,45 		 R$ 7,32 				
+			Total s/ Taxas(Unit.):	314,32						
+		 LS(%):148,42 	Valor LS:	 R$ 53,32 						
+		BDI(%):25,22	Valor BDI:	92,72						
+			Valor Total c/ Taxas:	 R$ 460,36 						
+										
+Bacia sifonada - PNE	und									
+Bacia sifonada - PNE	und	 R$ 371,36 	0,881	 R$ 327,16 		 R$ 442,10 				
+Bolsa de ligação de borracha p/ vaso sanitário	und	 R$ 2,69 	4,300	 R$ 11,56 		 R$ 3,20 				
+Assento plástico p/ bacia sanitária - PNE	und	 R$ 27,11 	2,200	 R$ 59,63 		 R$ 32,27 				
+Vedação PVC 100mm p/ saída de vaso sanitário	und	 R$ 6,13 	2,800	 R$ 17,17 		 R$ 7,30 				
+"Parafuso cromada 2.1/2"""	und	 R$ 3,19 	4,100	 R$ 13,09 		 R$ 3,80 				
+Bucha de fixação 8mm	und	 R$ 0,15 	3,300	 R$ 0,50 		 R$ 0,18 				
+Joelho 90º PVC esgoto 	und	 R$ 5,19 	2,900	 R$ 15,05 		 R$ 6,18 				
+Pedreiro	H	 R$ 9,14 	4,350	 R$ 39,75 		 R$ 10,88 				
+Ajudante	H	 R$ 6,15 	4,350	 R$ 26,75 		 R$ 7,32 				
+			Total s/ Taxas(Unit.):	510,67						
+		 LS(%):148,42 	Valor LS:	 R$ 98,70 						
+		BDI(%):25,22	Valor BDI:	153,68						
+			Valor Total c/ Taxas:	 R$ 763,05 						
+										
+Barra lisa c/ argamassa de cimeto, areia e barro (para pontos de bicicleta)	m²									
+Barra lisa para pontos de bicicleta	m²	 R$ 30,74 	0,200	 R$ 6,15 		 R$ 36,60 				
+Areia lavada tipo média	m³	 R$ 33,60 	0,120	 R$ 4,03 		 R$ 40,00 				
+Cimento Portland CP II-E-32	SC	 R$ 27,72 	0,120	 R$ 3,33 		 R$ 33,00 				
+Barro	m³	 R$ 14,78 	0,198	 R$ 2,93 		 R$ 17,60 				
+Pedreiro	H	 R$ 9,14 	0,150	 R$ 1,37 		 R$ 10,88 				
+Servente	H	 R$ 6,15 	0,150	 R$ 0,92 		 R$ 7,32 				
+			Total s/ Taxas(Unit.):	18,73						
+		 LS(%):148,42 	Valor LS:	 R$ 3,40 						
+		BDI(%):25,22	Valor BDI:	5,58						
+			Valor Total c/ Taxas:	 R$ 27,72 						
+										
+PVA sobre muro	m²									
+Tinta látex PVA	l	 R$ 8,19 	0,191	 R$ 1,56 		 R$ 9,75 				
+Lixa para superfície massa / grana 100	und	 R$ 0,40 	0,350	 R$ 0,14 		 R$ 0,48 				
+Pintor	H	 R$ 9,14 	0,060	 R$ 0,55 		 R$ 10,88 				1141536
+Ajudante	H	 R$ 6,15 	0,060	 R$ 0,37 		 R$ 7,32 				
+			Total s/ Taxas(Unit.):	2,62						
+		 LS(%):148,42 	Valor LS:	 R$ 1,36 						
+		BDI(%):25,22	Valor BDI:	1,00						
+			Valor Total c/ Taxas:	 R$ 4,99 						
+										
+Esmalte sobre madeira com massa e selador	m²									
+Esmalte sintético para madeiras	gl	 R$ 58,04 	0,150	 R$ 8,71 		 R$ 69,10 				
+Fundo branco niveiador para madeira	gl	 R$ 31,75 	0,130	 R$ 4,13 		 R$ 37,80 				
+Aguarras mineral	l	 R$ 7,00 	0,100	 R$ 0,70 		 R$ 8,33 				
+Lixa para madeira grana 100	und	 R$ 0,40 	0,135	 R$ 0,05 		 R$ 0,48 				
+Eletricista	H	 R$ 9,14 	0,120	 R$ 1,10 		 R$ 10,88 				
+Servente	H	 R$ 6,15 	0,120	 R$ 0,74 		 R$ 7,32 				
+			Total s/ Taxas(Unit.):	15,42						
+		 LS(%):148,42 	Valor LS:	 R$ 2,72 						
+		BDI(%):25,22	Valor BDI:	4,58						
+			Valor Total c/ Taxas:	 R$ 22,72 						
+										
+Acrílica fosca int./ext. c/ massa e selador - 3 demãos	unid									
+Tinta acrílica 18L	l	 R$ 10,44 	0,700	 R$ 7,31 		 R$ 12,43 				
+Pintor	H	 R$ 9,14 	0,310	 R$ 2,83 		 R$ 10,88 				
+Ajudante	H	 R$ 6,15 	0,318	 R$ 1,95 		 R$ 7,32 				
+			Total s/ Taxas(Unit.):	12,09						
+		 LS(%):148,42 	Valor LS:	 R$ 7,10 						
+		BDI(%):25,22	Valor BDI:	4,84						
+			Valor Total c/ Taxas:	 R$ 24,05 

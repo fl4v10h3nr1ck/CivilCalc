@@ -1,0 +1,378 @@
+﻿	COMPOSIÇÕES UNITÁRIAS														
+															
+															
+															
+		P													
+EMPREENDIMENTO			OBRA												
+Comunidade JARDIM JADER BARBALHO			ESCRITÓRIO DE FISCALIZAÇÃO - 75 m²												
+LOCALIZAÇÃO					DATA	SINAPI									
+BR-316, ESTRADA DO AURÁ - ANANINDEUA-PA					DEZ/2014	JAN/2013									
+															
+COMPOSIÇÃO 01	PAREDE EM TÁBUA FORTE					m²									
+COD SINAPI    	ITEM	DISCRIMINAÇÃO	UND	QUANT	VALOR UNIT. (R$)	VALOR PARCIAL R$									
+															
+88261	1	Carpinteiro c/ encargos complementares	h	 0,500000 	 13,63 	6,82									
+88316	2	Servente c/ encargos complementares	h	 0,500000 	 11,02 	5,51									
+5064	3	Pregos Tamanhos Diversos	Kg	 0,040000 	 7,50 	0,30									
+cotação	4	"Pernamanca em Mad. de Lei 3"" X 2"" - 4,00 m"	dz	 0,046000 	 181,24 	8,34									
+cotação	5	Tábua Forte	dz	 0,160000 	 75,00 	12,00									
+															
+															
+VALOR TOTAL (S/ BDI)						 32,97 									
+BDI 25%						 8,24 									
+VALOR TOTAL (C/ BDI)						 41,21 									
+															
+															
+		P													
+COMPOSIÇÃO 02	PORTA EM MADEIRA NÃO INDUSTRIALIZADA 0,80 X 2,10 M					und									
+COD SINAPI    	ITEM	DISCRIMINAÇÃO	UND	QUANT	VALOR UNIT. (R$)	VALOR PARCIAL R$									
+															
+88261	1	Carpinteiro c/ encargos complementares	h	 0,840000 	 13,63 	11,45									
+88316	2	Servente c/ encargos complementares	h	 0,840000 	 11,02 	9,26									
+5064	3	Pregos Tamanhos Diversos	Kg	 0,067200 	 7,50 	0,50									
+cotação	4	"Pernamanca em Mad. de Lei 3"" X 2"" - 4,00 m"	dz	 0,050000 	 181,24 	9,06									
+2433	5	"Dobradiça 3"" x 2.1/2"" c/ Parafuso"	und	 3,000000 	 2,40 	7,20									
+cotação	6	"Tábua Macheada 3/4"" X 6"" X 3,5 m"	dz	 0,268800 	 75,00 	20,16									
+11473	7	Fechadura Externa Comum	und	 1,000000 	 35,18 	35,18									
+															
+															
+VALOR TOTAL (S/ BDI)						 92,81 									
+BDI 25%						 23,20 									
+VALOR TOTAL (C/ BDI)						 116,01 									
+															
+															
+															
+COMPOSIÇÃO 03	PORTA EM MADEIRA NÃO INDUSTRIALIZADA 0,70 X 2,10 M					und									
+COD SINAPI    	ITEM	DISCRIMINAÇÃO	UND	QUANT	VALOR UNIT. (R$)	VALOR PARCIAL R$									
+															
+88261	1	Carpinteiro c/ encargos complementares	h	 0,840000 	 13,63 	11,45									
+88316	2	Servente c/ encargos complementares	h	 0,840000 	 11,02 	9,26									
+5064	3	Pregos Tamanhos Diversos	Kg	 0,067200 	 7,50 	0,50									
+cotação	4	"Pernamanca em Mad. de Lei 3"" X 2"" - 4,00 m"	dz	 0,050000 	 181,24 	9,06									
+2433	5	"Dobradiça 3"" x 2.1/2"" c/ Parafuso"	und	 3,000000 	 2,40 	7,20									
+cotação	6	"Tábua Macheada 3/4"" X 6"" X 3,5 m"	dz	 0,235200 	 95,00 	22,34									
+11473	7	Fechadura Externa Comum	und	 1,000000 	 35,18 	35,18									
+															
+															
+VALOR TOTAL (S/ BDI)						 94,99 									
+BDI 25%						 23,75 									
+VALOR TOTAL (C/ BDI)						 118,74 									
+															
+															
+															
+															
+															
+COMPOSIÇÃO 04	PORTA EM MADEIRA NÃO INDUSTRIALIZADA 0,60 X 2,10 M					und									
+COD SINAPI    	ITEM	DISCRIMINAÇÃO	UND	QUANT	VALOR UNIT. (R$)	VALOR PARCIAL R$									
+															
+88261	1	Carpinteiro c/ encargos complementares	h	 0,630000 	 13,63 	8,59									
+88316	2	Servente c/ encargos complementares	h	 0,630000 	 11,02 	6,94									
+5064	3	Pregos Tamanhos Diversos	Kg	 0,050000 	 7,50 	0,38									
+cotação	4	"Pernamanca em Mad. de Lei 3"" X 2"" - 4,00 m"	dz	 0,037500 	 181,24 	6,80									
+2433	5	"Dobradiça 3"" x 2.1/2"" c/ Parafuso"	und	 3,000000 	 2,40 	7,20									
+cotação	6	"Tábua Macheada 3/4"" X 6"" X 3,5 m"	dz	 0,201600 	 95,00 	19,15									
+11473	7	Fechadura Externa Comum	und	 1,000000 	 35,18 	35,18									
+															
+VALOR TOTAL (S/ BDI)						 84,24 									
+BDI 25%						 21,06 									
+VALOR TOTAL (C/ BDI)						 105,30 									
+															
+															
+COMPOSIÇÃO 05	JANELA EM MADEIRA NÃO INDUSTRIALIZADA 1,50 X 1,20 M					und									
+COD SINAPI    	ITEM	DISCRIMINAÇÃO	UND	QUANT	VALOR UNIT. (R$)	VALOR PARCIAL R$									
+															
+88261	1	Carpinteiro c/ encargos complementares	h	 0,900000 	 13,63 	12,27									
+88316	2	Servente c/ encargos complementares	h	 0,900000 	 11,02 	9,92									
+5064	3	Pregos Tamanhos Diversos	Kg	 0,072000 	 7,50 	0,54									
+cotação	4	"Pernamanca em Mad. de Lei 3"" X 2"" - 4,00 m"	dz	 0,042000 	 181,24 	7,61									
+2433	5	"Dobradiça 3"" x 2.1/2"" c/ Parafuso"	und	 4,000000 	 2,40 	9,60									
+cotação	6	"Tábua Macheada 3/4"" X 6"" X 3,5 m"	dz	 0,288000 	 75,00 	21,60									
+3122	7	"Ferrolho 4"""	und	 1,000000 	 5,26 	5,26									
+															
+VALOR TOTAL (S/ BDI)						 66,80 									
+BDI 25%						 16,70 									
+VALOR TOTAL (C/ BDI)						 83,50 									
+															
+															
+COMPOSIÇÃO 06	BALANCIM EM MADEIRA NÃO INDUSTRIALIZADA 0,60 X 0,50 M					und									
+COD SINAPI    	ITEM	DISCRIMINAÇÃO	UND	QUANT	VALOR UNIT. (R$)	VALOR PARCIAL R$									
+															
+88261	1	Carpinteiro c/ encargos complementares	h	 0,900000 	 13,63 	12,27									
+88316	2	Servente c/ encargos complementares	h	 0,900000 	 11,02 	9,92									
+5064	3	Pregos Tamanhos Diversos	Kg	 0,072000 	 7,50 	0,54									
+cotação	4	"Pernamanca em Mad. de Lei 3"" X 2"" - 4,00 m"	dz	 0,042000 	 181,24 	7,61									
+11462	5	Pivo Metálico	und	 1,000000 	 14,37 	14,37									
+cotação	6	"Tábua Macheada 3/4"" X 6"" X 3,5 m"	dz	 0,048000 	 95,00 	4,56									
+3119	7	"Ferrolho 2"""	und	 1,000000 	 1,41 	1,41									
+															
+VALOR TOTAL (S/ BDI)						 50,68 									
+BDI 25%						 12,67 									
+VALOR TOTAL (C/ BDI)						 63,35 									
+															
+															
+COMPOSIÇÃO 07	"TOMADA SIMPLES C/ PLACA 4""X2"" DE SOBREPOR"					und									
+COD SINAPI    	ITEM	DISCRIMINAÇÃO	UND	QUANT	VALOR UNIT. (R$)	VALOR PARCIAL R$									
+															
+88264	1	Eletricista c/ encargos complementares	h	 0,110000 	 13,77 	1,51									
+88316	2	Servente c/ encargos complementares	h	 0,110000 	 11,02 	1,21									
+12147	4	Tomada Sobrepor 2P Universal 10A/250V	und	 1,000000 	 7,57 	7,57									
+															
+VALOR TOTAL (S/ BDI)						 10,29 									
+BDI 25%						 2,57 									
+VALOR TOTAL (C/ BDI)						 12,86 									
+															
+COMPOSIÇÃO 08	INTERRUPTOR  DE SOBREPOR 1 TECLA					und									
+COD SINAPI    	ITEM	DISCRIMINAÇÃO	UND	QUANT	VALOR UNIT. (R$)	VALOR PARCIAL R$									
+															
+88264	1	Eletricista c/ encargos complementares	h	 0,050000 	 13,77 	0,69									
+88316	2	Servente c/ encargos complementares	h	 0,050000 	 11,02 	0,55									
+12128	4	Interruptor de Sobrepor 1 Tecla Simples	und	 1,000000 	 3,34 	3,34									
+															
+															
+VALOR TOTAL (S/ BDI)						 4,58 									
+BDI 25%						 1,15 									
+VALOR TOTAL (C/ BDI)						 5,73 									
+															
+															
+															
+COMPOSIÇÃO 09	INTERRUPTOR  DE SOBREPOR 2 TECLAS					und									
+COD SINAPI    	ITEM	DISCRIMINAÇÃO	UND	QUANT	VALOR UNIT. (R$)	VALOR PARCIAL R$									
+															
+88264	1	Eletricista c/ encargos complementares	h	 0,090000 	 13,77 	1,24									
+88316	2	Servente c/ encargos complementares	h	 0,090000 	 11,02 	0,99									
+12129	4	Interruptor de Sobrepor 2 Teclas Simples	und	 1,000000 	 5,99 	5,99									
+															
+															
+VALOR TOTAL (S/ BDI)						 8,22 									
+BDI 25%						 2,06 									
+VALOR TOTAL (C/ BDI)						 10,28 									
+															
+															
+															
+COMPOSIÇÃO 10	CAIXA D'ÁGUA DE FIBRA DE VIDRO CAPACIDADE 500 LITROS					und									
+COD SINAPI    	ITEM	DISCRIMINAÇÃO	UND	QUANT	VALOR UNIT. (R$)	VALOR PARCIAL R$									
+															
+88267	1	Encanador Hidráulico c/ encargos complementares	h	7,7000000 	 13,77 	106,03									
+4433	2	Peça de Madeira de Lei 1ª Qualid. 7,5x7,5 cm	m	5,0000000 	 7,49 	37,45									
+88248	3	Ajudante de Encanador	h	7,7000000 	 11,31 	87,09									
+11871	4	Caixa d'Água de Fibra de Vidro 500 Litros	und	1,0000000 	 175,40 	175,40									
+3255	6	"Flange PVC c/ Rosca Sextavado S/ Furos 3/4"""	und	2,0000000 	 3,47 	6,94									
+3251	7	"Flange PVC c/ Rosca Sextavado S/ Furos 1/2"""	und	2,0000000 	 2,61 	5,22									
+3259	8	"Flange PVC c/ Rosca Sextavado S/ Furos 1.1/2"""	und	4,0000000 	 6,46 	25,84									
+															
+															
+VALOR TOTAL (S/ BDI)						 443,97 									
+BDI 25%						 110,99 									
+VALOR TOTAL (C/ BDI)						 554,96 									
+															
+															
+COMPOSIÇÃO 11	JUNÇÃO PVC 45° ESG. Ø 40 MM					und									
+COD SINAPI    	ITEM	DISCRIMINAÇÃO	UND	QUANT	VALOR UNIT. (R$)	VALOR PARCIAL R$									
+															
+88267	1	Encanador Hidráulico c/ encargos complementares	h	0,2500000 	 13,77 	3,44									
+88248	3	Ajudante de Encanador	h	0,2500000 	 11,31 	2,83									
+3666	3	Junção PVC 45° Esg. Ø 40 mm	und	1,0000000 	 1,48 	1,48									
+122	4	Adesivo PVC Frasco c/ 850 g	und	0,0141000 	 33,34 	0,47									
+20083	6	Solução Limpadora Frasco Plástico c/ 1000 cm³	und	0,0020000 	 39,49 	0,08									
+															
+															
+VALOR TOTAL (S/ BDI)						 8,30 									
+BDI 25%						 2,08 									
+VALOR TOTAL (C/ BDI)						 10,38 									
+															
+COMPOSIÇÃO 12	"ENGATE PLÁSTICO ½"" x 0,40 M"					und									
+COD SINAPI    	ITEM	DISCRIMINAÇÃO	UND	QUANT	VALOR UNIT. (R$)	VALOR PARCIAL R$									
+															
+88267	1	Encanador Hidráulico c/ encargos complementares	h	0,1000000 	 13,77 	1,38									
+11681	2	"Engate Plástico ½"" x 0,40 m"	und	1,0000000 	 6,16 	6,16									
+3148	3	Fita Veda Rosca em Rolos 18mm x 50m	und	0,0030000 	 9,60 	0,03									
+															
+															
+VALOR TOTAL (S/ BDI)						 7,57 									
+BDI 25%						 1,89 									
+VALOR TOTAL (C/ BDI)						 9,46 									
+															
+															
+															
+COMPOSIÇÃO 13	FOSSA SÉPTICA DE CONCRETO PRÉ-MOLDADO PARA 5 CONTRIBUINTES (FORNECIMENTO, ESCAVAÇÃO E REATERRO)					und									
+COD SINAPI    	ITEM	DISCRIMINAÇÃO	UND	QUANT	VALOR UNIT. (R$)	VALOR PARCIAL R$									
+															
+73965/011	1	Escavação Manual	m³	4,5780000 	 49,60 	227,07									
+73964/006	2	Reaterro Manual	m³	2,5430000 	 33,06 	84,07									
+12551	3	Anel de Concreto Armado D=1200mm	und	3,0000000 	 127,97 	383,91									
+COMP. 18	4	Concreto Armado Fck=18 Mpa, incl. Lançamento	m³	0,1480510 	 1.305,28 	193,25									
+7091	5	Te PVC 90º JE BBP DN 100 mm	und	2,0000000 	 12,75 	25,50									
+74165/004	6	Tubo PVC Esg. Ø 100 mm	m³	2,0000000 	 32,32 	64,64									
+															
+															
+VALOR TOTAL (S/ BDI)						 978,44 									
+BDI 25%						 244,61 									
+VALOR TOTAL (C/ BDI)						 1.223,05 									
+															
+															
+COMPOSIÇÃO 14	SUMIDOURO DE CONCRETO PRÉ-MOLDADO COMPLETO PARA 5 CONTRIBUINTES (FORNECIMENTO, ESCAVAÇÃO E REATERRO)					und									
+COD SINAPI    	ITEM	DISCRIMINAÇÃO	UND	QUANT	VALOR UNIT. (R$)	VALOR PARCIAL R$									
+															
+73965/011	1	Escavação Manual	m³	4,5780000 	 49,60 	227,07									
+73964/006	2	Reaterro Manual	m³	3,2220000 	 33,06 	106,52									
+12551	3	Anel de Concreto Armado D=1200mm	und	2,0000000 	 127,97 	255,94									
+4734	4	Seixo Rolado	m³	0,1326650 	 126,66 	16,80									
+COMP. 18	5	Concreto Armado Fck=18 Mpa, incl. Lançamento	m³	0,0817190 	 1.305,28 	106,67									
+72459	6	Te PVC 90º JE BBP DN 100 mm	und	1,0000000 	 12,75 	12,75									
+74165/004	7	Tubo PVC Esg. Ø 100 mm	m³	1,0000000 	 32,32 	32,32									
+															
+															
+VALOR TOTAL (S/ BDI)						 758,07 									
+BDI 25%						 189,52 									
+VALOR TOTAL (C/ BDI)						 947,59 									
+															
+															
+COMPOSIÇÃO 15	CAMADA IMPERMEABILIZADORA 0,10 M COM PEDRA PRETA					m²									
+COD SINAPI    	ITEM	DISCRIMINAÇÃO	UND	QUANT	VALOR UNIT. (R$)	VALOR PARCIAL R$									
+															
+73361	1	Concreto Ciclópico	m³	0,1000000 	 379,51 	37,95									
+															
+															
+VALOR TOTAL (S/ BDI)						 37,95 									
+BDI 20%						 7,59 									
+VALOR TOTAL (C/ BDI)						 45,54 									
+															
+COMP. 16	CALÇADA DE PROTEÇÃO						M2								
+COD SINAPI  DEZ/2014	ITEM	DISCRIMINAÇÃO		UND	QUANT	VALOR UNITÁRIO R$	VALOR PARCIAL R$								
+SERVIÇOS															
+73965/010	01.01	ESCAVAÇÃO MANUAL		 M3 	 0,0450 	 38,58 	 1,74 								
+73904/001	01.02	ATERRO COMPACTADO MANUALMENTE		 M3 	 0,0580 	 69,09 	 4,01 								
+73361	01.03	FUNDAÇÃO CORRIDA EM PEDRA PRETA 		 M3 	 0,0450 	 379,51 	 17,08 								
+COMP. 60	01.04	ALVENARIA DE 0,10 M 		 M2 	 0,2500 	 38,95 	 9,74 								
+COMP. 35	01.05	CAMADA IMPERMEABILIZADORA		 M2 	 1,0000 	 47,44 	 47,44 								
+73922/002	01.06	CIMENTADO LISO DESEMPENADO		 M2 	 1,0000 	 35,25 	 35,25 								
+															
+															
+VALOR TOTAL (S/ BDI)							 115,26 								
+BDI 25%							 28,82 								
+VALOR TOTAL (C/ BDI)							 144,08 								
+															
+															
+															
+COMPOSIÇÃO 17	RALO SIFONADO 					UND									
+COD SINAPI  	ITEM	DISCRIMINAÇÃO	UND	QUANT	VALOR UNITÁRIO R$	VALOR PARCIAL R$									
+															
+88267	1	Encanador Hidráulico c/ encargos complementares	 H 	 0,1200 	 13,77 	 1,65 									
+11741	2	RALO SIFONADO CILIND. - 100 x 40 MM C/ GRELHA	 UND 	 1,0000 	 4,81 	 4,81 									
+															
+															
+VALOR TOTAL (S/ BDI)						 6,46 									
+BDI 25%						 1,62 									
+VALOR TOTAL (C/ BDI)						 8,08 									
+															
+															
+COMPOSIÇÃO 18	CONCRETO ARMADO FCK= 18 Mpa					und	SINAPI								
+COD SINAPI    	ITEM	DISCRIMINAÇÃO	UND	QUANT	VALOR UNIT. (R$)	VALOR PARCIAL R$									
+															
+27	01	"AÇO CA-50 5/8"""	KG	55,0000 	 3,27 	179,85									
+33	02	"AÇO CA-60 5/16"""	KG	22,0000 	 3,50 	77,00									
+242	03	AJUDANTE ESPECIALIZADO	H	7,0000 	 10,92 	76,44									
+337	04	ARAME RECOZIDO	KG	2,5000 	 6,00 	15,00									
+370	05	AREIA MÉDIA	M³	0,6139 	 60,00 	36,83									
+378	06	ARMADOR	H	 7,0000 	 10,04 	70,28									
+643	07	BETONEIRA 320L DIESEL 5,5HP 	H	0,6500 	 5,40 	3,51									
+1213	08	CARPINTEIRO	H	17,5500 	 10,04 	176,20									
+1357	09	CHAPA DE MADEIRA COMPENSADA	UND.	1,1405 	 36,36 	41,47									
+1379	10	CIMENTO	KG	369,6000 	 0,58 	214,37									
+2692	11	DESMOLDANTE PARA FORMA DE MADEIRA	L	1,2000 	 8,95 	10,74									
+4006	12	MADEIRA PINHO SERRADA NAO APARELHADA	M³	0,1200 	 419,91 	50,39									
+4718	13	PEDRA BRITADA	M³	0,8780 	 85,00 	74,63									
+4750	14	PEDREIRO	H	4,6400 	 10,04 	46,59									
+5061	15	PREGO	KG	2,5200 	 5,90 	14,87									
+6111	16	SERVENTE	H	10,9200 	 7,25 	79,17									
+6117	17	AJUDANTE DE CARPINTEIRO	H	17,5500 	 7,86 	137,94									
+															
+															
+VALOR TOTAL (S/ BDI)						 1.305,28 									
+BDI 25%						 326,32 									
+VALOR TOTAL (C/ BDI)						 1.631,60 									
+															
+COMP. 19	"JOELHO 90° 20 MM X 1/2"" "						UND								
+COD SINAPI  DEZ/2014	ITEM	DISCRIMINAÇÃO		UND	QUANT	VALOR UNITÁRIO R$	VALOR PARCIAL R$								
+MÃO DE OBRA															
+88267	01.01	ENCANADOR C/ ENCARGOS COMPLEMENTARES		H	 0,1800 	 13,77 	 2,48 								
+88316	01.02	SERVENTE C/ ENCARGOS COMPLEMENTARES		H	 0,1800 	 11,02 	 1,98 								
+															
+3521	02.01	"JOELHO 90° 20 MM X 1/2"""		 UND 	 1,0000 	 0,67 	 0,67 								
+122	02.02	ADESIVO PVC		 KG 	 0,0060 	 39,22 	 0,24 								
+3146	02.01	FITA VEDA ROSCA		 M 	 0,0240 	 0,22 	 0,01 								
+															
+															
+VALOR TOTAL (S/ BDI)							 5,38 								
+BDI 25%							 1,35 								
+VALOR TOTAL (C/ BDI)							 6,73 								
+															
+COMP. 20	JOELHO 90° 25 MM X 20 MM 						UND								
+COD SINAPI  DEZ/2014	ITEM	DISCRIMINAÇÃO		UND	QUANT	VALOR UNITÁRIO R$	VALOR PARCIAL R$								
+MÃO DE OBRA															
+88267	01.01	ENCANADOR C/ ENCARGOS COMPLEMENTARES		H	 0,1800 	 13,77 	 2,48 								
+88316	01.02	SERVENTE C/ ENCARGOS COMPLEMENTARES		H	 0,1800 	 11,02 	 1,98 								
+															
+3533	02.01	JOELHO 90° 25 MM X 20 MM		 UND 	 1,0000 	 0,88 	 0,88 								
+122	02.02	ADESIVO PVC		 KG 	 0,0060 	 39,22 	 0,24 								
+3146	02.01	FITA VEDA ROSCA		 M 	 0,0240 	 0,22 	 0,01 								
+															
+															
+VALOR TOTAL (S/ BDI)							 5,59 								
+BDI 25%							 1,40 								
+VALOR TOTAL (C/ BDI)							 6,99 								
+															
+COMP. 21	TORNEIRA DE PRESSÃO PVC PARA PIA						 M3 								
+COD SINAPI  DEZ/2014	ITEM	DISCRIMINAÇÃO		UND	QUANT	VALOR UNITÁRIO	 VALOR PARCIAL 								
+							 -   								
+88267	01.01	ENCANADOR COM ENCARGOS COMPLEMENTARES		H	 0,5000 	 13,77 	 6,89 								
+88248	01.02	AJUDANTE DE ENCANADOR		H	 0,5000 	 11,31 	 5,66 								
+3146	01.03	FITA VEDA ROSCA 		UND	 0,0500 	 2,20 	 0,11 								
+11822	01.04	TORNEIRA PVC PARA PIA		UND	 1,0000 	 7,90 	 7,90 								
+															
+															
+VALOR TOTAL (S/ BDI)							 20,56 								
+BDI 25%							 5,14 								
+VALOR TOTAL (C/ BDI)							 25,70 								
+															
+COMP. 22	CAIXA DE DESCARGA DE SOBREPOR COM PARAFUSO						 M3 								
+COD SINAPI  DEZ/2014	ITEM	DISCRIMINAÇÃO		UND	QUANT	VALOR UNITÁRIO	 VALOR PARCIAL 								
+							 -   								
+395	01.01	"ABRAÇADEIRA TIPO D 11/4"""		UND	 2,0000 	 1,12 	 2,24 								
+1030	01.02	CAIXA DE DESCARGA PLASTICA EXTERNA		UND	 1,0000 	 22,15 	 22,15 								
+88267	01.03	ENCANADOR COM ENCARGOS COMPLEMENTARES		H	 1,4500 	 13,77 	 19,97 								
+88248	01.04	AJUDANTE COM ENCARGOS COMPLEMENTARES		H	 1,4500 	 11,31 	 16,40 								
+6140	01.05	BOLSA DE LIGAÇÃO EM PVC FLEXIVEL		UND	 1,0000 	 1,93 	 1,93 								
+7583	01.06	BUCHA DE NILON S-8 COM PARAFUSO		UND	 4,0000 	 0,40 	 1,60 								
+							 -   								
+															
+VALOR TOTAL (S/ BDI)							 64,29 								
+BDI 25%							 16,07 								
+VALOR TOTAL (C/ BDI)							 80,36 								
+															
+COMP. 23	PIA EM MARMORITE						M2								
+COD SINAPI  DEZ/2014	ITEM	DISCRIMINAÇÃO		UND	QUANT	VALOR UNITÁRIO R$	VALOR PARCIAL R$								
+															
+6022	01.01	ARGAMASSA CIMENTO: AREIA 1:2		 M3 	 0,0050 	 501,36 	 2,51 								
+COTAÇÃO	01.02	PIA EM MARMORITE	un	 UM 	 1,0000 	 94,55 	 94,55 								
+1380	01.03	CIMENTO BRANCO		 KG 	 1,1000 	 3,76 	 4,14 								
+88267	01.01	ENCANADOR C/ ENCARGOS COMPLEMENTARES		H	 1,0000 	 13,77 	 13,77 								
+88316	01.05	SERVENTE COM ENCARGOS COMPLEMENTARES		 H 	 1,0000 	 11,02 	 11,02 								
+															
+															
+VALOR TOTAL (S/ BDI)							 125,99 								
+BDI 25%							 31,50 								
+VALOR TOTAL (C/ BDI)							 157,49 								
+															
+COMP. 24	TORNEIRA DE PRESSÃO PVC PARA LAVATORIO						 UND 								
+COD SINAPI  DEZ/2014	ITEM	DISCRIMINAÇÃO		UND	QUANT	VALOR UNITÁRIO	 VALOR PARCIAL 								
+							 -   								
+88267	01.01	ENCANADOR COM ENCARGOS COMPLEMENTARES		H	 0,5000 	 13,77 	 6,89 								
+88248	01.02	AJUDANTE DE ENCANADOR		H	 0,5000 	 11,31 	 5,66 								
+3146	01.03	FITA VEDA ROSCA 		UND	 0,0200 	 2,20 	 0,04 								
+11832	01.04	TORNEIRA PVC PARA LAVATORIO	un	UND	 1,0000 	 7,90 	 7,90 								
+															
+															
+VALOR TOTAL (S/ BDI)							 20,49 								
+BDI 25%							 5,12 								
+VALOR TOTAL (C/ BDI)							 25,61 								
